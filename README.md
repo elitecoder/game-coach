@@ -132,8 +132,15 @@ and the content-addressed caches mean the LLM work isn't paid for again:
 
 ```sh
 npx tsx ingest/cli.ts ingest memories-in-orbit --llm-sweep --verify   # downloads sources, extraction from cache
-yt-dlp -f 'bv*[height<=480]+ba/b[height<=480]/b' -a training/corpus-urls.txt -P training/corpus
+yt-dlp -f 'bv*[height<=480]+ba/b[height<=480]/b' --merge-output-format mp4 -o '%(id)s.%(ext)s' \
+  -a training/corpus-urls.txt -P training/corpus
+python3 training/verify_corpus.py   # IDENTICAL / SAME-STREAM / DIFFERENT per video
 ```
+
+`training/corpus-manifest.json` records each video's title, channel, YouTube format, duration,
+resolution and SHA-256, so a re-download can be checked against the exact files the labels came from.
+Checked on 2026-11-08: all 16 videos were still up, and a fresh download was byte-identical. Use a
+current yt-dlp: older versions get HTTP 403 from YouTube.
 
 Caveat: three Memories in Orbit text chunks and two Hollow Knight ones were never cached, so an
 offline rebuild produces slightly smaller graphs than the committed ones until those chunks are
