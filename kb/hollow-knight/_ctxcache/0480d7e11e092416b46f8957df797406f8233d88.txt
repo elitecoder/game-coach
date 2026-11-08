@@ -1,0 +1,1 @@
+This chunk concerns Hornet's mechanics and gameplay systems in Hollow Knight: Silksong, including her health system (Masks), Silk thread resource management, and special abilities like Bind.

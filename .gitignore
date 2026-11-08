@@ -2,17 +2,12 @@ node_modules/
 data/
 kb/*/_raw/
 kb/*/_keyframes/
-kb/*/_fragcache/
-kb/*/_sweepcache/
-kb/*/_verifycache/
-kb/*/_ctxcache/
 .env
 *.log
 .DS_Store
 kb/*/rag-index.json
 training/corpus/
 training/*.pt
-training/labels/
 .venv-train/
 training/label.err
 AMAZON_*.md

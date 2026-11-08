@@ -1,0 +1,1 @@
+This chunk describes the health and resource mechanics for Hornet, the protagonist of Hollow Knight: Silksong, covering her Masks (health), Silk (thread resource), and Needle weapon system.

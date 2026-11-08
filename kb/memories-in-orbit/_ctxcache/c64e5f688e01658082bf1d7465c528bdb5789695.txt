@@ -1,0 +1,1 @@
+This chunk concludes Tip 7 about unlocking fast travel by explaining an alternative method to warp back to the last network gate by exiting to the main menu and reloading the game, before transitioning to the final tip.

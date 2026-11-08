@@ -1,0 +1,1 @@
+This chunk is not present in the provided document. The document ends at timestamp 00:08:34,430, while the chunk references timestamps around 00:17:28,510, which falls outside the scope of the provided text.

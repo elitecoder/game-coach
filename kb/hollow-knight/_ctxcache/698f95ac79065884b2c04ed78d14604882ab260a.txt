@@ -1,0 +1,1 @@
+This chunk concerns navigating Mantis Village in the Fungal Waste area, specifically showing the player's location on the map while pursuing the Mantis Claw ability.

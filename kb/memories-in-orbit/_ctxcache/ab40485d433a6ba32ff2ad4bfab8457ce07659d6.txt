@@ -1,0 +1,1 @@
+This chunk appears in the website's navigation menu and does not relate to the MIO: Memories in Orbit boss guide itself; it represents repeated header/menu content showing links to other articles across the site's Coding and Gaming sections.

@@ -1,0 +1,1 @@
+This chunk concerns the initial navigation through Hollow Knight, specifically directing the player to an opening on the left wall of a vertical room where they must have the Vengeful Spirit ability to proceed past a hostile enemy blocking the path.

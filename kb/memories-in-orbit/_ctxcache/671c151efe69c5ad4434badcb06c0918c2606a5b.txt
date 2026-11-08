@@ -1,0 +1,1 @@
+This chunk is the introductory section of the MIO boss guide that provides an overview of all 19 bosses in the game (6 story and 13 optional) and explains the general purpose and structure of boss encounters in testing combat skills and the Allocation Matrix system.

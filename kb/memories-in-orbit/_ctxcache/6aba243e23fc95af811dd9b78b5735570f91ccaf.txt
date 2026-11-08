@@ -1,0 +1,1 @@
+This chunk is part of the "Resource Management" section of the Beginner Guide, explaining the two types of in-game currency (Liquid Nacre and Solid Nacre) and their critical differences regarding death penalties and resource preservation.

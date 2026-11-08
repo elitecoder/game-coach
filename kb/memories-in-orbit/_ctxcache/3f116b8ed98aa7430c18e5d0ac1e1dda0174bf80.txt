@@ -1,0 +1,1 @@
+This chunk discusses the mechanics of unlocking and updating the map in Mio Memories and Orbit, explaining that the map only updates when saving at network gates and that Shei won't accept crystallized naker as payment for map access.

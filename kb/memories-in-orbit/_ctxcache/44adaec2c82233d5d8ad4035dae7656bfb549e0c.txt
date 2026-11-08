@@ -1,0 +1,1 @@
+This chunk describes the Energy System mechanic in MIO: Memories in Orbit, explaining how energy functions as a stamina system for traversal abilities like gliding, grappling, and arachnid locomotion, along with methods to recover energy during platforming challenges.

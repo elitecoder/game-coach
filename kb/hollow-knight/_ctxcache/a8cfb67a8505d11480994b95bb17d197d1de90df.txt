@@ -1,0 +1,1 @@
+This chunk describes the mechanics of platforming in the Crystal Heart area of Crystal Peak, specifically how to interact with crystal platforms and their properties during the traversal challenge.

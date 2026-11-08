@@ -1,0 +1,1 @@
+This chunk is located in the "Allocation Matrix System" section of the Beginner's Guide, explaining the core mechanic of MIO that requires players to manage limited memory slots when deciding which abilities, modifications, and UI elements to equip.

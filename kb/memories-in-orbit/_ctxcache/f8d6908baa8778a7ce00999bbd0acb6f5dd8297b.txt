@@ -1,0 +1,1 @@
+This chunk is part of the "Resource Management" section of the Beginner's Guide, specifically addressing game mechanics related to health management and combat fairness, explaining how max health reduction works as a narrative mechanic and highlighting the game's no contact damage feature.

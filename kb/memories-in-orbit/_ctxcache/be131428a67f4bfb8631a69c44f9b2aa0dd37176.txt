@@ -1,0 +1,1 @@
+This chunk is located in the "Death & Learning" section near the end of the Beginner Guide, explaining the mechanics and consequences of player death in MIO, including respawning at Network Gates, resource loss, and how to learn from failures.

@@ -1,0 +1,1 @@
+This chunk covers core traversal and combat abilities in MIO, specifically the Hairpin Grapple and Aerial Combat & Jump Reset mechanics that are fundamental to navigation and movement throughout The Vessel.

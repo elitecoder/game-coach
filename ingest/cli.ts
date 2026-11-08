@@ -18,7 +18,7 @@ async function main() {
         "",
         "    <game>           name of a registry under ingest/sources/<game>.json",
         "    --no-extract     run acquire+segment+keyframes only (no API key needed)",
-        "    --per-segment=N  keyframes sampled per segment (default 3)",
+        "    --per-segment=N  keyframes sampled per segment (default 2; the committed caches were built with 2)",
         "    --max-sources=N  cap sources this run (default all)",
         "",
         "  extraction needs ANTHROPIC_API_KEY; everything else runs offline.",
@@ -29,7 +29,7 @@ async function main() {
 
   const summary = await ingestGame(game, {
     extract: !has("no-extract"),
-    perSegment: flag("per-segment") ? Number(flag("per-segment")) : 3,
+    perSegment: flag("per-segment") ? Number(flag("per-segment")) : 2,
     maxSources: flag("max-sources") ? Number(flag("max-sources")) : undefined,
     dropSingletons: has("drop-singletons"),
     llmSweep: has("llm-sweep"),

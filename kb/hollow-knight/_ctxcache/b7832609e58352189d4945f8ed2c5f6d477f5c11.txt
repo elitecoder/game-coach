@@ -1,0 +1,1 @@
+This chunk concerns gameplay mechanic differences between the Hollow Knight Beta and the release version, specifically comparing features like Focus time, Geo loss on death, invincibility frames, inventory/Charms system, map functionality, and mask mechanics.

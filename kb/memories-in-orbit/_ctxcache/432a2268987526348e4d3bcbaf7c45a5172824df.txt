@@ -1,0 +1,1 @@
+This chunk is part of the "Resource Management" section of the Beginner's Guide, explaining the Nacre currency system and the permanent max health reduction mechanic that occurs throughout the game's progression.

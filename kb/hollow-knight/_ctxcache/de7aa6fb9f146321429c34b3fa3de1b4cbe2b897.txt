@@ -1,0 +1,1 @@
+This chunk describes Hornet's health and resource management mechanics in Hollow Knight: Silksong, explaining how Masks represent health, Silk represents thread/abilities, and the Bind ability functions as a healing mechanism.

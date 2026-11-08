@@ -1,0 +1,1 @@
+This chunk discusses core movement and combat mechanics in MIO: Memories in Orbit, specifically covering the double jump, aerial combat system with jump reset, and the beginning of the arachnid locomotion section within the "Basic Controls & Movement" subsection of the Beginner's Guide.

@@ -1,0 +1,1 @@
+This chunk concerns navigation through Greenpath, describing the main path to follow through visible rooms when reaching the top section of that area.

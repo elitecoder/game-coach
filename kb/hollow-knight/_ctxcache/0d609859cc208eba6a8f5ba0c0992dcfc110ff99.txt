@@ -1,0 +1,1 @@
+This chunk describes the mechanics of the Crystal Heart ability in Hollow Knight, explaining how it propels the Knight forward after charging and what stops the dash.

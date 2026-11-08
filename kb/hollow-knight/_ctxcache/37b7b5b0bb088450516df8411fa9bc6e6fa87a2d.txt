@@ -1,0 +1,1 @@
+This chunk contains the main navigation menu for the Hollow Knight Wiki, appearing multiple times throughout the page to provide access to various wiki sections including general information, equipment, world locations, guides, and achievements.

@@ -1,0 +1,1 @@
+This chunk describes the health and silk mechanics for Hornet, the playable protagonist of Hollow Knight: Silksong, explaining how her Masks represent health and how her Silk thread resource is consumed and regenerated during gameplay.

@@ -1,0 +1,1 @@
+This chunk is part of the "Basic Controls & Movement" section of the Beginner's Guide, specifically covering the Orbs projectile attack ability, Decoy Clones ability, and the Energy System mechanic that governs stamina for movement abilities like gliding, grappling, and arachnid locomotion.

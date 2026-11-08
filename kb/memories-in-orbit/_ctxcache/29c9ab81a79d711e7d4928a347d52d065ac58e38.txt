@@ -1,0 +1,1 @@
+This chunk is located in the **Energy System and Resource Management sections** of the Beginner's Guide, explaining how platforming mechanics depend on energy management and introducing Liquid Nacre as the primary in-game currency used for purchasing upgrades and modifications at Network Gates.

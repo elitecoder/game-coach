@@ -1,0 +1,1 @@
+This chunk explains the energy system mechanics in MIO, which is a stamina mechanic required for performing movement abilities like gliding, grappling, and arachnid locomotion throughout the game.

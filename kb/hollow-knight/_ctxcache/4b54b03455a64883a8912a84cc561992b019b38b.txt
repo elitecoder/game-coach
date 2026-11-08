@@ -1,0 +1,1 @@
+This chunk concerns navigation directions for accessing the Crystal Heart in Crystal Peak, specifically instructing the player on which exits to take from the initial room to reach the item.

@@ -1,0 +1,1 @@
+This chunk concerns Hornet from Hollow Knight: Silksong, describing her health system (Masks), healing mechanics (Bind ability and Silk spool), and how her Needle weapon generates thread resources.

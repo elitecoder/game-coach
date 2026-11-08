@@ -1,0 +1,1 @@
+This chunk discusses core gameplay mechanics and systems in MIO, specifically covering the no contact damage feature and the unique map system that distinguishes the game from traditional Metroidvania titles.

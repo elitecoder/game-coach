@@ -1,0 +1,1 @@
+This chunk concerns Hornet's health and resource management systems in Hollow Knight: Silksong, describing how her Masks represent health, Silk represents thread/ability resources, and how these mechanics function during gameplay.

@@ -1,0 +1,1 @@
+This chunk covers the Upgrades system and currency management mechanics, explaining how to purchase upgrades at Network Gates using Nacre currency and the critical importance of converting liquid Nacre to permanent Solid Nacre to avoid losing resources upon death.

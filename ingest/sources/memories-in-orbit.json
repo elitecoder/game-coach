@@ -11,7 +11,7 @@
     { "id": "mio_slashskill_bosses", "kind": "text", "url": "https://www.slashskill.com/mio-memories-in-orbit-boss-guide-all-18-bosses-strategies/", "topic": "all bosses + strategies (second boss source)" },
     { "id": "mio_intoindie_part1", "kind": "text", "url": "https://intoindiegames.com/walkthroughs/mio-memories-in-orbit-walkthrough-part-1-the-beginning-the-severed-spine-dwellings/", "topic": "walkthrough part 1: opening areas" },
 
-    { "id": "mio_vid_walkthrough_1", "kind": "video", "query": "ytsearch1:Mio Memories in Orbit walkthrough part 1", "topic": "early game progression" },
-    { "id": "mio_vid_boss", "kind": "video", "query": "ytsearch1:Mio Memories in Orbit boss guide how to beat", "topic": "boss fights" }
+    { "id": "mio_vid_walkthrough_1", "kind": "video", "url": "https://www.youtube.com/watch?v=EY8OrfvBeXE", "topic": "early game progression" },
+    { "id": "mio_vid_boss", "kind": "video", "url": "https://www.youtube.com/watch?v=0JJ1VacXAUo", "topic": "boss fights" }
   ]
 }

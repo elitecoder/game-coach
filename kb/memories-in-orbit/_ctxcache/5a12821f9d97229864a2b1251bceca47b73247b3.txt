@@ -1,0 +1,1 @@
+This chunk discusses Network Gates as checkpoints/save points and the death mechanics in MIO, explaining what happens when you die, how respawning works, and resource loss upon death.

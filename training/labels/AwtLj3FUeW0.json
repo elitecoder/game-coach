@@ -1,0 +1,35 @@
+{
+  "dur_min": 602.0,
+  "frames": 36121,
+  "gameplay_frames": 25757,
+  "gameplay_pct": 71,
+  "hud_off": false,
+  "damage_events": 1031,
+  "deaths": 3,
+  "sample_damage": [
+    [
+      270.0,
+      1
+    ],
+    [
+      302.0,
+      1
+    ],
+    [
+      408.0,
+      1
+    ],
+    [
+      476.0,
+      1
+    ],
+    [
+      478.0,
+      1
+    ],
+    [
+      480.0,
+      1
+    ]
+  ]
+}

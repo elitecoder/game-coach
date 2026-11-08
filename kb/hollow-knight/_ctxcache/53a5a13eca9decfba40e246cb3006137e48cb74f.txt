@@ -1,0 +1,1 @@
+This chunk concerns navigation within Crystal Peak, specifically directing the player to locate a bench and describing the path to reach it using the middle left exit from a long room.

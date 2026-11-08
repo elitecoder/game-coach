@@ -1,0 +1,1 @@
+This chunk describes the mechanics of the Mafflin Cloak ability in Hollow Knight, explaining how the dash refreshes when landing on surfaces or bouncing off enemies with the nail.

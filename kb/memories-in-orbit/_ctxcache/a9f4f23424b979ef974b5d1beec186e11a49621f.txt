@@ -1,0 +1,1 @@
+This chunk is part of Tip #2, explaining how to use Crystallizer robots to convert collected Naker into crystallized form that won't be lost upon death, helping players safeguard resources for purchasing upgrades at Mel's shop.

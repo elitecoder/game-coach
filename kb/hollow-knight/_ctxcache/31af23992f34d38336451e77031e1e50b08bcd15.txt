@@ -1,0 +1,1 @@
+This chunk concerns navigation within Ancient Basin, specifically directing the player to a bench and save point in the area where Monarch Wings can be obtained.

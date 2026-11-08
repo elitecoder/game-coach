@@ -1,0 +1,1 @@
+This chunk describes the platforming mechanics within the Crystal Heart area in Crystal Peak, specifically how to interact with crystal platforms by poking them with your nail to flip them back over.

@@ -1,0 +1,1 @@
+This chunk concerns Network Gates, which are the primary checkpoint and save system in MIO: Memories in Orbit, and describes their multiple functions including saving progress, managing modifications, purchasing upgrades, and planning builds throughout The Vessel.

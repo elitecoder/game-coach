@@ -118,6 +118,27 @@ npm run guide -- watch hollow-knight --goal=map
 npx tsx ingest/cli.ts ingest hollow-knight
 ```
 
+## Data
+
+| In the repo | Not in the repo (fetched by scripts) |
+|---|---|
+| Built game graphs, provenance, QA verdicts (`kb/<game>/*.json`) | Source videos and transcripts (`kb/<game>/_raw/`) |
+| LLM caches: extraction, sweep, verify and contextual-retrieval outputs (`kb/<game>/_*cache/`) | Keyframes (`kb/<game>/_keyframes/`) |
+| Damage/death weak labels for the corpus (`training/labels/`) | The 62 h perception corpus (`training/corpus/`) |
+| Exact sources: pinned video URLs (`ingest/sources/`), corpus video list (`training/corpus-urls.txt`) | The capture ring (`data/`) |
+
+Third-party media is pinned by URL rather than re-hosted. A rebuild downloads the same sources,
+and the content-addressed caches mean the LLM work isn't paid for again:
+
+```sh
+npx tsx ingest/cli.ts ingest memories-in-orbit --llm-sweep --verify   # downloads sources, extraction from cache
+yt-dlp -f 'bv*[height<=480]+ba/b[height<=480]/b' -a training/corpus-urls.txt -P training/corpus
+```
+
+Caveat: three Memories in Orbit text chunks and two Hollow Knight ones were never cached, so an
+offline rebuild produces slightly smaller graphs than the committed ones until those chunks are
+extracted with an API key.
+
 ## Status and known limitations
 
 This is a research prototype, not a product. The open problems, stated plainly:

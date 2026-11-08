@@ -1,0 +1,1 @@
+This chunk describes Hornet's health and resource management systems in Hollow Knight: Silksong, including her Mask-based health system, Silk thread mechanic, and the Bind ability used for restoration.

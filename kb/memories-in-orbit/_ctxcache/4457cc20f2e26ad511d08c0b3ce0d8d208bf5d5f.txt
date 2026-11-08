@@ -1,0 +1,1 @@
+This chunk concludes Tip #7 about unlocking fast travel in Mio Memories and Orbit by explaining an alternative method to warp back to the last network gate without finding a Torn Overseer.

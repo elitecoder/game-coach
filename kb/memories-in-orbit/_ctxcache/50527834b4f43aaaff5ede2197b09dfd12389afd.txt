@@ -1,0 +1,1 @@
+This chunk is part of Tip #2 about crystallizing naker (a currency resource) to protect it from being lost upon death, explaining how crystallizer robots are located in each distinct game area.

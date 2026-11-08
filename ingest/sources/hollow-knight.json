@@ -11,8 +11,8 @@
     { "id": "hk_fext_greenpath", "kind": "text", "url": "https://hollowknight.wiki.fextralife.com/Greenpath", "topic": "Greenpath (HK-only wiki, no Silksong)" },
     { "id": "hk_gw_crossroads", "kind": "text", "url": "https://gamerwalkthroughs.com/hollow-knight/forgotten-crossroads/", "topic": "Forgotten Crossroads walkthrough (HK-scoped)" },
 
-    { "id": "hk_vid_false_knight", "kind": "video", "query": "ytsearch1:hollow knight false knight boss fight guide", "topic": "False Knight boss (Forgotten Crossroads)" },
-    { "id": "hk_vid_greenpath_hornet", "kind": "video", "query": "ytsearch1:hollow knight greenpath hornet mothwing cloak guide", "topic": "Greenpath, Hornet, Mothwing Cloak" },
-    { "id": "hk_vid_abilities", "kind": "video", "query": "ytsearch1:hollow knight movement abilities locations guide", "topic": "ability/key-item locations and unlocks" }
+    { "id": "hk_vid_false_knight", "kind": "video", "url": "https://www.youtube.com/watch?v=aSQjIsbXx_8", "topic": "False Knight boss (Forgotten Crossroads)" },
+    { "id": "hk_vid_greenpath_hornet", "kind": "video", "url": "https://www.youtube.com/watch?v=z-Fqpt-P4kQ", "topic": "Greenpath, Hornet, Mothwing Cloak" },
+    { "id": "hk_vid_abilities", "kind": "video", "url": "https://www.youtube.com/watch?v=5rLabTaX_2o", "topic": "ability/key-item locations and unlocks" }
   ]
 }

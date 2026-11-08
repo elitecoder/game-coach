@@ -1,0 +1,1 @@
+This chunk describes navigation within Crystal Peak, specifically directing the player toward the Crystal Heart location by taking the rightmost path downward until reaching a large Golem with a lever.

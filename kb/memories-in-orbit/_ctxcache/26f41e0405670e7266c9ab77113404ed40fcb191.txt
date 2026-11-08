@@ -1,0 +1,1 @@
+This chunk contains strategies for two bosses in MIO: Memories in Orbit — Anra Dr. Halyn (a two-phase fight with a mobile enemy and mechanical arm) and Friends 🙂 (a wall-climbing combat encounter against a slimy blob enemy).

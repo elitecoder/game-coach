@@ -1,0 +1,1 @@
+This chunk concerns gameplay and enemy differences between the beta and release versions of Hollow Knight, specifically detailing changes to enemy damage values, sprite designs, boss locations, and other mechanical adjustments.

@@ -1,0 +1,1 @@
+This chunk occurs during the navigation phase after defeating an enemy, where the narrator is showing the player the map layout and directing them leftward toward the boss fight against Hornet to obtain the Moth Wing Cloak ability.

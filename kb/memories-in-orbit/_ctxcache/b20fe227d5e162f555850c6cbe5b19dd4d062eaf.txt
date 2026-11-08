@@ -1,0 +1,1 @@
+This chunk discusses the Modifications system and Mod Extensions in MIO, explaining how to manage the Allocation Matrix capacity and why collecting all 7 Mod Extensions throughout The Vessel is important for build flexibility.

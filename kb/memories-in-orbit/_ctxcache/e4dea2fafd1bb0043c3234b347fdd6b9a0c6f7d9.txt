@@ -1,0 +1,1 @@
+This chunk appears in the navigation menu section of the document and concerns general gaming guides and coding tutorials, including Crimson Desert crafting/missions, game development patterns, and WordPress development—not specific to the MIO: Memories in Orbit boss guide content.

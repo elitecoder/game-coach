@@ -1,0 +1,1 @@
+This chunk describes core traversal abilities in MIO, specifically the Aerial Combat & Jump Reset mechanic and the Arachnid Locomotion (Strider/Spider Movement) ability, which are essential movement systems for navigating The Vessel and solving platforming puzzles.

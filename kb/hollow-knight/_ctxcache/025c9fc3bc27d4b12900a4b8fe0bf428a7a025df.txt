@@ -1,0 +1,1 @@
+This chunk describes the mechanics of platforms and crystals within the Crystal Heart platforming section in Crystal Peak, explaining how to flip platforms by hitting crystals with your nail and noting that crystals don't count as environmental hazards.

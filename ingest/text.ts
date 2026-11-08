@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import type { Source, Segment } from "./types";
 
@@ -53,6 +53,14 @@ function stripHtml(html: string): string {
 export async function acquireText(source: Source, rawDir: string): Promise<TextDoc> {
   const url = source.url;
   if (!url) throw new Error(`text source ${source.id} needs a url`);
+  const dir = join(rawDir, source.id);
+  // snapshot-first: live pages drift, and drifted text would miss the content-addressed caches.
+  // Delete _raw/<id>/page.json to re-fetch.
+  try {
+    return JSON.parse(await readFile(join(dir, "page.json"), "utf8")) as TextDoc;
+  } catch {
+    /* no snapshot yet */
+  }
 
   let text = "";
   let title = source.id;
@@ -81,10 +89,10 @@ export async function acquireText(source: Source, rawDir: string): Promise<TextD
     title = (html.match(/<title>([^<]*)<\/title>/i)?.[1] ?? title).trim();
   }
 
-  const dir = join(rawDir, source.id);
   await mkdir(dir, { recursive: true });
-  await writeFile(join(dir, "page.txt"), text);
-  return { sourceId: source.id, title, url, text };
+  const doc = { sourceId: source.id, title, url, text };
+  await writeFile(join(dir, "page.json"), JSON.stringify(doc));
+  return doc;
 }
 
 const CHUNK_CHARS = 3500;

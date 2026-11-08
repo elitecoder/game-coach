@@ -1,0 +1,1 @@
+This chunk describes the Allocation Matrix system's core mechanics and the beginning of the Basic Controls & Movement section, explaining how modifications consume memory slots and introducing the Hairpin Grapple traversal ability.
