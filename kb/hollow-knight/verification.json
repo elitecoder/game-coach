@@ -1,0 +1,1845 @@
+{
+  "total": 154,
+  "corroborated": 68,
+  "panelKept": 129,
+  "panelDropped": 25,
+  "escalated": 0,
+  "decisions": {
+    "z_dirtmouth": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Dirtmouth is the hub town of Hollow Knight, extensively documented across multiple independent sources (walkthroughs, ability videos, wikis). It is a core location in the original game.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_vid_false_knight",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_king_s_pass": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "King's Pass is the tutorial/starting area of Hollow Knight, documented in walkthroughs and wiki navigation lists across multiple independent sources. It's a canonical location in the original game.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "z_greenpath": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Greenpath is a major early-game zone in Hollow Knight, appearing in 4 independent publishers with documentation from walkthroughs, guides, and ability videos. It's a canonical location.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_city_of_tears": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "City of Tears is a major mid-game zone in Hollow Knight, documented across 4 independent publishers (walkthroughs, wikis, videos). It's a core location in the original game.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_deepnest": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Deepnest is a major exploration zone in Hollow Knight, documented across 4 independent publishers. The video reference explicitly describes it as an accessible zone (\"it's a deepnest, and it can be accessed\").",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_colosseum_of_fools": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Colosseum of Fools is a challenge arena in Hollow Knight, documented in 7 pages across 2 independent publishers including walkthroughs with specific guide sections (\"trial of the warrior\", \"trial of the conqueror\").",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_crystal_peak": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Crystal Peak is a major zone documented across 4 independent publishers. The ability video explicitly references a Heart Vessel location there (\"heart crystal heart is located at the left side of crystal peak\").",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_forgotten_crossroads": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Forgotten Crossroads is the main hub and starting exploration area in Hollow Knight, documented across 4 independent publishers including dedicated wiki page and video mentions of fast travel and navigation.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_howling_cliffs": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Howling Cliffs is a zone documented across 3 independent publishers in location lists and navigation guides. It's a canonical area accessible in the original game.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_graveyard": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Graveyard is a sub-area of Dirtmouth mentioned in the wiki, with specific functional detail (stone door requiring a simple key). It's a real location, though sourced from only one publisher.",
+      "groundingSources": [
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "z_confessor_jiji_s_cave": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Confessor Jiji's Cave is implicitly referenced in the Graveyard description (\"Confessor Jiji\" cave accessed via stone door). While not in the prose corpus directly, it's a named sub-location extracted from the game's actual wiki content about Dirtmouth.",
+      "groundingSources": []
+    },
+    "z_queen_s_gardens": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Queen's Gardens is a major late-game zone documented across 4 independent publishers. The ability video explicitly references it as an accessibility gate (\"will allow you to access queen's gardens\").",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_tower_of_love": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Tower of Love is a confirmed zone in Hollow Knight, appearing in multiple independent sources (game guide, official wiki references). Multiple sources mention the Love Key that unlocks the door to Tower of Love, which is a real item in the game found in Queen's Gardens.",
+      "groundingSources": [
+        "hk_gw_crossroads",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_mantis_village": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Mantis Village is a confirmed zone in Hollow Knight. It appears across multiple independent sources including a video walkthrough that explicitly mentions the location of Mantis Claw near the bottom of Fungal Waste in Mantis Village. This is attested gameplay content.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_coral_forest": {
+      "decision": "drop",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Coral Forest is identified as a SILKSONG zone, not Hollow Knight. The evidence explicitly states these are alternative names for zones 'first revealed in the hollow knight: silksong announcement'. This is contamination from the sequel game.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_gilded_city": {
+      "decision": "drop",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Gilded City is a confirmed Silksong zone, not Hollow Knight. The evidence explicitly attributes these alternate names to the 'hollow knight: silksong announcement'. This is sequel game contamination.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_lake_of_fire_bone_forest": {
+      "decision": "drop",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Lake of Fire/Bone Forest is a Silksong location, not Hollow Knight. The evidence explicitly attributes this to the 'hollow knight: silksong announcement'. This is sequel game contamination.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_bonebottom": {
+      "decision": "drop",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Bonebottom is a Silksong location. The evidence explicitly identifies it as a zone mentioned in the 'official announcement' for Silksong alongside other confirmed Silksong locations. This is sequel contamination.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_moss_temple": {
+      "decision": "drop",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Moss Temple is a Silksong location. The evidence clearly indicates these names were revealed in the 'official announcement' for Silksong. This is sequel game contamination.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_soaring_warlord_s_tower": {
+      "decision": "drop",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Soaring Warlord's Tower is a Silksong zone, not Hollow Knight. The evidence explicitly places this in the list of locations revealed in the 'official announcement' for Hollow Knight: Silksong. This is sequel contamination.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_fungal_wastes": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Fungal Wastes is a confirmed primary zone in Hollow Knight, attested across multiple independent sources (game guides, fandom lists, video walkthrough). The video explicitly mentions transitioning to Fungal Wastes as a new location in gameplay.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_fog_canyon": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Fog Canyon is a confirmed primary zone in Hollow Knight, attested across multiple independent sources including game guides, fandom extraction lists, and video walkthroughs. It is a core explorable area in the game.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_resting_grounds": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Resting Grounds is a confirmed primary zone in Hollow Knight, attested across multiple independent sources and explicitly mentioned in video walkthroughs as a location players reach during gameplay.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_ancestral_mound": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "Ancestral Mound is a confirmed sub-area of Hollow Knight, attested across multiple independent sources (game guides, wiki, fandom lists). It is described as a small area with specific bosses and appears in Forgotten Crossroads-specific documentation.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_queen_s_station": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Queen's Station is a confirmed sub-area of Fungal Wastes in Hollow Knight. While grounded in a single publisher, the wiki explicitly lists it as a sub-area with dedicated sections for use/acquisition/trivia, which is characteristic of real in-game locations.",
+      "groundingSources": [
+        "hk_wiki_fungal"
+      ]
+    },
+    "z_fungal_core": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Fungal Core is a confirmed sub-area of Fungal Wastes in Hollow Knight. Like Queen's Station, it has dedicated wiki sections for use/acquisition/trivia, confirming it as a real in-game location.",
+      "groundingSources": [
+        "hk_wiki_fungal"
+      ]
+    },
+    "z_royal_waterways": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Royal Waterways is a major zone in Hollow Knight, thoroughly documented across 8 pages and 3 independent sources including video walkthroughs, game guides, and wikis. This is definitively a real, playable area.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_kingdom_s_edge": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Kingdom's Edge is a major zone in Hollow Knight, documented across 8 pages and 3 independent sources. This is a real, playable endgame area that appears consistently in all major reference materials.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_soul_sanctum": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Soul Sanctum is a major zone in Hollow Knight, documented across 4 pages and 3 independent sources including video content. The video extract explicitly mentions entering Soul Sanctum, confirming it as a real, playable location.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_wiki_city"
+      ]
+    },
+    "z_fountain_square": {
+      "decision": "keep",
+      "confidence": 0.82,
+      "basis": "panel",
+      "reason": "Fountain Square is identified as a sub-area within City of Tears. The wiki explicitly describes it as 'where the memorial fountain' is located, indicating it's a real, named location within the zone, not a vague descriptor.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "z_pleasure_house": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Pleasure House is explicitly listed as a 'sub-area' of City of Tears in the wiki with dedicated content sections (use, acquire, trivia), consistent with the pattern of real in-game locations.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "z_watcher_s_spire": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Watcher's Spire is corroborated by 2 independent publishers and appears in both game guides and wikis. It's explicitly listed as a sub-area of City of Tears with dedicated content sections.",
+      "groundingSources": [
+        "hk_gw_crossroads",
+        "hk_wiki_city"
+      ]
+    },
+    "z_king_s_station": {
+      "decision": "keep",
+      "confidence": 0.82,
+      "basis": "panel",
+      "reason": "King's Station is explicitly listed as a 'sub-area' of City of Tears with dedicated wiki sections (use, acquire, trivia), following the pattern of confirmed real locations within zones.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "z_city_storerooms": {
+      "decision": "keep",
+      "confidence": 0.78,
+      "basis": "panel",
+      "reason": "City Storerooms is listed under 'special rooms' in City of Tears with references to NPCs (Ze'mer, Dryya, Isma), suggesting it's a real location with game content rather than a vague descriptor.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "z_blue_lake": {
+      "decision": "drop",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Blue Lake appears to be a geographical/world feature (the lake above City of Tears) rather than a playable zone or dungeon area. The wiki describes it as context for understanding City of Tears' location, not as a zone the player explores.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "z_ancient_basin": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Ancient Basin is a major zone in Hollow Knight, documented across 9 pages and 4 independent publishers including video content. Video explicitly mentions navigating 'to the very bottom of ancient basin,' confirming it as a real, playable area.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_temple_of_the_black_egg": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Temple of the Black Egg is a well-documented location in Hollow Knight's Forgotten Crossroads. Attested across 3 independent publishers (walkthrough, GameWorks guide, wiki) with consistent references. This is a major landmark containing the Black Egg vessel.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_wiki_crossroads"
+      ]
+    },
+    "z_infected_crossroads": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Infected Crossroads is a confirmed game state/variant of Forgotten Crossroads in Hollow Knight, documented in video captions and wiki references. Represents the area after infection spreads.",
+      "groundingSources": [
+        "hk_vid_abilities",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "z_grubhome": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Grubhome is a sub-area of Forgotten Crossroads in Hollow Knight, documented in the wiki. Despite single publisher, it's a named sub-area from the HK-only wiki with no Silksong contamination concern.",
+      "groundingSources": [
+        "hk_wiki_crossroads"
+      ]
+    },
+    "z_hot_spring": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Hot Spring is well-attested across multiple independent sources (fext walkthrough, gw guide, wiki entries on crossroads and city). Also referenced as the Pleasure House location in City of Tears.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_gw_crossroads",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal"
+      ]
+    },
+    "z_aspid_nest": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Aspid Nest is listed as a sub-area of Forgotten Crossroads in the wiki structure. Despite single publisher, the naming and structural context indicate it's a real minor location.",
+      "groundingSources": [
+        "hk_wiki_crossroads"
+      ]
+    },
+    "z_deserted_village": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Deserted Village is listed as a sub-area in Forgotten Crossroads wiki with dedicated section structure, consistent with other documented sub-areas.",
+      "groundingSources": [
+        "hk_wiki_crossroads"
+      ]
+    },
+    "z_pharloom": {
+      "decision": "drop",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Pharloom is the main location of Hollow Knight: Silksong (the sequel), not Hollow Knight. The repeated references to 'hornet is captured by outsider bugs and brought to their kingdom, pharloom' are Silksong plot points contaminating a Hollow Knight knowledge graph.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_lake_of_unn": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Lake of Unn is a well-documented sub-area of Greenpath in Hollow Knight, attested across 2 independent publishers (fext walkthrough and wiki). Contains a bench and NPC house.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_stone_sanctuary": {
+      "decision": "keep",
+      "confidence": 0.87,
+      "basis": "panel",
+      "reason": "Stone Sanctuary is listed as a sub-area of Greenpath in the wiki structure. Despite single source, it follows the documented naming pattern of Greenpath's sub-areas.",
+      "groundingSources": [
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_acid_lake": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Acid Lake is documented in Greenpath wiki as a location with environmental features (pillars, egg-shaped stones). Despite single source, the specific descriptive details suggest it's a real area.",
+      "groundingSources": [
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_sheo_s_hut": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Sheo's Hut is a documented location in Greenpath where the Great Slash nail art is learned from NPC Sheo. Well-established in Hollow Knight.",
+      "groundingSources": [
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_acidic_lake": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Acidic Lake appears to be a variant name or detailed reference for the acid lake area in Greenpath. The description places it specifically at northwest Greenpath accessible after Hornet defeat.",
+      "groundingSources": [
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_hallownest": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Hallownest is the central game world of Hollow Knight, grounded across multiple independent publishers and both text and video sources. This is the primary setting.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_vid_false_knight",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_forgotten_crossroads_stag_station": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Forgotten Crossroads Stag Station is a specific sub-location within Forgotten Crossroads (itself well-attested). Stag stations are core fast-travel mechanic locations in Hollow Knight. Extracted from HK-only wiki.",
+      "groundingSources": []
+    },
+    "z_hot_springs_bench_room": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Hot Springs / Bench Room is a specific sub-location from Forgotten Crossroads walkthrough (HK-scoped). Benches and rest rooms are real mechanics in Hollow Knight. Extracted from official game guide.",
+      "groundingSources": []
+    },
+    "z_locked_room_bee_encounter": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Locked Room (Bee Encounter) is a specific sub-location in Forgotten Crossroads with a documented encounter. Extracted from HK-scoped walkthrough.",
+      "groundingSources": []
+    },
+    "z_isma_s_grove": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Isma's Grove is a major zone in Hollow Knight, grounded across multiple independent publishers and sources including video guides. Well-attested location.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_abyss": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "The Abyss is a major endgame zone in Hollow Knight, well-attested across multiple independent publishers and sources.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_abyss_lighthouse": {
+      "decision": "keep",
+      "confidence": 0.87,
+      "basis": "panel",
+      "reason": "Abyss Lighthouse is a specific sub-location within The Abyss. Extracted from ability/key-item locations guide (HK-scoped). The Abyss itself is confirmed, and lighthouses/beacon structures are thematic to that area.",
+      "groundingSources": []
+    },
+    "z_shade_cloak_chamber": {
+      "decision": "keep",
+      "confidence": 0.86,
+      "basis": "panel",
+      "reason": "Shade Cloak Chamber is a specific sub-location, extracted from ability/key-item locations (HK-scoped). Shade Cloak is a documented ability in Hollow Knight, and chambers housing key abilities are standard game design.",
+      "groundingSources": []
+    },
+    "z_unknown_area": {
+      "decision": "drop",
+      "confidence": 0.98,
+      "basis": "absent",
+      "reason": "This is a descriptor, not a real entity. 'Unknown Area' is a placeholder for unmapped or unidentified locations, not a concrete zone.",
+      "groundingSources": []
+    },
+    "z_hallownest_implied_not_dirtmouth": {
+      "decision": "drop",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "This is a duplicate of ref 0 (Hallownest) with added qualifier '(implied, not Dirtmouth)'. The qualifier is redundant—Hallownest and Dirtmouth are distinct entities. This appears to be a data artifact from parsing.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_vid_false_knight",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_forgotten_crossroads_path_to_greenpath": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Forgotten Crossroads / path to Greenpath is a specific sub-location or transit corridor within Forgotten Crossroads. Corridors/paths between major zones are documented in Hollow Knight.",
+      "groundingSources": []
+    },
+    "z_greenpath_entrance_path": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Greenpath (entrance path) is well-attested across multiple publishers and sources. Greenpath is a major zone accessible from Forgotten Crossroads.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_dream_nail": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Dream Nail is a core item in Hollow Knight, attested in video walkthrough (hk_vid_abilities) with explicit usage instruction ('use a dream nail on it'), plus corroborated across multiple independent wiki publishers (2+ sources). This is a real, primary game mechanic.",
+      "groundingSources": [
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_shade_cloak": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Shade Cloak is an established ability in Hollow Knight, directly attested in the video walkthrough (hk_vid_abilities: 'shade cloak is an upgraded muffling'). Corroborated across 2 independent publishers. This is a genuine late-game upgrade ability.",
+      "groundingSources": [
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_howling_wraiths": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Howling Wraiths is a real spell ability in Hollow Knight. Multiple wiki sources mention it in spell build contexts. While grounded in only 1 independent publisher, the context (boss strategies mentioning it alongside verified abilities like Shade Cloak) and my knowledge of Hollow Knight confirm this is a legitimate mid-game spell ability.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_abyss_shriek": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Abyss Shriek is a real ability in Hollow Knight, appearing in the same contextual spell build discussions as Howling Wraiths. While single publisher, my knowledge of Hollow Knight confirms this is an upgrade to Howling Wraiths available in the Abyss. Named consistently across multiple wiki pages.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_shaman_stone": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Shaman Stone is a charm in Hollow Knight, appearing in spell build discussions across multiple wiki pages. Corroborated by 2 independent location extractions (Dirtmouth, Forgotten Crossroads). This is a well-established charm affecting spell behavior.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_spell_twister": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Spell Twister is a charm in Hollow Knight, mentioned in spell build discussions across multiple wiki pages. Corroborated by 2 independent location extractions (Dirtmouth, Forgotten Crossroads). This is a genuine charm affecting spell casting mechanics.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_soul_catcher": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Soul Catcher is a charm in Hollow Knight, well-attested across 3 INDEPENDENT publishers including video walkthrough/guide sources (hk_fext_greenpath, hk_gw_crossroads) plus wiki sources. Multiple sources describe it with specific location and utility context. This is a core charm.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_soul_eater": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Soul Eater is a charm in Hollow Knight, mentioned in spell build discussions across multiple wiki pages (single publisher). My knowledge of Hollow Knight confirms this as a real charm. Appears consistently named in the same contexts as verified charms.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_isma_s_tear": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Isma's Tear is a key item in Hollow Knight, appearing in multiple wiki pages discussing progression requirements. While single publisher, it is mentioned with specific functional context (required for Queen's Gardens access). Corroborated by 2 location extractions (Dirtmouth, Forgotten Crossroads).",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_nailmaster_s_glory": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Nailmaster's Glory is a charm in Hollow Knight. While appearing in only 1 page, my knowledge confirms this is a real charm given by Sly. The provenance (extracted from Dirtmouth location data) and the specific context ('given by sly as the nailsage') strongly support authenticity.",
+      "groundingSources": [
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "a_grimmchild": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Grimmchild is a charm in Hollow Knight obtained from Grimm during the Grimm Troupe DLC questline. While appearing on only 1 page, the specific context ('given by grimm') and provenance (Dirtmouth location data) confirm authenticity. Grimmchild is part of the base game's DLC content.",
+      "groundingSources": [
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "a_carefree_melody": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Carefree Melody is a charm in Hollow Knight, appearing in the Grimm Troupe questline. While on only 1 page, the specific context ('given by nymm if the troupe has been banished') and provenance (Dirtmouth location data) confirm authenticity. This is a real charm in the base game.",
+      "groundingSources": [
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "a_crystal_heart": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Crystal Heart is a core ability in Hollow Knight, grounded in 3 independent publishers including video walkthrough and wiki sources. Attested as a required ability for traversal.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "a_glowing_womb": {
+      "decision": "keep",
+      "confidence": 0.72,
+      "basis": "panel",
+      "reason": "Glowing Womb is listed as a key item in Forgotten Crossroads wiki. Single source but appears in a factual equipment/location listing rather than narrative prose, suggesting it's a real collectible.",
+      "groundingSources": [
+        "hk_wiki_crossroads"
+      ]
+    },
+    "a_city_crest": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "City Crest is heavily corroborated across 5 independent publishers with 9 total grounding pages. Documented in walkthroughs, videos, and wikis as a key item obtained after False Knight boss fight.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_vid_false_knight",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_vengeful_spirit": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Vengeful Spirit is a core starting ability in Hollow Knight, grounded in 9 pages across 5 independent publishers. Attested in walkthroughs, videos, and multiple wikis as required for progression.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_vid_greenpath_hornet",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_bind": {
+      "decision": "drop",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Bind appears in 5 pages but all from a single publisher (wiki). The phrasing 'health can be regained by the use of the bind ability consuming a full silk spool' does not match standard Hollow Knight healing mechanics. This appears to be contamination from Silksong, which features Hornet as protagonist with silk-based mechanics.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_world_sense": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "World Sense is documented in the Forgotten Crossroads wiki as an ability obtainable from a lore tablet. Single source but specific location and acquisition method given. Consistent with Hollow Knight's late-game ability acquisition pattern.",
+      "groundingSources": [
+        "hk_wiki_crossroads"
+      ]
+    },
+    "a_needle_slash_block": {
+      "decision": "drop",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "These wiki excerpts describe Hornet from Silksong as the protagonist who 'wields a needle and thread'. This is contamination from Hollow Knight: Silksong. The Knight (Hollow Knight protagonist) does not use a needle—that is Hornet's weapon in the sequel.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_needle_dash_stab": {
+      "decision": "drop",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Same contamination issue as ref 6. Needle as a dash-stab ability belongs to Hornet in Silksong, not the Knight in Hollow Knight. The excerpts explicitly reference Silksong.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_needle_bounce": {
+      "decision": "drop",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Same Silksong contamination as refs 6-7. Needle bounce mechanics are part of Hornet's combat system in Silksong, not the base game.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_needle_grappling_hook": {
+      "decision": "drop",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Same Silksong contamination as refs 6-8. Needle-based grappling hook is a Silksong ability for Hornet, not in base Hollow Knight.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_great_slash_nail_art": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Great Slash Nail Art is documented in Greenpath wiki as learnable from Sheo's hut. Single source but specific location and NPC provided. Consistent with Hollow Knight's nail art system taught by masters.",
+      "groundingSources": [
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_mothwing_cloak": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "Mothwing Cloak is heavily documented across 4 pages and 3 independent publishers including videos and multiple wiki sources. Attested as reward for Hornet fight in Greenpath and required for progression to Fog Canyon.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_greenpath_north": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Greenpath is a primary zone in Hollow Knight, corroborated across 4 independent publishers. Video evidence (hk_vid_abilities) directly attests to the zone name. The directional qualifier '(north)' is a reasonable sub-zone designation within the larger area.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_greenpath_northwest": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Greenpath is confirmed as a real zone. The '(northwest)' variant likely represents a sub-region or room cluster within Greenpath, extracted from navigation data. Same corroboration as [0].",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_hallownest_stag_station_network": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Hallownest is the overarching world of Hollow Knight, attested across multiple sources. The '(Stag Station network)' qualifier refers to the fast-travel system in the game, which is a legitimate mechanical subsystem. No contamination detected.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_vid_false_knight",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "z_toll_bridge": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Toll Bridge is mentioned in a Hollow Knight wiki (HK-only, no Silksong contamination), in the context of Greenpath progression. It appears to be a real location/obstacle in Greenpath. Single-source grounding is less robust, but the wiki explicitly identifies it as part of HK.",
+      "groundingSources": [
+        "hk_fext_greenpath"
+      ]
+    },
+    "z_false_knight_arena": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "False Knight Arena is the boss arena where False Knight is fought, extracted from boss metadata. While not prose-attested, boss arenas are real in-game spaces in Hollow Knight. The extraction provenance from a boss guide justifies keeping it as a video-attested entity.",
+      "groundingSources": []
+    },
+    "z_hornet_boss_arena": {
+      "decision": "keep",
+      "confidence": 0.78,
+      "basis": "panel",
+      "reason": "Hornet Boss Arena is extracted from multiple sources tied to Hornet and Mothwing Cloak acquisition, indicating a real boss encounter space. Like [4], boss arenas are legitimate game locations, even without prose corpus mention.",
+      "groundingSources": []
+    },
+    "z_crystal_peak_crystal_heart_area": {
+      "decision": "keep",
+      "confidence": 0.72,
+      "basis": "panel",
+      "reason": "Crystal Peak Crystal Heart Area is extracted from ability/key-item location data. Crystal Heart is a real ability in Hollow Knight, and Crystal Peak is an attested zone. The combined name references the specific room or sub-zone where the ability is found.",
+      "groundingSources": []
+    },
+    "a_mantis_claw": {
+      "decision": "keep",
+      "confidence": 0.96,
+      "basis": "panel",
+      "reason": "Mantis Claw is heavily corroborated across 3 independent publishers (guides, wiki, video). It is directly named in multiple contexts as a core progression ability required to access areas. High-confidence real entity.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_love_key": {
+      "decision": "drop",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Love Key appears exclusively in what is called the 'hk_wiki' sources but the content describes a 'Tower of Love' and mechanics inconsistent with Hollow Knight (silks, crest system, focus mechanics described are NOT HK features—these are Hollow Knight: Silksong features). This is contamination from Silksong, not Hollow Knight.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_needle": {
+      "decision": "drop",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "The Needle is described in contexts mentioning 'focus named bind', 'spool', 'laces', and 'tools/crests'—all Silksong mechanics, not Hollow Knight. 'The Needle' is the player character in Hollow Knight: Silksong, not an ability in original Hollow Knight. This is Silksong contamination.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_tools": {
+      "decision": "drop",
+      "confidence": 0.87,
+      "basis": "panel",
+      "reason": "Tools, Crests, and the described equipment system ('equipped on a crest with limited slots', 'changed when sitting on a bench') are Silksong game mechanics. HK uses Charms and Charm Notches, not a Tools/Crests system. This is Silksong contamination.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_crests": {
+      "decision": "drop",
+      "confidence": 0.86,
+      "basis": "panel",
+      "reason": "Crests as an equipment slot system ('with limited slots', 'changed when sitting on a bench') is a Silksong mechanic. HK uses Charms, not Crests. The prose describing crests matches Silksong's new equipment paradigm, making this Silksong contamination.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_great_slash": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Great Slash is a confirmed nail art ability in Hollow Knight, obtainable from Sheo in Greenpath. Despite single-source grounding, it is explicitly video-attested as a core game ability.",
+      "groundingSources": [
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_thorns_of_agony": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Thorns of Agony is a charm in Hollow Knight, corroborated across two independent publishers. Multi-source confirmation is strong evidence.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_shape_of_unn": {
+      "decision": "keep",
+      "confidence": 0.93,
+      "basis": "panel",
+      "reason": "Shape of Unn is a confirmed charm in Hollow Knight, obtainable in Greenpath as described. It is a real game item tied to the Unn character/location.",
+      "groundingSources": [
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_lumafly_lantern": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Lumafly Lantern is a key item in Hollow Knight used to illuminate the abyss-like area in Greenpath. It is a real, attested item tied to No Eyes encounter.",
+      "groundingSources": [
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_mark_of_pride": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Mark of Pride is a charm in Hollow Knight, located in Fungal Wastes. While single-sourced, it is a named charm clearly tied to HK item pool.",
+      "groundingSources": [
+        "hk_wiki_fungal"
+      ]
+    },
+    "a_dashmaster": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Dashmaster is a charm in Hollow Knight, located in Fungal Wastes. Named item tied to core charm system.",
+      "groundingSources": [
+        "hk_wiki_fungal"
+      ]
+    },
+    "a_spore_shroom": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Spore Shroom is a charm in Hollow Knight, located in Fungal Wastes. Named item tied to core charm system.",
+      "groundingSources": [
+        "hk_wiki_fungal"
+      ]
+    },
+    "a_charm_notch": {
+      "decision": "keep",
+      "confidence": 0.96,
+      "basis": "panel",
+      "reason": "Charm Notch is a core game item in Hollow Knight (used to equip additional charms). Corroborated across multiple publishers and locations.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal"
+      ]
+    },
+    "a_mask_shard": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Mask Shard is a core upgrade item in Hollow Knight (increases vessel capacity). Grounded in 4 sources across multiple locations within HK.",
+      "groundingSources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_fragile_charms": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Fragile Charms is a category/vendor category in Hollow Knight. Leg Eater sells fragile charms and Divine upgrades them. Real game mechanic.",
+      "groundingSources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal"
+      ]
+    },
+    "a_silk": {
+      "decision": "drop",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "DROP: 'Silk' appears to be contamination from Hollow Knight: Silksong (the sequel), not the original Hollow Knight. References to 'Hornet is the playable protagonist of hollow knight: silksong' confirm this is Silksong content.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_crest": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "City Crest is a key item in Hollow Knight, obtained after defeating False Knight. Corroborated by multiple publishers including video sources.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_vid_false_knight",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_tram_pass": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Tram Pass is a real key item in Hollow Knight, used to access the Tram in Ancient Basin and City of Tears. Grounded in City of Tears context and is core to game progression.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "a_desolate_dive": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Desolate Dive is a core spell ability in Hollow Knight. Attested across multiple sources (video, two wikis) with consistent descriptions of its use as a key unlock ability and combat tool.",
+      "groundingSources": [
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_fungal"
+      ]
+    },
+    "a_shade_soul": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Shade Soul is a real soul upgrade ability in Hollow Knight obtained from City of Tears. The reference places it correctly as an upgrade to Vengeful Spirit located near Soul Master.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "a_spell_twister_charm": {
+      "decision": "drop",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "This appears to be a mislabeling of a charm. 'Spell Twister' is a charm in Hollow Knight, but 'Spell Twister Charm' is a redundant descriptor. The entity as listed is a vague/descriptor entity rather than a distinct game object.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "a_simple_key": {
+      "decision": "keep",
+      "confidence": 0.96,
+      "basis": "panel",
+      "reason": "Simple Key is a core key item in Hollow Knight with multiple independent attestations across walkthrough video, City of Tears wiki, and Dirtmouth wiki. Used to unlock multiple doors throughout the game.",
+      "groundingSources": [
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "a_elegant_key": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Elegant Key is a key item in Hollow Knight used to unlock the Abyss. Referenced in City of Tears wiki as a reward/requirement. While single-source, the context is specific and functional.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "a_monarch_wings": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Monarch Wings is a core double-jump ability in Hollow Knight. Heavily corroborated across 3 independent publishers (video, walkthrough, 2 wikis) with consistent descriptions of its unlock mechanic and usage.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_fungal"
+      ]
+    },
+    "a_wayward_compass": {
+      "decision": "keep",
+      "confidence": 0.93,
+      "basis": "panel",
+      "reason": "Wayward Compass is a real charm in Hollow Knight that reveals map markers. Referenced in Forgotten Crossroads walkthrough as a purchasable item from Iselda in Dirtmouth.",
+      "groundingSources": [
+        "hk_fext_crossroads"
+      ]
+    },
+    "a_quill": {
+      "decision": "keep",
+      "confidence": 0.91,
+      "basis": "panel",
+      "reason": "Quill is a real item in Hollow Knight (upgrade item for the Wanderer's Journal). Corroborated across 2 independent sources (walkthrough, gamewatch guide) with consistent vendor references.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_gw_crossroads"
+      ]
+    },
+    "a_hunter_s_journal": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "Hunter's Journal is a core collectible item in Hollow Knight used to unlock entries on enemies and bosses. Heavily attested across 2 independent publishers (6 pages total) with specific references to journal entries and mechanics.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_wanderer_s_journal": {
+      "decision": "keep",
+      "confidence": 0.96,
+      "basis": "panel",
+      "reason": "Wanderer's Journal is a real collectible item in Hollow Knight (lore journal). Heavily attested across 2 independent publishers (6 pages) with specific page references and consistent use in dialogue citations.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "a_downward_parry_strike": {
+      "decision": "drop",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "'Downward Parry Strike' is a vague descriptor of a combat technique, not a named ability or entity in Hollow Knight. It describes a player action/technique rather than a discrete game object.",
+      "groundingSources": [
+        "hk_gw_crossroads"
+      ]
+    },
+    "b_radiance": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "The Radiance is the final boss of Hollow Knight, confirmed in wiki sources. Despite single-source grounding, this is a core end-game boss that is well-attested in the game itself.",
+      "groundingSources": [
+        "hk_wiki_crossroads"
+      ]
+    },
+    "b_failed_champion": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Failed Champion is a real boss in Hollow Knight, found in the Royal Waterways area. The wiki reference confirms its existence as a hostile encounter.",
+      "groundingSources": [
+        "hk_wiki_crossroads"
+      ]
+    },
+    "b_snail_shaman": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Snail Shaman is extensively corroborated (6 pages, 3 publishers) and appears in video guides granting the Vengeful Spirit ability. This is a well-attested NPC/boss encounter.",
+      "groundingSources": [
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_elder_baldur": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Elder Baldur is corroborated across 6 pages and 3 publishers, with detailed gameplay descriptions from multiple walkthrough sources. This is a real enemy/boss encounter.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_mantis_lords": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Mantis Lords are corroborated across 6 pages and 2 publishers. The Mantis Village encounter with narrative context (infected mind seeing them as afflicted) is a confirmed boss fight.",
+      "groundingSources": [
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_hornet": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Hornet is extensively documented across 8 pages and 4 publishers, including a dedicated video walkthrough. This is one of the most well-attested bosses in the dataset.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_vid_greenpath_hornet",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_hornet_protector": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Hornet Protector is listed as a boss in the Greenpath wiki page. While single-source, it is specifically catalogued in the bosses section of that area's guide.",
+      "groundingSources": [
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_massive_moss_charger": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Massive Moss Charger is corroborated across 2 pages and 2 publishers (formal extractor and wiki), both in structured boss lists for Greenpath.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_no_eyes": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "No Eyes is a Warrior Dream boss encountered in Greenpath (the Royal Waterways area where it rests). Single source but specifically named and located.",
+      "groundingSources": [
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_shrumal_ogres": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Shrumal Ogres are named bosses in the Fungal Wastes with specific reward callout (charm notch after defeat). While single-source, they are clearly attested.",
+      "groundingSources": [
+        "hk_wiki_fungal"
+      ]
+    },
+    "b_soul_master": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Soul Master is corroborated across 2 pages and 2 publishers (video and wiki). Located in Soul Sanctum, City of Tears—a well-attested boss encounter.",
+      "groundingSources": [
+        "hk_vid_abilities",
+        "hk_wiki_city"
+      ]
+    },
+    "b_watcher_knights": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Watcher Knights are named in the City of Tears wiki as a boss encounter in Watcher's Spire. While single-source, they are explicitly catalogued as a boss.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "a_king_s_brand": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "King's Brand is a key item directly extracted from HK ability/key-item video walkthrough. The video source explicitly identifies it by name. It's a real entity from Hollow Knight's progression system.",
+      "groundingSources": [
+        "hk_vid_abilities"
+      ]
+    },
+    "b_vengefly_king": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Vengefly King is a boss attested across multiple independent publishers (2) and multiple extraction sources. Consistently documented in Greenpath location and as an optional fight. Clearly a real Hollow Knight boss.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_zote": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Zote is a boss/NPC attested across 2 independent publishers with consistent descriptions. Found in Dirtmouth and Forgotten Crossroads. Clear Hollow Knight character with established lore and encounters.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_false_knight": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "False Knight is attested across 4 independent publishers with video walkthrough evidence (hk_vid_false_knight), formal game guide, and multiple wiki sources. This is a major early-game boss and one of the most well-documented entities.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_gw_crossroads",
+        "hk_vid_false_knight",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_collector": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Collector is a boss documented across multiple wiki pages and locations, with specific mechanics (Tower of Love access via key item). Despite single publisher, the entity is consistently referenced and clearly a real HK boss with specific dungeon and loot mechanics.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_elder_hu": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Elder Hu is documented as an optional boss in Mantis Village area. Single publisher but appears across multiple pages with consistent lore (described as travelling sage). Located near City of Tears entrance. Real Hollow Knight optional boss.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_grey_prince_zote": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Grey Prince Zote is documented in Dirtmouth wiki page as a boss entity. Despite single source/page mention, it is a real Hollow Knight optional boss (accessed through Zote's room in Royal Waterways after completing the base game). Named specific encounter.",
+      "groundingSources": [
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "b_grimm": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Grimm is documented across 4 pages (though single publisher) as a named boss. Appears in multiple area pages (Dirtmouth, City, Fungal, Greenpath) consistently. This is Grimm from the DLC-adjacent Grimm Troupe expansion, a real Hollow Knight boss.",
+      "groundingSources": [
+        "hk_wiki_city",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_nightmare_king_grimm": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Nightmare King Grimm is documented as a boss in Dirtmouth page. This is the harder challenge variant of Grimm, accessible via the Grimm Troupe questline in Hollow Knight. Real optional boss.",
+      "groundingSources": [
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "b_gruz_mother": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Gruz Mother is attested across 3 independent publishers with consistent documentation. Appears in Forgotten Crossroads as a mini-boss with detailed mechanics documented in game guide (hk_gw_crossroads). Early-game encounter, well-established.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "b_brooding_mawlek": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Brooding Mawlek is a boss documented in Forgotten Crossroads area pages. Appears in hidden wall area with specific location details. Real Hollow Knight mid-game boss despite limited source documentation.",
+      "groundingSources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "b_hollow_knight": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Hollow Knight is the title boss of the game itself. Attested across 6 independent publishers, including video walkthroughs and formal guides. This is the game's namesake boss and central final encounter.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_abilities",
+        "hk_vid_false_knight",
+        "hk_vid_greenpath_hornet",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_soul_warrior": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Soul Warrior is a confirmed boss in Hollow Knight, attested by both official walkthrough video (hk_vid_abilities) and wiki (hk_wiki_city) from independent publishers. Video explicitly names it as 'mini boss, soul warrior' and wiki confirms two instances in the Sanctum. Located in City of Tears.",
+      "groundingSources": [
+        "hk_vid_abilities",
+        "hk_wiki_city"
+      ]
+    },
+    "b_soul_tyrant": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Soul Tyrant is grounded in wiki excerpt listing it among bosses ('soul tyrant') in City of Tears. Single source is a wiki list entry. The context shows it in a structured boss/enemy enumeration, which is reliable even from single publisher. Soul Tyrant is a known Hollow Knight boss (appears in Royal Waterways/Kingdom's Edge).",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    },
+    "b_mawlek": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Brooding Mawlek is heavily attested across multiple independent sources (wiki, forum). Explicitly named 'brooding mawlek' in wiki as a boss fight location in Forgotten Crossroads. Appears in 3 pages across 2 publishers. The forum discussion confirms its status as a boss. No contamination from Silksong (HK-only wiki noted).",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth"
+      ]
+    },
+    "b_hornet_boss": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Hornet (Boss) is one of the most heavily attested entities with 8 pages across 4 independent publishers. Dedicated video guide (hk_vid_greenpath_hornet), walkthrough forums, wiki, and abilities video all confirm. Greenpath encounter is canonical Hollow Knight content. HK-only wiki sources noted.",
+      "groundingSources": [
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_vid_greenpath_hornet",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_large_bug_with_bat": {
+      "decision": "drop",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "This is a vague descriptor, not a specific entity name. 'Large bug with bat' is a generic description without a canonical entity name. Even if extracted from a Forgotten Crossroads walkthrough, it lacks the specificity required for a real entity. This appears to be OCR artifact or inadequate entity extraction rather than an actual boss name.",
+      "groundingSources": []
+    },
+    "b_mantis_youth": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Mantis Youth is confirmed across 2 independent publishers (video + wiki). Video explicitly names 'mantis youths' as enemies in Mantis Village. Wiki lists it in structured enemy list. These are combat encounters (enemies/optional minibosses) in the fungal waste area. Located via ability/key-item locations.",
+      "groundingSources": [
+        "hk_vid_abilities",
+        "hk_wiki_fungal"
+      ]
+    },
+    "b_mantis": {
+      "decision": "drop",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "This is a descriptor/ability tag, not a boss entity. 'Mantis' appears in prose only in reference to the 'mantis claw' ability, not as a named boss entity. The references are to the mantis claw (an ability/item) and mantis as generic enemies. No specific boss named 'Mantis' is attested; sources discuss 'Mantis Youth' and 'Mantis Lords' (different entities) and the ability, not a 'Mantis' boss.",
+      "groundingSources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_broken_vessel": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Broken Vessel is explicitly named in video walkthrough source (hk_vid_abilities): 'defeated the broken vessel' in context of ability/key-item progression. This is a canonical Hollow Knight boss found in Ancient Basin. Single source is video evidence (walkthrough), which is highly reliable for HK content.",
+      "groundingSources": [
+        "hk_vid_abilities"
+      ]
+    },
+    "b_dung_defender": {
+      "decision": "keep",
+      "confidence": 0.96,
+      "basis": "panel",
+      "reason": "Dung Defender is heavily attested across 6 pages and 2 publishers. Video walkthrough mentions defeating it as progression requirement. Multiple wiki pages identify it as one of the Five Great Knights (alternative name: Ogrim). Consistent naming across independent sources.",
+      "groundingSources": [
+        "hk_vid_abilities",
+        "hk_wiki_city",
+        "hk_wiki_crossroads",
+        "hk_wiki_dirtmouth",
+        "hk_wiki_fungal",
+        "hk_wiki_greenpath"
+      ]
+    },
+    "b_husk_sentry": {
+      "decision": "drop",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Husk Sentry appears only as a list entry in a structured enemy enumeration on wiki. While it is a real Hollow Knight enemy, the single source and list-only context provide weak support. However, 'Husk Sentry' IS an actual Hollow Knight enemy type (City of Tears). The source is reliable (wiki structured list), but limited to single publisher. This should be kept if treating wiki enemy lists as authoritative.",
+      "groundingSources": [
+        "hk_wiki_city"
+      ]
+    }
+  }
+}

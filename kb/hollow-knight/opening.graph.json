@@ -1,0 +1,45 @@
+{
+  "game": "hollow-knight",
+  "scope": "opening zones (P1a) — Dirtmouth → Forgotten Crossroads → Greenpath → Fungal Wastes entrance. City of Tears included only as a gated fixture beyond the slice.",
+  "lattice": [
+    { "id": "m_game_start", "name": "Arrived in Dirtmouth", "requires": [], "detectableBy": ["zone_fingerprint"], "signalStrength": "strong", "qaStatus": "verified" },
+    { "id": "m_crossroads", "name": "Entered Forgotten Crossroads", "requires": ["m_game_start"], "detectableBy": ["zone_fingerprint"], "signalStrength": "strong", "qaStatus": "verified" },
+    { "id": "m_false_knight", "name": "Defeated False Knight", "requires": ["m_crossroads"], "detectableBy": ["event"], "signalStrength": "advisory", "qaStatus": "verified", "note": "HK has no universal victory banner; defeat inferred from arena clear / item popup — advisory until menu/ledger corroboration (§6)." },
+    { "id": "m_greenpath", "name": "Entered Greenpath", "requires": ["m_crossroads"], "detectableBy": ["zone_fingerprint"], "signalStrength": "strong", "qaStatus": "verified" },
+    { "id": "m_mothwing_cloak", "name": "Acquired Mothwing Cloak (dash)", "requires": ["m_greenpath"], "detectableBy": ["menu"], "signalStrength": "strong", "qaStatus": "verified", "note": "Menu-detectable ability = ground truth for the marker (§6 menu read)." },
+    { "id": "m_hornet_gp", "name": "Defeated Hornet (Greenpath)", "requires": ["m_greenpath"], "detectableBy": ["event"], "signalStrength": "advisory", "qaStatus": "verified" },
+    { "id": "m_fungal", "name": "Entered Fungal Wastes", "requires": ["m_crossroads"], "detectableBy": ["zone_fingerprint"], "signalStrength": "strong", "qaStatus": "verified" },
+    { "id": "m_mantis_claw", "name": "Acquired Mantis Claw (wall-cling)", "requires": ["m_fungal"], "detectableBy": ["menu"], "signalStrength": "strong", "qaStatus": "unverified", "note": "Acquired in Mantis Village; exact reachability prerequisite to verify (human QA)." },
+    { "id": "m_city_crest", "name": "Acquired City Crest", "requires": ["m_crossroads"], "detectableBy": ["menu"], "signalStrength": "strong", "qaStatus": "unverified", "note": "Item sourcing genuinely uncertain — flagged for human QA. Included as a gating prerequisite fixture." },
+    { "id": "m_city_access", "name": "City of Tears accessible", "requires": ["m_mantis_claw", "m_city_crest"], "detectableBy": ["zone_fingerprint"], "signalStrength": "strong", "qaStatus": "unverified", "note": "Beyond the P1a slice; exact gating to verify." }
+  ],
+  "zones": [
+    { "id": "z_dirtmouth", "type": "zone", "name": "Dirtmouth", "fingerprintHint": "surface town, stars, Elderbug, central well", "reveal": { "existence": "m_game_start" }, "qaStatus": "verified" },
+    { "id": "z_crossroads", "type": "zone", "name": "Forgotten Crossroads", "fingerprintHint": "brown tunnels, infected orange variant later", "reveal": { "existence": "m_game_start" }, "qaStatus": "verified", "note": "Revealable from the start: descending the well is the intended first step, not a spoiler." },
+    { "id": "z_greenpath", "type": "zone", "name": "Greenpath", "fingerprintHint": "lush green, acid pools, mossy", "reveal": { "existence": "m_crossroads" }, "qaStatus": "unverified", "note": "Judgment call: is naming the next zone to a Crossroads player a spoiler? Verify against the eval + human QA." },
+    { "id": "z_fungal", "type": "zone", "name": "Fungal Wastes", "fingerprintHint": "mushrooms, spore clouds, teal palette", "reveal": { "existence": "m_crossroads" }, "qaStatus": "unverified" },
+    { "id": "z_city_of_tears", "type": "zone", "name": "City of Tears", "fingerprintHint": "rain, blue lit windows", "reveal": { "existence": "m_city_access" }, "qaStatus": "unverified", "note": "GATED FIXTURE: included so the eval verifies early-marker players never hear 'City of Tears'." }
+  ],
+  "abilities": [
+    { "id": "a_mothwing_cloak", "type": "ability", "name": "Mothwing Cloak", "acquiredAtZone": "z_greenpath", "marker": "m_mothwing_cloak", "reveal": { "existence": "m_greenpath" }, "qaStatus": "verified" },
+    { "id": "a_mantis_claw", "type": "ability", "name": "Mantis Claw", "acquiredAtZone": "z_fungal", "marker": "m_mantis_claw", "reveal": { "existence": "m_fungal" }, "qaStatus": "unverified", "note": "Acquired in Mantis Village (Fungal region)." },
+    { "id": "i_city_crest", "type": "key_item", "name": "City Crest", "acquiredAtZone": "z_crossroads", "marker": "m_city_crest", "reveal": { "existence": "m_city_crest" }, "qaStatus": "unverified", "note": "Sourcing uncertain; existence-gated to its own acquisition so it is never named early." }
+  ],
+  "bosses": [
+    { "id": "b_false_knight", "type": "boss", "name": "False Knight", "zone": "z_crossroads", "marker": "m_false_knight", "reveal": { "existence": "m_crossroads" }, "qaStatus": "verified" },
+    { "id": "b_hornet_gp", "type": "boss", "name": "Hornet", "zone": "z_greenpath", "marker": "m_hornet_gp", "reveal": { "existence": "m_greenpath" }, "qaStatus": "verified" }
+  ],
+  "objectives": [
+    { "id": "o_descend_well", "type": "objective", "name": "Descend into the Crossroads", "zoneContext": "z_dirtmouth", "availableFrom": "m_game_start", "completedAt": "m_crossroads", "hopDescription": "Head down the well in the middle of town — that drops you into the Forgotten Crossroads.", "reveal": { "existence": "m_game_start" }, "qaStatus": "verified" },
+    { "id": "o_explore_crossroads", "type": "objective", "name": "Explore the Crossroads", "zoneContext": "z_crossroads", "availableFrom": "m_crossroads", "completedAt": "m_greenpath", "hopDescription": "Sweep the Crossroads — there's plenty to find, and a big armored knight down here worth taking on.", "reveal": { "existence": "m_crossroads" }, "qaStatus": "verified" },
+    { "id": "o_go_greenpath", "type": "objective", "name": "Head to Greenpath", "zoneContext": "z_crossroads", "availableFrom": "m_crossroads", "completedAt": "m_greenpath", "hopDescription": "Take the western exit out of the Crossroads toward the green, overgrown area.", "reveal": { "existence": "m_crossroads" }, "qaStatus": "unverified" },
+    { "id": "o_get_cloak", "type": "objective", "name": "Find the dash", "zoneContext": "z_greenpath", "availableFrom": "m_greenpath", "completedAt": "m_mothwing_cloak", "hopDescription": "Push deeper into Greenpath — there's a movement ability to grab that opens the map right up.", "reveal": { "existence": "m_greenpath" }, "qaStatus": "verified" }
+  ],
+  "connectors": [
+    { "id": "c_well", "type": "connector", "fromZone": "z_dirtmouth", "toZone": "z_crossroads", "bidirectional": true, "traversalGate": "m_game_start", "description": "The well in Dirtmouth down to the Forgotten Crossroads.", "qaStatus": "verified" },
+    { "id": "c_cross_green", "type": "connector", "fromZone": "z_crossroads", "toZone": "z_greenpath", "bidirectional": true, "traversalGate": "m_crossroads", "description": "Western passage from the Crossroads into Greenpath.", "qaStatus": "unverified" },
+    { "id": "c_cross_fungal", "type": "connector", "fromZone": "z_crossroads", "toZone": "z_fungal", "bidirectional": true, "traversalGate": "m_crossroads", "description": "Descent from the Crossroads toward the Fungal Wastes.", "qaStatus": "unverified" },
+    { "id": "c_green_fungal", "type": "connector", "fromZone": "z_greenpath", "toZone": "z_fungal", "bidirectional": true, "traversalGate": "m_greenpath", "description": "Southern route from Greenpath into the Fungal Wastes.", "qaStatus": "unverified" },
+    { "id": "c_fungal_city", "type": "connector", "fromZone": "z_fungal", "toZone": "z_city_of_tears", "bidirectional": false, "traversalGate": "m_city_access", "description": "Eastern climb from the Fungal Wastes up into the City of Tears.", "qaStatus": "unverified", "note": "GATED FIXTURE: traversal asserts passability only at m_city_access (needs Mantis Claw + City Crest)." }
+  ]
+}

@@ -1,0 +1,8 @@
+[
+  { "question": "Where do I find the Mantis Lords and what does beating them unlock?", "mustInclude": ["mantis village", "deepnest"] },
+  { "question": "How do I get to Greenpath from Dirtmouth?", "mustInclude": ["crossroads", "greenpath"] },
+  { "question": "What ability lets me cling to and jump off walls, and where is it?", "mustInclude": ["mantis claw"] },
+  { "question": "Who is the first major boss in the Forgotten Crossroads?", "mustInclude": ["false knight"] },
+  { "question": "What is the Mark of Pride and how do I get it?", "mustInclude": ["mantis", "charm"] },
+  { "question": "How do I open the abilities/charms menu to check what I've unlocked?", "mustInclude": ["charm"] }
+]

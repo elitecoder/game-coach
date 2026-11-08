@@ -1,0 +1,1796 @@
+{
+  "total": 182,
+  "corroborated": 70,
+  "panelKept": 158,
+  "panelDropped": 24,
+  "escalated": 0,
+  "decisions": {
+    "z_friends_boss_area": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Extracted from a dedicated boss source with explicit mention of 'Friends Boss Area'. Despite lacking prose corpus corroboration, the provenance from a structured boss guide is credible for game entities.",
+      "groundingSources": []
+    },
+    "z_lower_area": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Strong corroboration across 3 independent publishers with consistent mentions. 'Lower area' is clearly attested as a real game zone where bosses (Flora, Lombre) are located.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "z_lombre_boss_arena": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Extracted from dedicated boss source. Lombre is a confirmed boss in the game (attested in candidate [1] prose), so this arena name is credible even without independent prose corroboration.",
+      "groundingSources": []
+    },
+    "z_vlad_boss_area": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Extracted from dedicated boss source. Vlad appears to be a confirmed boss in the game's boss roster, making this arena name credible.",
+      "groundingSources": []
+    },
+    "z_lift_room": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Single publisher corroboration in slashskill_bosses with explicit mention in context of Ancile Targa boss location. The specific description of navigating through 'the lift room hole' indicates a real game location.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "z_ancile_targa_boss_area": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Extracted from dedicated boss source. Ancile Targa is a confirmed boss (attested in candidate [4] prose), so this arena designation is credible.",
+      "groundingSources": []
+    },
+    "z_debby_boss_area": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Extracted from dedicated boss source. Debby appears on the boss roster from the same source as other confirmed bosses.",
+      "groundingSources": []
+    },
+    "z_poltergates_boss_area": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Extracted from dedicated boss source. Poltergates appears to be a confirmed boss on the roster from the same source.",
+      "groundingSources": []
+    },
+    "z_late_game_story_progression": {
+      "decision": "drop",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "This is a temporal/progression descriptor, not a named zone. 'Late-game story progression' is a vague hedge describing when a boss appears, not a canonical location entity.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "z_end_of_main_story": {
+      "decision": "drop",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "This is a progression stage descriptor, not a named zone. 'End of main story' describes when the final boss appears, not a location entity.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "z_true_ending_path": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Strong corroboration across 2 independent publishers (SlashSkill, Wiki) with detailed information. Despite the name containing 'path', it appears to be a canonically named progression route with specific gameplay requirements and unique boss (Shii).",
+      "groundingSources": [
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_beginning": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Strong corroboration across 3 sources (2 independent publishers + video source) with consistent explicit naming. 'The Beginning' is clearly a named opening area/chapter of the game.",
+      "groundingSources": [
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ]
+    },
+    "z_hall_of_history": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Named zone explicitly mentioned in walkthrough with specific mechanical context (elevator in Hall of History to access area below robot city). Single-source grounding is typical for location names in walkthroughs.",
+      "groundingSources": [
+        "mio_intoindie_hub"
+      ]
+    },
+    "z_early_game_area": {
+      "decision": "drop",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "This is a vague descriptor, not a real zone. 'Early Game Area' is a categorical label used to describe where early bosses appear, not an actual in-game location name. The context shows it's used as a classification system (story-related boss that unlocks early progression) rather than a named zone.",
+      "groundingSources": [
+        "mio_wiki_bosses"
+      ]
+    },
+    "z_aviaries": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Aviaries is a named zone corroborated across 4 independent publishers with consistent gameplay details. Boss (Flora) location, key item (Aviaries Passepartout), and progression context all align. Strong evidence this is a real, accessible zone.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_area_above_metropolis": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Named zone with boss (The Last Embedders) and specific access route (via Dwellings from Metropolis). Single-source grounding but coherent with game geography and boss progression.",
+      "groundingSources": [
+        "mio_wiki_bosses"
+      ]
+    },
+    "z_promenade_entrance": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Named zone with a fast travel point and optional boss. Specific enough to be a real zone; single-source grounding is acceptable for named locations with mechanical anchors (fast travel points).",
+      "groundingSources": [
+        "mio_wiki_bosses"
+      ]
+    },
+    "z_nexus_apartments": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Specific named zone within Nexus (area designation pattern). Boss location with trophy requirement. Single source but zone name is concrete enough and tied to clear mechanical context.",
+      "groundingSources": [
+        "mio_wiki_bosses"
+      ]
+    },
+    "z_network_gates": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Network Gates is a named zone/mechanic location corroborated across 4 pages. Consistent reference as a functional hub for equipment management (Modifications, Allocation Matrix). Video-attested as a real system location.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_egis_arena": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Extracted from authoritative second boss source without prose grounding. Arena-naming pattern ('X Arena') is consistent with game's named boss locations. Provenance from official boss guide is sufficient even without wiki corroboration.",
+      "groundingSources": []
+    },
+    "z_nacre_basin_egis": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Nacre Basin (Egis) is corroborated across 2 independent publishers. Specific functional reference as a healing station near boss arenas. Real zone with gameplay mechanic.",
+      "groundingSources": [
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "z_crow_arena": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Extracted from authoritative second boss source (all bosses + strategies). Consistent arena naming pattern. Boss name (Crow) is attested in prose (ref 2 shows 'boss: crow'). Arena is likely real despite lacking prose confirmation.",
+      "groundingSources": []
+    },
+    "z_calderon_arena": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Extracted from authoritative second boss source. Arena naming pattern is consistent with game structure. Without contrary evidence, assume it's a real boss arena name from official guide.",
+      "groundingSources": []
+    },
+    "z_anra_dr_halyn_boss_area": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Extracted from authoritative second boss source. Boss names (Anra / Dr. Halyn) are attested in prose context (refs mention 'bosses like ATI, Dr Halyn'). Arena location is likely real despite lacking direct prose confirmation.",
+      "groundingSources": []
+    },
+    "z_silo": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Silo is a core zone with strong multi-publisher corroboration. Attested in walkthrough (progression spine), boss guide (Egis location), and multiple independent sources. The silo access badge and path to feral undergrowth establish it as a real progression location.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_manufactory": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Manufactory is attested as a zone containing optional bosses (Twisted Baron). Despite being grounded in only one independent publisher, it is explicitly listed in the progression spine (walkthrough) and mentioned alongside other named zones. The requirement for 6 fragmented serial numbers and boss placement establishes it as a real location.",
+      "groundingSources": [
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_network_gate": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "Network Gate is a core gameplay mechanic location, not just a zone but a functional landmark. Attested across 3 independent publishers, including video walkthrough and ability guide. Multiple independent sources confirm save points and modification equipment functionality.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_severed_spine": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "The Severed Spine is explicitly named as a zone in the opening area walkthrough (part 1). Appears in both walkthrough hub table of contents and dedicated part 1 walkthrough. Single independent publisher but strong structural evidence from progression documentation.",
+      "groundingSources": [
+        "mio_intoindie_hub",
+        "mio_intoindie_part1"
+      ]
+    },
+    "z_dwellings": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Dwellings is the tutorial/starting area with overwhelming corroboration across 5 independent publishers. Mentioned explicitly as 'starting area' in progression, with boss guides (Acat) and walkthrough parts. This is unambiguously a real zone.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_bosses"
+      ]
+    },
+    "z_feral_undergrowth": {
+      "decision": "keep",
+      "confidence": 0.96,
+      "basis": "panel",
+      "reason": "Feral Undergrowth is a progression zone accessible after defeating Egis (silo access badge reward). Attested across 2 independent publishers with consistent descriptions ('pastel biome with mechanical bugs and birds'). Part of the narrative progression chain.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub"
+      ]
+    },
+    "z_promenade": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Promenade is a late-game area before endgame boss, attested across 3 independent publishers. Mentioned in progression chain (final area before Sol/Vin), walkthrough hub structure, and contains named optional bosses (Buried). Clear progression landmark.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_bosses"
+      ]
+    },
+    "z_breath": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "The Breath is a named zone (also a trophy/pearl fragment name) with strong multi-publisher corroboration across 4 independent sources. Contains named boss (Nabuu) and story progression content. Appears in both walkthrough structure and boss guides.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_slashskill_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_foundations": {
+      "decision": "keep",
+      "confidence": 0.94,
+      "basis": "panel",
+      "reason": "Foundations is a mid-game zone connecting multiple biomes with boss Calderon. Attested across 2 independent publishers in both walkthrough and hub structure. Described as 'multi-path area' with specific progression context (sail ability requirement).",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub"
+      ]
+    },
+    "z_blood": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "The Blood is a core endgame zone (also a pearl fragment name) with strong 3-publisher corroboration. Contains final boss context (Keeper of the Heart) and explicit trophy/pearl fragment naming. Part of the endgame progression chain.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_hand": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "The Hand is a core endgame zone (also a pearl fragment name) with strong 3-publisher corroboration. Part of the four pearl fragments quest (the blood, the eye, the breath, the hand). Explicit naming in vaults area with trophy/progression context.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_spine": {
+      "decision": "keep",
+      "confidence": 0.94,
+      "basis": "panel",
+      "reason": "The Spine appears to be a late-game/endgame location related to the game's central narrative (disconnection from the spine as plot point). Attested across 2 independent publishers including video walkthrough. Referenced in part 11 title and explicitly named in gameplay video.",
+      "groundingSources": [
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ]
+    },
+    "z_nexus": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Nexus is heavily corroborated across 3 independent publishers (game wiki, IntIndie, wiki sources). Appears in progression spine as early-game starting area and endgame hub. Multiple mentions of specific features (Nexus Attunor checkpoints, apartments area). Clear video attestation in walkthrough content.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_vessel": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "The Vessel is the main setting of the game—explicitly described as 'vast, decaying space station' in IntIndie hub. Corroborated across 3 independent publishers with consistent references to exploring its biomes. Attested in progression spine, abilities guides, and beginner guides. This is the game's primary environment.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_metropolis": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Metropolis is a named area in mid-late game, corroborated across 4 independent publishers. Described as 'urban-themed area with vertical design' with specific boss (Friends). Appears in progression spine sequence and video walkthrough (reference to 'way to metropolis'). Clearly part of this game's geography.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_vaults": {
+      "decision": "keep",
+      "confidence": 0.93,
+      "basis": "panel",
+      "reason": "The Vaults is attested in progression spine as a mid-late game area with specific boss (Sawlong). Corroborated across 4 independent publishers. Appears in multiple walkthrough parts and boss strategies. Features specific mechanics (accessing via nacre, pump activation). Clear video attestation.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_haven": {
+      "decision": "keep",
+      "confidence": 0.96,
+      "basis": "panel",
+      "reason": "Haven is a major mid-game area, corroborated across 4 independent publishers. Appears in progression spine with specific progression markers (Bell Tower access, Glide ability). Named in video walkthrough. Revisited during late game (part 5 of walkthrough). Clear geographic and progression relevance.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_abilities",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_lab": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "The Lab appears in progression spine (part 8) as a late-game area with specific mechanics (wheel puzzle, hand repair). Corroborated across 2 independent publishers. Referenced in abilities (Crucible access via lab wheel) and walkthrough. Fewer sources than some candidates, but consistent attestation.",
+      "groundingSources": [
+        "mio_intoindie_hub",
+        "mio_wiki_abilities",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_crucible": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "The Crucible is attested as a specific challenge area in progression spine (unlocked via lab wheel puzzle). Appears in abilities guide as source of final traversal ability (Flowing Steps). Referenced in boss path (leads to library/true ending). Single publisher is concerning but content is specific and internally consistent.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_bell_tower": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "Bell Tower is a major progression landmark, corroborated across 4 independent publishers. Appears in progression spine with specific ability unlock (Glide/Sail). Multiple references to access route (from Haven/Dwellings) and climbing mechanics. Video walkthrough mentions it as navigation point.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_slashskill_bosses",
+        "mio_wiki_abilities",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_canopy": {
+      "decision": "keep",
+      "confidence": 0.83,
+      "basis": "panel",
+      "reason": "Canopy appears as a late-game location accessed via Bell Tower with gloom waterfall climb mechanic. Attested in abilities, bosses, and walkthrough sections. Single publisher is concerning, but appears in progression spine and is specifically referenced in true ending path. Geographic and progression specificity supports validity.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_library": {
+      "decision": "keep",
+      "confidence": 0.82,
+      "basis": "panel",
+      "reason": "The Library is attested as final boss location (Shii) in true ending path. Appears in progression spine and multiple guide sections. Single publisher is concerning, but specific boss fight and unlock conditions (Crucible→Flowing Steps→gloom waterfall) provide strong internal consistency and validation.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_celestial_bay": {
+      "decision": "keep",
+      "confidence": 0.72,
+      "basis": "panel",
+      "reason": "Celestial Bay appears once in walkthrough as an optional area to explore. Single publisher, single mention, but listed alongside other confirmed optional areas (The Pit, Canopy, Silo) in exploration checklist. Weak but valid attestation as an optional zone.",
+      "groundingSources": [
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_pit": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "The Pit is corroborated across 2 independent publishers. Attested as second encounter location for boss Sawlong, and as location of severed fingertip (progression item) in true ending path. Appears in progression spine. Specific mechanics (drop access beneath vaults) provide geographic clarity.",
+      "groundingSources": [
+        "mio_slashskill_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_l1_the_spine": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Explicitly named zone in walkthrough with clear directional instructions. Video-attested from official walkthrough source.",
+      "groundingSources": [
+        "mio_intoindie_part1"
+      ]
+    },
+    "z_l2_apartments": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Explicitly named zone in walkthrough with clear navigation instructions. Video-attested from official walkthrough source.",
+      "groundingSources": [
+        "mio_intoindie_part1"
+      ]
+    },
+    "z_dwellings_3": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Extracted from walkthrough part 1 opening areas, indicating video attestation even though no prose snippet preserved. Zone naming convention matches other verified locations (Dwellings #3).",
+      "groundingSources": []
+    },
+    "z_blocked_off_dome": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Explicitly named zone with detailed navigational context and item collection (kinetic thrust) in walkthrough.",
+      "groundingSources": [
+        "mio_intoindie_part1"
+      ]
+    },
+    "z_nacre_basin": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Corroborated by multiple independent sources (2 publishers). Named in both walkthrough and boss guide contexts. Clearly a real game location.",
+      "groundingSources": [
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "z_strange_tube": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Strongly corroborated by 3 independent sources. Named explicitly in multiple contexts including boss encounter (Egis), network gates, and ability acquisition (hairpin grapple).",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "z_digital_world": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Explicitly named game zone in walkthrough with clear narrative context (cutscene, new ability acquisition). Video-attested.",
+      "groundingSources": [
+        "mio_intoindie_part1"
+      ]
+    },
+    "z_severed_spine_apartments": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Extracted from walkthrough video source; appears to be a compound zone name combining L1/Spine with Apartments area. Naming convention aligns with 'The Severed Spine' (L1) + Apartments (L2).",
+      "groundingSources": []
+    },
+    "z_dwellings_6": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Extracted from walkthrough video source. Follows established naming convention (Dwellings #3 confirmed, #6 likely related). Video provenance suggests real zone.",
+      "groundingSources": []
+    },
+    "z_auma_s_giga_s_room": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Extracted from early game progression source (likely video). Specific character-named room suggests real location; consistent with NPC-named areas (Lash, Auma, Giga referenced).",
+      "groundingSources": []
+    },
+    "z_lash_s_room": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Extracted from early game progression video source. Specific NPC-named location (Lash) suggests real in-game room. Consistent with character-location naming in [9].",
+      "groundingSources": []
+    },
+    "z_icy_cavern": {
+      "decision": "keep",
+      "confidence": 0.72,
+      "basis": "panel",
+      "reason": "Extracted from early game progression. Named environment (Icy Cavern) suggests distinct gameplay zone. Follows naming convention of other verified zones.",
+      "groundingSources": []
+    },
+    "z_frozen_ruins_platform": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Extracted directly from early game progression video/walkthrough. Zone name is specific and plausible for a game titled 'memories-in-orbit'. No contradictory evidence.",
+      "groundingSources": []
+    },
+    "z_spine_floor": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Directly quoted in official walkthrough video with explicit navigation context ('head up to level one, the spine floor, and then east across the spine floor'). Clear zone name.",
+      "groundingSources": [
+        "mio_vid_walkthrough_1"
+      ]
+    },
+    "z_network_gate_room": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Extracted from early game progression walkthrough. Specific zone name consistent with game's naming conventions. No evidence of contamination.",
+      "groundingSources": []
+    },
+    "z_torn_overseer_area": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Extracted from early game progression. Name is specific and thematically consistent ('Overseer' fits sci-fi/orbital game theme). No cross-contamination markers.",
+      "groundingSources": []
+    },
+    "z_heart": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Corroborated across 2 independent publishers with explicit boss reference ('The Keeper of the Heart' as final boss). This is core endgame content clearly attested in the game.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "z_ati_keeper_of_the_heart_arena": {
+      "decision": "drop",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "This appears to be a descriptor-based contamination. 'ATI, Keeper Of The Heart Arena' mixes acronym/name with arena descriptor. Likely an extraction artifact or conflation with the boss 'Keeper of the Heart' rather than a canonical zone name.",
+      "groundingSources": []
+    },
+    "z_ati_s_chamber": {
+      "decision": "drop",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Generic descriptor structure. While 'Chamber' is plausible for a boss arena, this lacks any corroboration and appears to be a descriptive label rather than a canonical zone name.",
+      "groundingSources": []
+    },
+    "z_heart_cavern": {
+      "decision": "drop",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Generic location descriptor. 'Heart Cavern' could relate to The Heart zone, but lacks specific attestation and appears to be a descriptive label for a boss area rather than canonical naming.",
+      "groundingSources": []
+    },
+    "z_memory_void": {
+      "decision": "keep",
+      "confidence": 0.78,
+      "basis": "panel",
+      "reason": "Extracted from boss fights section with specific zone name. While not corroborated in prose, the name is distinct and specific enough to suggest real game content, possibly a post-game or late-game area.",
+      "groundingSources": []
+    },
+    "z_unknown_area": {
+      "decision": "drop",
+      "confidence": 0.95,
+      "basis": "absent",
+      "reason": "This is explicitly a descriptor placeholder, not a canonical zone name. 'Unknown Area' violates the rule against vague hedges and is clearly not a real entity.",
+      "groundingSources": []
+    },
+    "z_crow_boss_fight_prior_segment": {
+      "decision": "drop",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "This is a descriptor phrase ('prior segment') rather than a zone name. It describes a narrative/progression state, not a canonical location. Violates descriptor rule.",
+      "groundingSources": []
+    },
+    "z_haven_prior_to_promenade": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Heavily corroborated across 4 independent publishers with 6 page references. Explicitly mentioned in walkthrough guides with progression context ('Bell Tower', 'Glide ability access'). The parenthetical 'prior to Promenade' is a progression marker, but 'Haven' itself is undoubtedly a canonical zone.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_abilities",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_dwellings_feral_undergrowth_border": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Extracted from walkthrough hub (video-attested source material for this game). Represents a real zone boundary/transition point in the game world. The location descriptor is specific enough to indicate a discrete area.",
+      "groundingSources": []
+    },
+    "z_prior_to_metropolis": {
+      "decision": "drop",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "This is a descriptor, not a discrete zone. 'Prior to Metropolis' is a vague temporal/progression marker ('Before entering zone X') rather than a named location. Fails the entity-vs-descriptor test.",
+      "groundingSources": []
+    },
+    "z_vaults_the_lab": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Two specific, named locations linked by a slash, extracted from walkthrough hub. Both 'The Vaults' and 'The Lab' appear to be proper zone names within the game world.",
+      "groundingSources": []
+    },
+    "z_unknown": {
+      "decision": "drop",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "The word 'Unknown' in the prose context ('unknown object') refers to an item's state, not a zone name. The phrase 'Unknown' as a zone label is a descriptor placeholder, not a real entity name.",
+      "groundingSources": [
+        "mio_intoindie_part1"
+      ]
+    },
+    "z_general": {
+      "decision": "drop",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "'General' is used throughout the sources as a thematic/categorical descriptor ('bosses in general', 'general boss strategy', 'general progression'). It is not a named zone. Contradicts the rule against vague hedges and descriptors.",
+      "groundingSources": [
+        "mio_vid_walkthrough_1",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "z_early_game_areas": {
+      "decision": "drop",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "'Early game areas' is a temporal/progression descriptor, not a zone name. It groups multiple unnamed areas by their progression tier, similar to rejected examples like 'Prior to Metropolis'.",
+      "groundingSources": []
+    },
+    "z_various_collectible_locations": {
+      "decision": "drop",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "'Various collectible locations' is a vague, non-specific descriptor. It is a categorical label for multiple scattered unnamed locations, not a real zone.",
+      "groundingSources": []
+    },
+    "z_n_a_intro_segment_only": {
+      "decision": "drop",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "'N/A — intro segment only' is a descriptor/metadata label indicating a section of the game without a zone name. 'N/A' explicitly marks it as 'not applicable' for zone classification.",
+      "groundingSources": []
+    },
+    "z_feral_undergrowth_the_severed_spine": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Two named zones linked by a slash, extracted from early game progression. 'Feral Undergrowth' and 'The Severed Spine' are both proper zone names in the game world.",
+      "groundingSources": []
+    },
+    "z_haven_metropolis": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Two named zones ('Haven' and 'Metropolis') linked in early game progression, extracted from a game source. Both appear to be proper zone names.",
+      "groundingSources": []
+    },
+    "z_n_a_outro_segment": {
+      "decision": "drop",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "'N/A – outro segment' is metadata/descriptor. The 'N/A' explicitly indicates this is not a zone, and 'outro segment' is a game phase, not a location.",
+      "groundingSources": []
+    },
+    "a_modifiers": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Modifiers is a real, named game system/mechanic. Corroborated across 6 pages and 3 independent publishers. Video-attested from walkthrough ('one of the most powerful modifiers in the game'). Clear proper noun in game terminology.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_coating_components": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Coating Components is explicitly grounded in multiple independent sources (wiki_walkthrough, wiki_bosses, mio_wiki_walkthrough) with consistent quantification (24 coating components listed). Multiple publisher corroboration and extraction from progression spine and boss guides strongly establish this as a real in-game collectible.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_mod_extensions": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Mod Extensions appears across 3 pages and is explicitly listed as a collectible in the walkthrough checklist ('all 7 mod extensions') and mentioned in boss preparation context. Extracted from multiple authoritative sources (abilities guide, boss list, walkthrough). Single publisher is expected for wiki coverage of same game.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_allocation_matrix": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Allocation Matrix is a core game system documented in beginner guide, boss guide, walkthrough, and abilities page—extracted from multiple authoritative progression/educational sources. Described as essential system players must understand for success, indicating it's a real mechanic, not a vague descriptor.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_solid_nacre": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Solid Nacre is documented as a distinct currency form separate from Liquid Nacre, with specific mechanical purpose (storable currency for purchases). Appears in abilities guide explaining upgrades, beginner guide warning system, and walkthrough strategy. Clear in-game implementation as item type.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_nacre_droplets": {
+      "decision": "keep",
+      "confidence": 0.93,
+      "basis": "panel",
+      "reason": "Nacre Droplets is corroborated by 2 independent publishers with specific gameplay context (respawn mechanics, precise loss amounts like '50 droplets'). Listed in trophy achievements requiring specific quantities ('2000 nacre droplets', '500 nacre droplets'). Clear progression/currency mechanic.",
+      "groundingSources": [
+        "mio_intoindie_part1",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_double_jump": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "Double Jump is corroborated by 3 independent publishers (intoindie_part1, slashskill_bosses, mio_wiki sources). Documented as available from game start, used in both platforming and combat, with discussion of advanced techniques and reset mechanics. Extracted from walkthrough, boss strategies, and abilities documentation.",
+      "groundingSources": [
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_wiki_abilities",
+        "mio_wiki_beginner"
+      ]
+    },
+    "a_hairpin_grapple": {
+      "decision": "keep",
+      "confidence": 0.96,
+      "basis": "panel",
+      "reason": "Hairpin Grapple is corroborated by 2 independent publishers (mio_game_wiki, mio_wiki sources) across 5 pages. Documented as core early ability with specific unlock point (Egis boss reward, ~3 hours in), essential for navigation, and mentioned in boss strategy context. Core traversal mechanic.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_arachnid_locomotion": {
+      "decision": "keep",
+      "confidence": 0.91,
+      "basis": "panel",
+      "reason": "Arachnid Locomotion (spider movement) is documented across 3 pages with consistent terminology and specific description. Extracted from abilities guide, beginner guide, and walkthrough with clear unlock timeline (~8 hours). Described as unique traversal ability allowing wall/ceiling navigation, indicating a discrete core mechanic.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_modifier_extensions": {
+      "decision": "keep",
+      "confidence": 0.78,
+      "basis": "panel",
+      "reason": "Modifier Extensions is mentioned in only 1 page (beginner guide) and described as an expansion system for allocation matrix capacity. The phrasing 'modifier extensions can expand your allocation matrix capacity' suggests it is a real item/system, but limited corroboration and single page sourcing warrant caution. Could be confused with [1] Mod Extensions.",
+      "groundingSources": [
+        "mio_wiki_beginner"
+      ]
+    },
+    "a_dash_deflect": {
+      "decision": "keep",
+      "confidence": 0.89,
+      "basis": "panel",
+      "reason": "Dash/Deflect is documented across 3 pages in beginner, abilities, and walkthrough sources. Described with specific mechanics (perfect dodge/parry/block rather than traditional dash) and unlock timeline (~8 hours+). Extracted from abilities documentation and progression timeline, indicating core combat ability.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_gliding": {
+      "decision": "keep",
+      "confidence": 0.89,
+      "basis": "panel",
+      "reason": "Gliding is documented across 3 pages with specific unlock timing (~8 hours in). Appears in abilities guide, beginner guide, and walkthrough as traversal ability essential for crossing gaps and accessing areas. Clear in-game mechanic with purpose and unlock condition.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_orbs": {
+      "decision": "keep",
+      "confidence": 0.87,
+      "basis": "panel",
+      "reason": "Orbs (projectile attacks) is documented across 2 pages (abilities guide, beginner guide) as a combat ability allowing ranged attacks. Appears in late-game progression (~8 hours+). Single publisher but consistent documentation as attack mechanic with clear purpose.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner"
+      ]
+    },
+    "a_decoy_clones": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Decoy Clones is explicitly described as an ability mio can create to strike from unexpected angles. Appears consistently across two independent wiki sources (abilities and beginner guide) with detailed mechanical description. Clear game-attested ability.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner"
+      ]
+    },
+    "a_grappling": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Grappling is a core traversal/movement mechanic appearing across three independent pages (abilities, beginner guide, bosses) with specific mechanical references (timing, momentum, energy management). Clear evidence of a real traversal system in this game.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses"
+      ]
+    },
+    "a_liquid_nacre": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Liquid Nacre is clearly the primary resource system in 'mio: memories in orbit.' Explicitly named with critical mechanical details (lost on death, convertible to solid nacre). Appears in both abilities and beginner guide sources. Real game mechanic.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner"
+      ]
+    },
+    "a_map_function": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Map Function is described as unlocked through story progression, with comparison to Hollow Knight mechanics. Appears in both beginner guide and walkthrough, showing it's a real game system element.",
+      "groundingSources": [
+        "mio_wiki_beginner",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_aerial_combat_jump_reset": {
+      "decision": "drop",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "This ability is NOT found in the prose corpus at all. Despite being marked as extracted from beginner guide and abilities pages, no actual text evidence is provided. Without any prose grounding, cannot verify this is a real entity rather than a contaminated or fabricated entry.",
+      "groundingSources": []
+    },
+    "a_corrupted_boss_mode": {
+      "decision": "keep",
+      "confidence": 0.94,
+      "basis": "panel",
+      "reason": "Corrupted Boss Mode is explicitly described as an assist feature where bosses weaken after each death. Appears in both beginner guide and bosses sources with consistent description. Clear evidence of a real game feature.",
+      "groundingSources": [
+        "mio_wiki_beginner",
+        "mio_wiki_bosses"
+      ]
+    },
+    "a_pacifist_mode": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Pacifist Mode is explicitly named as an assist feature that prevents regular enemy attacks and enables exploration/platforming focus. While only grounded in one page, it is clearly described as a real accessibility feature.",
+      "groundingSources": [
+        "mio_wiki_beginner"
+      ]
+    },
+    "a_first_ability_dwellings": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "While 'First ability (Dwellings)' is a vague descriptor, it IS video-attested: appears in walkthrough sources documenting a specific progression point. The actual name of the ability is not given, but the entity represents a real story/progression milestone (unlocking first ability in Dwellings zone).",
+      "groundingSources": [
+        "mio_intoindie_hub",
+        "mio_intoindie_part1"
+      ]
+    },
+    "a_important_ability_the_severed_spine_revisit": {
+      "decision": "drop",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "This is a vague descriptor ('Important ability') without a specific entity name. While it references a real story event (unlocking an ability in The Severed Spine), it fails the 'no vague hedges' rule. The actual ability name is not provided, making this a placeholder rather than a concrete entity.",
+      "groundingSources": [
+        "mio_intoindie_hub"
+      ]
+    },
+    "a_powerful_new_ability_post_flora": {
+      "decision": "drop",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "This is a clear vague hedge descriptor ('Powerful new ability (post-Flora)'). It describes a story event but does not provide the actual ability name. According to rules, vague hedges must be dropped as they are not real entities.",
+      "groundingSources": [
+        "mio_intoindie_hub"
+      ]
+    },
+    "a_harvester": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Harvester is strongly corroborated across 3 independent publishers (game wiki, intoindie hub, slashskill bosses). Clearly identified as an ability reward from defeating Crow boss. Multiple sources confirm this is a real, obtainable game item/ability.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "a_bell_tower_visitor_pass": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Bell Tower Visitor Pass is named as a key item required to unlock progression to new areas. While only one source, it is explicitly described with a clear mechanical purpose (gating area access). Video-attested from walkthrough.",
+      "groundingSources": [
+        "mio_intoindie_hub"
+      ]
+    },
+    "a_hairpin": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Hairpin is a core traversal ability attested across 5 independent publishers including walkthrough and boss guide sources. Multiple sources confirm it unlocks from Egis boss and is used to access Crow boss arena. Essential for game progression.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_protective_overlay_modifier": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Protective Overlay Modifier is attested in 2 independent publisher sources (walkthrough and boss guide). Described as a container pickup that provides defensive benefits for longer fights.",
+      "groundingSources": [
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "a_kinetic_thrust_modifier": {
+      "decision": "keep",
+      "confidence": 0.78,
+      "basis": "panel",
+      "reason": "Kinetic Thrust Modifier appears in boss guide strategizing content. Single publisher source is a limitation, but the phrasing indicates it's a real game mechanic affecting damage output during aggressive play.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "a_dodge": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "Dodge is a fundamental combat ability heavily attested across 5 independent publishers. Confirmed as obtainable from Strange Tube, provides invincibility frames. Core mechanic for combat progression.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses"
+      ]
+    },
+    "a_sail": {
+      "decision": "keep",
+      "confidence": 0.96,
+      "basis": "panel",
+      "reason": "Sail is a core traversal ability confirmed in 2 independent sources (wiki walkthrough and boss guide). Obtained from Strange Tube at Bell Tower, enables gliding and crossing gaps. Used in boss encounters.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "a_slingshot": {
+      "decision": "keep",
+      "confidence": 0.94,
+      "basis": "panel",
+      "reason": "Slingshot is a key item (not ability) attested in 2 independent sources. Used for breaking barriers and required for boss encounters (Sawlong, Ancile/Targa). Clear progression item.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "a_friendly_invitation": {
+      "decision": "keep",
+      "confidence": 0.72,
+      "basis": "panel",
+      "reason": "Friendly Invitation is a key item mentioned in a boss guide for accessing a specific boss encounter. Single source, but the mention is specific and contextual (required to fight 'Friends 🙂' boss).",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "a_map": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Map is a core progression item attested across 5 independent publishers. Listed as 'unlocking the map' progression goal in multiple sources including walkthrough and video guides.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_analyser": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Analyser is a modifier type obtained from NPC 'Rad' in Severed Spine area. Single source but clearly integrated into game's modifier system with explanatory context about modifier mechanics.",
+      "groundingSources": [
+        "mio_intoindie_part1"
+      ]
+    },
+    "a_kinetic_thrust": {
+      "decision": "keep",
+      "confidence": 0.94,
+      "basis": "panel",
+      "reason": "Kinetic Thrust is a core modifier attested in 2 independent sources. Described as 'one of the most powerful modifiers' with specific location (blocked dome in new zone). Appears in boss strategy guide.",
+      "groundingSources": [
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "a_absorb_tendrils": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Absorb Tendrils is a permanent upgrade obtained from a deactivated robot in ice area. Single source but very specific context (location, interaction method, permanent damage increase effect).",
+      "groundingSources": [
+        "mio_intoindie_part1"
+      ]
+    },
+    "a_attuner": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Attuner (Nexus Attuner) is identified as the game's checkpoint system. Single source but provides clear mechanical explanation (save/heal function) consistent with metroidvania design.",
+      "groundingSources": [
+        "mio_intoindie_part1"
+      ]
+    },
+    "a_glide": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Glide is a core traversal ability attested across 3 independent pages and 2 independent publishers (wiki walkthrough, IntoIndie hub, IntoIndie part 1). Multiple contextual mentions confirm it's a real, essential ability for progression (bell tower, crossing dark chasm, icy surfaces). This is consistent with a platformer game mechanic.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_intoindie_part1"
+      ]
+    },
+    "a_flowing_steps": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "Flowing Steps is attested across 4 independent pages and 2 publishers (wiki walkthrough, wiki abilities, wiki bosses, wiki walkthrough again). Described as 'final traversal ability' earned from Crucible platforming challenges, used to climb Gloom Waterfall. Appears in boss guide context with specific progression value. Extracted from both abilities and bosses lists.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_wiki_abilities",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_old_fashioned_key": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Old-Fashioned Key attested in 2 independent pages from single publisher (mio_wiki). Grounded in boss progression: reward for defeating Calderon. While single-publisher, this is extracted from the official game wiki's boss list and walkthrough, which are authoritative game sources. The progression context (story boss reward) confirms it's a real in-game item.",
+      "groundingSources": [
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_lura_s_seal": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Lura's Seal has NO prose evidence but appears in extraction metadata as coming from 'full boss list (grounds boss names like ATI, Dr Halyn)'. This indicates video-source provenance from the game itself. Following the rule that video-attested items from the game's own boss guide are kept even without prose repetition, this should be retained. It's a progression key item in the story sequence (mentioned in context of defeating Sol & Vin).",
+      "groundingSources": []
+    },
+    "a_aviaries_passepartout": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Aviaries Passepartout is robustly attested across 5 pages and 4 independent publishers (wiki walkthrough, IntoIndie part 1, SlashSkill bosses, wiki bosses). Multiple sources confirm it's a key item dropped by Flora boss, essential for accessing Aviaries area. Extracted from authoritative sources including walkthrough and boss guides. Clear progression gate item.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_fragmented_serial_numbers": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Fragmented Serial Numbers attested across 2 pages from single publisher (mio_wiki). Extracted from official wiki's boss and walkthrough sections with clear function: collecting all 6 unlocks the Manufactory area and access to optional bosses. This is a key progression item for true ending content. Single-publisher but from authoritative wiki source.",
+      "groundingSources": [
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_friends_invitation": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Friends Invitation attested in 1 page from mio_wiki bosses. Extracted from official game wiki's boss list with clear context: optional boss gate in Canopy area (requires item to unlock). While minimal attestation (single page, single publisher), the extraction from authoritative boss source and specific progression context (unlocks door to optional boss) confirms it's a real in-game item.",
+      "groundingSources": [
+        "mio_wiki_bosses"
+      ]
+    },
+    "a_protective_overlay": {
+      "decision": "keep",
+      "confidence": 0.97,
+      "basis": "panel",
+      "reason": "Protective Overlay is a modifier ability attested across 4 pages and 4 independent publishers (wiki walkthrough, IntoIndie part 1, SlashSkill bosses, wiki bosses). Described as defensive modifier that grants extra health layer. Extracted from boss guides, walkthrough, and abilities sources. Appears in context of end-game and boss preparation strategies.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses"
+      ]
+    },
+    "a_enhanced_dodge": {
+      "decision": "keep",
+      "confidence": 0.82,
+      "basis": "panel",
+      "reason": "Enhanced Dodge attested in 1 page from mio_wiki bosses. Extracted from official game wiki's boss list, mentioned as defensive modifier option alongside Protective Overlay. While single-source, it appears in context of explaining game's modifier system for boss strategies. Consistent with defensive modifier options available in game.",
+      "groundingSources": [
+        "mio_wiki_bosses"
+      ]
+    },
+    "a_strider": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Strider attested in 1 page from mio_wiki abilities. Extracted from official wiki's abilities & upgrades section (traversal abilities). Described as spider-like movement ability, also called 'spider movement'. Single-publisher but from authoritative source focused on ability documentation. Consistent with game's traversal mechanic system.",
+      "groundingSources": [
+        "mio_wiki_abilities"
+      ]
+    },
+    "a_modifications": {
+      "decision": "drop",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Modifications is a descriptor/system category, not a discrete entity. While attested across 3 wiki pages, it refers to the general modifier system (allocation matrix, mod extensions) rather than a specific ability or item. The noun phrase is too vague to constitute a real collectable entity. It's a game mechanic descriptor ('Modifications, Mod Extensions') not a concrete in-game object.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses"
+      ]
+    },
+    "a_silo_access_badge": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Silo Access Badge is robustly attested across 3 pages and 3 independent publishers (wiki walkthrough, IntoIndie part 1, SlashSkill bosses). Extracted from multiple authoritative sources (boss guide, walkthrough parts). Described as boss reward from Egis encounter, gates progression to Feral Undergrowth. Clear progression item with specific mechanical purpose.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "a_old_core": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Old Core is heavily attested across 3 independent publishers with explicit mentions in walkthrough guides. It's explicitly listed as a collectible item (39 total) with a trophy ('The Collector'). Video-extracted provenance confirmed.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "a_crystallized_nacre": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Crystallized Nacre is extracted from video walkthrough (early game progression source), which is a primary game source. Despite not appearing in prose corpus, video extraction is valid provenance for real entities.",
+      "groundingSources": []
+    },
+    "a_extra_health_mod": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Extra Health Mod is extracted from early game progression video walkthrough, a primary game source. The specific name and progression context suggest real extraction rather than contamination.",
+      "groundingSources": []
+    },
+    "a_aviary_s_passport": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Aviary's Passport is extracted from early game progression video. The name references 'Aviaries' (a confirmed location/character element seen in corpus: 'aviaries passepartout'). Specific naming suggests real extraction.",
+      "groundingSources": []
+    },
+    "a_forebear_s_legacy": {
+      "decision": "keep",
+      "confidence": 0.72,
+      "basis": "panel",
+      "reason": "Forebear's Legacy is extracted from early game progression video. While not prose-attested, the specific poetic naming and extraction from early progression context suggests real game content rather than error.",
+      "groundingSources": []
+    },
+    "a_haven_ability": {
+      "decision": "keep",
+      "confidence": 0.7,
+      "basis": "panel",
+      "reason": "Haven Ability is extracted from early game progression video. Haven is confirmed as a location in the game (mentioned in corpus: 'haven (eastern section)'). Specific ability naming suggests real extraction.",
+      "groundingSources": []
+    },
+    "a_metropolis_ability": {
+      "decision": "drop",
+      "confidence": 0.82,
+      "basis": "panel",
+      "reason": "Metropolis Ability appears to be a vague descriptor ('Metropolis Ability' with no specific name) rather than a concrete entity. This matches the DROP DESCRIPTORS rule. Even if extracted from video, unnamed abilities by area name are generic hedges.",
+      "groundingSources": []
+    },
+    "b_egis": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Egis is heavily attested across 5 independent publishers (game wiki, intoindie, slashskill, wiki bosses) with consistent naming as 'Egis – Worn Out Sentinel'. Appears in story boss progression and boss strategy guides. Fully video-attested.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_calderon": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Calderon is attested across 4 independent publishers (game wiki, slashskill, wiki bosses, wiki walkthrough) with consistent naming as 'Calderon – Unyielding Furnace'. Clear progression boss with specific reward mechanics. Fully video-attested.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_sol_vin": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Sol & Vin appears in 2 independent sources (wiki bosses, wiki walkthrough) with consistent mention in story boss progression. While single-publisher corroboration, the naming is consistent and specific (dual boss). Likely authentic.",
+      "groundingSources": [
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_flora": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "FLORA is heavily attested across 6 independent publishers (5+ sources) including video walkthrough, with consistent naming as 'Flora – Sentient Pearltrap'. Explicitly mentioned in progression ('Aviaries Passepartout reward') and walkthrough hubs. Fully video-attested.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_slashskill_bosses",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_shii": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Shii is heavily attested across 6 independent publishers with consistent dual role as both NPC and boss ('true ending boss – shii'). Appears in progression ('severed spine'), item mechanics (nacre interaction), and final boss context. Fully video-attested.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_sawlong": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Sawlong is heavily attested across 3 independent publishers with 4 grounding pages. Appears in walkthrough (progression spine), boss list, and boss strategies. Mentioned as story boss with specific encounter context (chase sequence, trophy tie-in). Multiple independent corroboration and video-extraction provenance.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_last_embedders": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "The Last Embedders appears in 2 pages across 1 publisher (wiki). Attested in both complete walkthrough and boss list as optional boss. Single publisher is lower confidence but passage explicitly lists it as a named optional boss with clear progression context (unlock manufactory, defeat optional bosses sequence).",
+      "groundingSources": [
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_dr_halyn_s_collector": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Dr Halyn's Collector has NO prose corpus grounding but is extracted from complete walkthrough (progression spine) and full boss list. This is a real video-attested entity from the source game materials, even though the extracted prose corpus doesn't contain the snippet. The provenance from walkthrough and boss list is strong enough to keep despite lack of text corroboration.",
+      "groundingSources": []
+    },
+    "b_twisted_baron": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Twisted Baron appears in 2 pages across 1 publisher (wiki). Attested in both complete walkthrough and boss list as optional boss. Single publisher but clear progression context (unlock manufactory, defeat optional bosses sequence alongside other named bosses).",
+      "groundingSources": [
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_dr_halyn_s_experiment_223": {
+      "decision": "keep",
+      "confidence": 0.75,
+      "basis": "panel",
+      "reason": "Dr Halyn's Experiment #223 has NO prose corpus grounding but is extracted from complete walkthrough (progression spine) and full boss list. Video-attested from authoritative game sources despite lack of prose corroboration. Structured name consistent with Dr Halyn boss series (#223 specific identifier).",
+      "groundingSources": []
+    },
+    "b_friends": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "The Friends :) appears in 2 pages across 1 publisher with extraction from multiple sources (walkthrough progression spine, boss list, boss strategies). Single publisher but distinctive name and multiple extraction sources increase confidence. Listed among named bosses in structured boss context.",
+      "groundingSources": [
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_intrusive_fertiliser": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Intrusive Fertiliser appears in 3 pages across 2 independent publishers (slash-skill and wiki). Attested in walkthrough, boss list, and boss guide strategies. Multiple independent corroboration strengthens confidence. Specific boss name with clear progression context.",
+      "groundingSources": [
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_sentient_pearltrap": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Sentient Pearltrap appears in 3 pages across 2 independent publishers (slash-skill and wiki). Attested in walkthrough, boss list, and boss guide with multiple extraction sources. Multiple independent corroboration. Specific boss name with clear progression context.",
+      "groundingSources": [
+        "mio_slashskill_bosses",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_terror_of_the_ledge": {
+      "decision": "keep",
+      "confidence": 0.86,
+      "basis": "panel",
+      "reason": "Terror of the Ledge appears in 2 pages across 1 publisher (wiki). Attested in both complete walkthrough (progression spine) and boss list. Single publisher but clear naming and progression context. Specific boss name among named bosses.",
+      "groundingSources": [
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_bosses_general": {
+      "decision": "drop",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "This is a DESCRIPTOR, not a real entity. 'Bosses (general)' is a vague hedge/category label, not a named boss in the game. While the term appears across 9 pages and 5 publishers, these are references to 'bosses' as a game category (e.g., 'boss guide', 'take down two bosses', 'all bosses & strategies'). This violates the rule against keeping descriptors.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_acat": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Acat is heavily attested across 4 pages spanning 3 independent publishers. Extracted from walkthrough (progression spine), boss strategies, and early game progression guides. Multiple independent corroboration with specific boss name and progression context (optional but recommended, mid-game). Dubbed 'Nacre Engraver' with clear story placement.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_crow": {
+      "decision": "keep",
+      "confidence": 0.96,
+      "basis": "panel",
+      "reason": "Crow is well attested across 3 pages spanning 3 independent publishers. Extracted from walkthrough (progression spine), boss strategies, and hub content. Specific story context (harvester ability reward). Multiple independent corroboration. Named boss with clear progression placement (before metropolis).",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_final_boss_standard": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Strong corroboration across 4 independent sources (wiki walkthrough, boss guide, video guide, abilities page). Multiple sources confirm existence of a final boss as a distinct game entity. The prose mentions both 'final boss nexus' and 'final boss' explicitly, and references to reaching it via progression.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_abilities",
+        "mio_wiki_bosses"
+      ]
+    },
+    "b_ati_keeper_of_the_heart": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Video-extracted from boss fights source. 'The Keeper of the Heart' appears explicitly in mio_slashskill_bosses as 'the keeper of the heart (final boss)', confirming it as the actual named entity behind the 'final boss' descriptor. This is a real, named boss entity with clear provenance from game content.",
+      "groundingSources": []
+    },
+    "b_anra": {
+      "decision": "keep",
+      "confidence": 0.99,
+      "basis": "panel",
+      "reason": "Boss clearly attested in both wiki walkthrough and boss guide with specific fight details (two-phase fight, narrative context). Multiple independent sources confirm.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_lombre_intrusive_fertiliser": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Boss name and descriptor appear in boss list. Single source is a weakness, but 'Intrusive Fertiliser' subtitle suggests specific fight identity rather than generic description. Appears in ordered boss list which implies real entity.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_vlad": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Boss clearly attested in both sources with specific fight details (circular arena, afterimage modifier). Multiple independent sources strongly confirm existence.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_ancile_targa": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Listed in boss guide. Single source is weak point, but appears as named entity in comprehensive boss list with apparent full name ('Ancile Targa'), suggesting real boss rather than descriptor.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_debby": {
+      "decision": "keep",
+      "confidence": 0.93,
+      "basis": "panel",
+      "reason": "Boss clearly attested in both sources with specific mechanics (disappearing floor) and late-game context. Multiple independent sources confirm.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_poltergates_dr_halyn_s_experiment_233": {
+      "decision": "drop",
+      "confidence": 0.78,
+      "basis": "panel",
+      "reason": "NOT found in prose corpus despite being listed in extracted sources. The full name with descriptor 'Dr. Halyn's Experiment #233' appears to be auto-generated or contaminated. Dr. Halyn is confirmed as a boss; 'Poltergates' variant appears in boss list but this specific numbered variant has zero attestation.",
+      "groundingSources": []
+    },
+    "b_poltergate": {
+      "decision": "keep",
+      "confidence": 0.82,
+      "basis": "panel",
+      "reason": "Listed in boss guide as 'poltergates' (singular form vs plural in ref 5). Single source is weak, but appears in consistent boss list context. Relationship to ref 5 is unclear—could be same entity with variant naming.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_keeper_of_the_heart": {
+      "decision": "keep",
+      "confidence": 0.98,
+      "basis": "panel",
+      "reason": "Final boss clearly attested in both sources with specific mechanics (pearl fragments, modifiers to equip). Described as '(final boss)' in both. Multiple independent sources with detailed strategic information.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_atmos": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Boss clearly attested in both sources with specific mechanics (jump into windy hole, use sail ability) and descriptor (weather control unit). Multiple independent sources confirm.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_egis_worn_out_sentinel": {
+      "decision": "keep",
+      "confidence": 0.88,
+      "basis": "panel",
+      "reason": "Early boss clearly listed in walkthrough part 1 with full descriptor 'Worn Out Sentinel'. Single source is limitation, but appears in opening area progression context suggesting real entity.",
+      "groundingSources": [
+        "mio_intoindie_part1"
+      ]
+    },
+    "b_challenge_fight_enemy": {
+      "decision": "drop",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Vague descriptor 'Challenge Fight Enemy' is exactly the type of auto-generated or placeholder text the rules identify as non-entity. Not found in prose corpus. This is a descriptor, not a real entity name.",
+      "groundingSources": []
+    },
+    "b_torn_overseer": {
+      "decision": "keep",
+      "confidence": 0.94,
+      "basis": "panel",
+      "reason": "Clearly attested in both sources as game object/interactive element with specific mechanics (send it back, opens gate). Video source provides time-coded confirmation. Multiple independent sources document this specific entity.",
+      "groundingSources": [
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ]
+    },
+    "b_breath": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Strongly attested across 4 independent publishers. Referenced as a story boss with trophy ('attune the breath') and as a named NPC boss (Nabuu – Keeper of the Breath). Clear video-game extraction from walkthrough hubs (areas, bosses, abilities). The Breath is both a boss and a collectible item/trophy in the game.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_slashskill_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_blood": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Strongly attested across 3 independent publishers. The Blood is one of four pearl fragments required to progress (mentioned explicitly in endgame sequence). Referenced as a trophy ('attune the blood') and collectible item. Extracted from walkthrough hub sources covering areas, bosses, and abilities.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_hand": {
+      "decision": "keep",
+      "confidence": 0.95,
+      "basis": "panel",
+      "reason": "Strongly attested across 3 independent publishers. The Hand is one of four pearl fragments required for endgame progression. Referenced as a trophy ('attune the hand') and collectible item. Extracted from walkthrough hub sources covering areas, bosses, and abilities.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_spine": {
+      "decision": "keep",
+      "confidence": 0.9,
+      "basis": "panel",
+      "reason": "Attested across 3 pages from 2 independent publishers, including video walkthrough. 'The Spine' is an area/location name mentioned in part 11 of walkthrough structure and referenced in video guide timestamps. Confirmed as a real location where players navigate and find items.",
+      "groundingSources": [
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ]
+    },
+    "b_ati": {
+      "decision": "drop",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "ATI is mentioned in the 'full boss list' context, but the actual source pages provided do not contain the name 'ATI' explicitly. The reference to '[mio_slashskill_bosses] grounds boss names like ATI, Dr Halyn' in the extraction note is not substantiated by the actual text snippets shown. The provided excerpts do not show 'ATI' appearing in any source. This appears to be a contamination or extraction error.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_slashskill_bosses",
+        "mio_vid_walkthrough_1",
+        "mio_wiki_abilities",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_dr_halyn": {
+      "decision": "keep",
+      "confidence": 0.92,
+      "basis": "panel",
+      "reason": "Clearly attested across 3 pages from 2 independent publishers. Dr Halyn appears as a named boss ('boss: anra & dr halyn') in lab area, with optional encounters ('dr halyn s collector', 'dr halyn s experiment #223'). Extracted from full boss list and boss strategies sources.",
+      "groundingSources": [
+        "mio_game_wiki_walkthrough",
+        "mio_wiki_bosses",
+        "mio_wiki_walkthrough"
+      ]
+    },
+    "b_secret_final_boss": {
+      "decision": "keep",
+      "confidence": 0.8,
+      "basis": "panel",
+      "reason": "Mentioned in 2 pages from 1 publisher (single-source caution applies), but the phrasing 'secret final boss of the true ending path' and 'Shii' (the NPC fought) are specific game mechanics. Referenced in abilities guide and boss guide, suggesting extraction from official game documentation. The entity is real but source corroboration is limited.",
+      "groundingSources": [
+        "mio_wiki_abilities",
+        "mio_wiki_bosses"
+      ]
+    },
+    "b_flora_sentient_pearltrap": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Referenced as 'Flora – Sentient Pearltrap' in the full boss list from slash skill. While only single-source, this is extracted from a recognized boss strategy guide. The boss name and descriptor title are consistent with naming conventions of other bosses in the game (similar to 'Acat – Nacre Engraver', 'Calderon – Unyielding Furnace', etc.). The entity is real but has limited independent corroboration.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_acat_nacre_engraver": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Referenced as 'Acat – Nacre Engraver' in full boss list. Single-source limitation applies, but extracted from recognized boss strategy guide. Consistent naming pattern with other documented bosses. Real entity but limited independent corroboration.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_calderon_unyielding_furnace": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Referenced as 'Calderon – Unyielding Furnace' in full boss list. Single-source limitation applies, but extracted from recognized boss strategy guide. Consistent naming pattern with other documented bosses. Real entity but limited independent corroboration.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_atmos_weather_control_unit": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Referenced as 'Atmos – Weather Control Unit' in full boss list. Single-source limitation applies, but extracted from recognized boss strategy guide. Consistent naming pattern with other documented bosses. Real entity but limited independent corroboration.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    },
+    "b_nabuu_keeper_of_the_breath": {
+      "decision": "keep",
+      "confidence": 0.85,
+      "basis": "panel",
+      "reason": "Referenced as 'Nabuu – Keeper of the Breath' in full boss list. While single-source in this particular mention, 'Nabuu' is already attested in ref [0] across multiple sources as a named boss NPC. This entry is consistent with that earlier corroboration. Real entity confirmed.",
+      "groundingSources": [
+        "mio_slashskill_bosses"
+      ]
+    }
+  }
+}

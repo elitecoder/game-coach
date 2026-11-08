@@ -1,0 +1,7002 @@
+{
+  "total": 317,
+  "keptEntities": 292,
+  "droppedArtifacts": [],
+  "contamination": [
+    {
+      "id": "z_coral_forest",
+      "name": "Coral Forest",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_gilded_city",
+      "name": "Gilded City",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_lake_of_fire_bone_forest",
+      "name": "Lake of Fire/Bone Forest",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_bonebottom",
+      "name": "Bonebottom",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_moss_temple",
+      "name": "Moss Temple",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_soaring_warlord_s_tower",
+      "name": "Soaring Warlord's Tower",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_pharloom",
+      "name": "Pharloom",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_blue_lake",
+      "name": "Blue Lake",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_unknown_area",
+      "name": "Unknown Area",
+      "kind": "zone",
+      "sourceCount": 0,
+      "sources": [],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hallownest_implied_not_dirtmouth",
+      "name": "Hallownest (implied, not Dirtmouth)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_love_key",
+      "name": "Love Key",
+      "kind": "key_item",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_needle",
+      "name": "The Needle",
+      "kind": "ability",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_tools",
+      "name": "Tools",
+      "kind": "key_item",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_crests",
+      "name": "Crests",
+      "kind": "key_item",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_bind",
+      "name": "Bind",
+      "kind": "ability",
+      "sourceCount": 4,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_needle_slash_block",
+      "name": "Needle (slash/block)",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_needle_dash_stab",
+      "name": "Needle (dash-stab)",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_needle_bounce",
+      "name": "Needle (bounce)",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_needle_grappling_hook",
+      "name": "Needle (grappling hook)",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_silk",
+      "name": "Silk",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_spell_twister_charm",
+      "name": "Spell Twister Charm",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_downward_parry_strike",
+      "name": "Downward Parry Strike",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_large_bug_with_bat",
+      "name": "Large bug with bat",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_mantis",
+      "name": "Mantis",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_husk_sentry",
+      "name": "Husk Sentry",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    }
+  ],
+  "escalated": [],
+  "singleSource": [
+    {
+      "id": "z_king_s_pass",
+      "name": "King's Pass",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_graveyard",
+      "name": "Graveyard",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_confessor_jiji_s_cave",
+      "name": "Confessor Jiji's Cave",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_grubhome",
+      "name": "Grubhome",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hot_spring",
+      "name": "Hot Spring",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_aspid_nest",
+      "name": "Aspid Nest",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_deserted_village",
+      "name": "Deserted Village",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_stone_sanctuary",
+      "name": "Stone Sanctuary",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_acid_lake",
+      "name": "Acid Lake",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_sheo_s_hut",
+      "name": "Sheo's Hut",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_acidic_lake",
+      "name": "Acidic Lake",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_queen_s_station",
+      "name": "Queen's Station",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_fungal_core",
+      "name": "Fungal Core",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_kingdom_s_edge",
+      "name": "Kingdom's Edge",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_soul_sanctum",
+      "name": "Soul Sanctum",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_fountain_square",
+      "name": "Fountain Square",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_pleasure_house",
+      "name": "Pleasure House",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_watcher_s_spire",
+      "name": "Watcher's Spire",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_king_s_station",
+      "name": "King's Station",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_city_storerooms",
+      "name": "City Storerooms",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_forgotten_crossroads_stag_station",
+      "name": "Forgotten Crossroads Stag Station",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hot_springs_bench_room",
+      "name": "Hot Springs / Bench Room",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_locked_room_bee_encounter",
+      "name": "Locked Room (Bee Encounter)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_isma_s_grove",
+      "name": "Isma's Grove",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_abyss",
+      "name": "The Abyss",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_abyss_lighthouse",
+      "name": "Abyss Lighthouse",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_shade_cloak_chamber",
+      "name": "Shade Cloak Chamber",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_forgotten_crossroads_path_to_greenpath",
+      "name": "Forgotten Crossroads / path to Greenpath",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_greenpath_entrance_path",
+      "name": "Greenpath (entrance path)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_greenpath_north",
+      "name": "Greenpath (north)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_greenpath_northwest",
+      "name": "Greenpath (northwest)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hallownest_stag_station_network",
+      "name": "Hallownest (Stag Station network)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_toll_bridge",
+      "name": "Toll Bridge",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_false_knight_arena",
+      "name": "False Knight Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_false_knight"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hornet_boss_arena",
+      "name": "Hornet Boss Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_crystal_peak_crystal_heart_area",
+      "name": "Crystal Peak Crystal Heart Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_nailmaster_s_glory",
+      "name": "Nailmaster's Glory",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_grimmchild",
+      "name": "Grimmchild",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_carefree_melody",
+      "name": "Carefree Melody",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_glowing_womb",
+      "name": "Glowing Womb",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_world_sense",
+      "name": "World Sense",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_great_slash_nail_art",
+      "name": "Great Slash Nail Art",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_great_slash",
+      "name": "Great Slash",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_shape_of_unn",
+      "name": "Shape of Unn",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_mark_of_pride",
+      "name": "Mark of Pride",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_dashmaster",
+      "name": "Dashmaster",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_spore_shroom",
+      "name": "Spore Shroom",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_charm_notch",
+      "name": "Charm Notch",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_mask_shard",
+      "name": "Mask Shard",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_fragile_charms",
+      "name": "Fragile Charms",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_crest",
+      "name": "Crest",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_tram_pass",
+      "name": "Tram Pass",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_shade_soul",
+      "name": "Shade Soul",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_simple_key",
+      "name": "Simple Key",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_elegant_key",
+      "name": "Elegant Key",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_wayward_compass",
+      "name": "Wayward Compass",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_quill",
+      "name": "Quill",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_hunter_s_journal",
+      "name": "Hunter's Journal",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_wanderer_s_journal",
+      "name": "Wanderer's Journal",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_king_s_brand",
+      "name": "King's Brand",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_grey_prince_zote",
+      "name": "Grey Prince Zote",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_grimm",
+      "name": "Grimm",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_nightmare_king_grimm",
+      "name": "Nightmare King Grimm",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_brooding_mawlek",
+      "name": "Brooding Mawlek",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_hollow_knight",
+      "name": "Hollow Knight",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_radiance",
+      "name": "The Radiance",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_failed_champion",
+      "name": "Failed Champion",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_snail_shaman",
+      "name": "Snail Shaman",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_hornet_protector",
+      "name": "Hornet Protector",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_no_eyes",
+      "name": "No Eyes",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_shrumal_ogres",
+      "name": "Shrumal Ogres",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_soul_master",
+      "name": "Soul Master",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_watcher_knights",
+      "name": "Watcher Knights",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_soul_warrior",
+      "name": "Soul Warrior",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_soul_tyrant",
+      "name": "Soul Tyrant",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_mawlek",
+      "name": "Mawlek",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_hornet_boss",
+      "name": "Hornet (Boss)",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_mantis_youth",
+      "name": "Mantis Youth",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_broken_vessel",
+      "name": "Broken Vessel",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_dung_defender",
+      "name": "Dung Defender",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_descend_into_the_caverns_below_dirtmouth",
+      "name": "Descend into the caverns below Dirtmouth",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_optionally_save_zote_from_the_vengefly_king",
+      "name": "Optionally save Zote from the Vengefly King",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_optionally_save_zote_in_deepnest",
+      "name": "Optionally save Zote in Deepnest",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_optionally_defeat_zote_at_the_colosseum_of_fools",
+      "name": "Optionally defeat Zote at the Colosseum of Fools",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_break_down_king_s_pass_stone_door",
+      "name": "Break down King's Pass stone door",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_open_iselda_s_map_shop",
+      "name": "Open Iselda's map shop",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_simple_key_on_cave_door",
+      "name": "Use Simple Key on cave door",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_activate_the_lift_to_crystal_peak",
+      "name": "Activate the lift to Crystal Peak",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_dream_nail_the_husk_dandy_corpse",
+      "name": "Dream Nail the Husk Dandy corpse",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_enter_hallownest_via_the_well",
+      "name": "Enter Hallownest via the well",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_fight_and_defeat_elder_hu_at_his_memorial",
+      "name": "Fight and defeat Elder Hu at his memorial",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_dream_nail_the_husk_dandy_corpse_holding_the_love_key",
+      "name": "Dream Nail the Husk Dandy corpse holding the Love Key",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_enter_dirtmouth_via_king_s_pass",
+      "name": "Enter Dirtmouth via King's Pass",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_save_zote_from_the_vengefly_king",
+      "name": "Save Zote from the Vengefly King",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_save_zote_from_deepnest",
+      "name": "Save Zote from Deepnest",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_zote_at_the_colosseum_of_fools",
+      "name": "Defeat Zote at the Colosseum of Fools",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_the_neglect_achievement",
+      "name": "Obtain the Neglect achievement",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_descend_the_well_in_dirtmouth",
+      "name": "Descend the well in Dirtmouth",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_temple_of_the_black_egg",
+      "name": "Reach Temple of the Black Egg",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_brooding_mawlek",
+      "name": "Find Brooding Mawlek",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_rescue_sly",
+      "name": "Rescue Sly",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_crystal_peak_upper_connection",
+      "name": "Reach Crystal Peak (upper connection)",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_the_tram_to_reach_resting_grounds",
+      "name": "Use the Tram to reach Resting Grounds",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_love_key_from_husk_dandy_corpse",
+      "name": "Collect Love Key from Husk Dandy corpse",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_vengeful_spirit",
+      "name": "Obtain Vengeful Spirit",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_soul_catcher",
+      "name": "Obtain Soul Catcher",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_save_zote_from_vengefly_king",
+      "name": "Save Zote from Vengefly King",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_save_zote_before_acquiring_mantis_claw",
+      "name": "Save Zote before acquiring Mantis Claw",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_save_zote_in_deepnest",
+      "name": "Save Zote in Deepnest",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_rescue_zote_from_the_vengefly_king",
+      "name": "Rescue Zote from the Vengefly King",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_rescue_or_abandon_zote_the_mighty",
+      "name": "Rescue (or abandon) Zote the Mighty",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_visit_lake_of_unn_and_encounter_unn",
+      "name": "Visit Lake of Unn and encounter Unn",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_learn_great_slash_nail_art_from_sheo",
+      "name": "Learn Great Slash Nail Art from Sheo",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_the_stone_sanctuary",
+      "name": "Find the Stone Sanctuary",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_enter_greenpath",
+      "name": "Enter Greenpath",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_love_key",
+      "name": "Obtain Love Key",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_shape_of_unn",
+      "name": "Obtain Shape of Unn",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_stone_sanctuary",
+      "name": "Explore Stone Sanctuary",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_elder_hu",
+      "name": "Defeat Elder Hu",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_fountain_square_and_find_hornet",
+      "name": "Reach Fountain Square and find Hornet",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_relic_seeker_lemm",
+      "name": "Unlock Relic Seeker Lemm",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_soul_master_in_soul_sanctum",
+      "name": "Defeat Soul Master in Soul Sanctum",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_watcher_knights_in_watcher_s_spire",
+      "name": "Defeat Watcher Knights in Watcher's Spire",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_the_collector_in_tower_of_love",
+      "name": "Defeat the Collector in Tower of Love",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_access_king_s_station_stag_station",
+      "name": "Access King's Station Stag Station",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_the_hot_spring_at_pleasure_house",
+      "name": "Use the Hot Spring at Pleasure House",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_the_love_key",
+      "name": "Find the Love Key",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_tower_of_love_door",
+      "name": "Unlock the Tower of Love door",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_the_love_key_in_queen_s_gardens",
+      "name": "Obtain the Love Key in Queen's Gardens",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_acquire_dream_nail_before_challenging_elder_hu",
+      "name": "Acquire Dream Nail before challenging Elder Hu",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_dodge_ring_slam_and_ring_curtain_attacks",
+      "name": "Dodge Ring Slam and Ring Curtain attacks",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_love_key_from_husk_dandy_corpse",
+      "name": "Obtain Love Key from Husk Dandy corpse",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_city_of_tears_points_of_interest",
+      "name": "Explore City of Tears Points of Interest",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_the_dream_nail",
+      "name": "Obtain the Dream Nail",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_retrieve_the_love_key_in_queen_s_gardens",
+      "name": "Retrieve the Love Key in Queen's Gardens",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_forgotten_crossroads",
+      "name": "Navigate Forgotten Crossroads",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_forgotten_crossroads",
+      "name": "Explore Forgotten Crossroads",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_to_greenpath",
+      "name": "Navigate to Greenpath",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_greenpath",
+      "name": "Explore Greenpath",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_chase_hornet_to_the_toll_bridge",
+      "name": "Chase Hornet to the Toll Bridge",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_thorns_of_agony_entrance",
+      "name": "Find Thorns of Agony entrance",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_greenpath_grub_via_pogo",
+      "name": "Collect Greenpath Grub via pogo",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_geo_shell",
+      "name": "Collect Geo shell",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_open_gate_back_to_map_maker",
+      "name": "Open gate back to map maker",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_speak_with_snail_shaman",
+      "name": "Speak with Snail Shaman",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_ancestral_mound",
+      "name": "Navigate Ancestral Mound",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_elder_baldur",
+      "name": "Defeat Elder Baldur",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_soul_catcher_charm",
+      "name": "Obtain Soul Catcher charm",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_visit_grubfather",
+      "name": "Visit Grubfather",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_head_to_greenpath",
+      "name": "Head to Greenpath",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_buy_map_from_cornifer",
+      "name": "Buy map from Cornifer",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_left_through_greenpath",
+      "name": "Navigate left through Greenpath",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_vengeful_spirit_to_pass_blocking_enemy",
+      "name": "Use Vengeful Spirit to pass blocking enemy",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_the_three_pillars_area",
+      "name": "Reach the three pillars area",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_hornet_to_unlock_dash",
+      "name": "Defeat Hornet to unlock dash",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_learn_how_to_obtain_movement_abilities",
+      "name": "Learn how to obtain movement abilities",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_acquire_vengeful_spirit",
+      "name": "Acquire Vengeful Spirit",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_pick_up_mothwing_cloak",
+      "name": "Pick up Mothwing Cloak",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_flip_the_lever_in_mantis_village",
+      "name": "Flip the lever in Mantis Village",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_the_top_path_after_lever_flip",
+      "name": "Reach the top path after lever flip",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_two_mantis_youths_guarding_mantis_claw",
+      "name": "Defeat two Mantis Youths guarding Mantis Claw",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_crystal_peak_via_forgotten_crossroads_toll_booth",
+      "name": "Reach Crystal Peak via Forgotten Crossroads toll booth",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_crystal_peak_via_desolate_dive_shortcut",
+      "name": "Reach Crystal Peak via Desolate Dive shortcut",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_to_crystal_heart_room_in_crystal_peak",
+      "name": "Navigate to Crystal Heart room in Crystal Peak",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_sit_at_the_paid_bench_in_ancient_basin",
+      "name": "Sit at the paid bench in Ancient Basin",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_cross_the_spike_corridor_using_crystal_dash",
+      "name": "Cross the spike corridor using Crystal Dash",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_break_the_shortcut_wall",
+      "name": "Break the shortcut wall",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_broken_vessel",
+      "name": "Defeat Broken Vessel",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_monarch_wings",
+      "name": "Obtain Monarch Wings",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_dung_defender",
+      "name": "Defeat Dung Defender",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_cross_crystal_platform_with_crystal_heart",
+      "name": "Cross crystal platform with Crystal Heart",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_husk_sentries_and_find_dung_defender_sigil",
+      "name": "Defeat Husk Sentries and find Dung Defender Sigil",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_through_the_mire_to_isma_s_grove",
+      "name": "Navigate through the mire to Isma's Grove",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_open_the_door_at_the_bottom_of_ancient_basin",
+      "name": "Open the door at the bottom of Ancient Basin",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_down_and_right_through_the_abyss",
+      "name": "Navigate down and right through the Abyss",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_climb_the_void_siblings_platforming_section",
+      "name": "Climb the void siblings platforming section",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_activate_the_lighthouse_lever",
+      "name": "Activate the Lighthouse lever",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_cross_the_void_liquid_and_reach_the_shade_cloak",
+      "name": "Cross the void liquid and reach the Shade Cloak",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_king_s_pass__dirtmouth",
+      "name": "The Knight breaks down the stone door at King's Pass to enter Dirtmouth from the west.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dirtmouth__crystal_peak",
+      "name": "A lift east of the town centre goes up to Crystal Peak; the activation lever is located near the mines' entrances.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dirtmouth__graveyard",
+      "name": "East of Dirtmouth town centre lies a graveyard.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_graveyard__confessor_jiji_s_cave",
+      "name": "The graveyard leads to a stone door barring a cave; a Simple Key is required to open it.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dirtmouth__hallownest_stag_station_network",
+      "name": "Dirtmouth's Stag Station is locked from the inside but reachable from any other Stag Station in the network.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dirtmouth__city_of_tears",
+      "name": "Elder Hu's memorial is located above the gates to the City of Tears, placing the boss encounter at the boundary between these zones",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_mantis_village__dirtmouth",
+      "name": "Elder Hu travelled from Mantis Village where he was slain; his memorial rests in Dirtmouth near City of Tears",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__howling_cliffs",
+      "name": "Direct connection listed between Greenpath and Howling Cliffs.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__queen_s_gardens",
+      "name": "Direct connection listed between Greenpath and Queen's Gardens.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__lake_of_unn",
+      "name": "Lake of Unn is a sub-area within Greenpath.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__stone_sanctuary",
+      "name": "Stone Sanctuary is a sub-area within Greenpath.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__sheo_s_hut",
+      "name": "Southwest sector of Greenpath, at the end of a challenging thorn-filled path full of Durandas",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_city_of_tears__city_of_tears",
+      "name": "Elder Hu's memorial is located above the gates to the City of Tears; player fights his spirit there after obtaining Dream Nail",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_fungal_wastes__city_of_tears",
+      "name": "Love Key acquired near Fungal Wastes path is used in the City of Tears",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_queen_s_gardens__tower_of_love",
+      "name": "Love Key obtained in Queen's Gardens unlocks the door in Tower of Love",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_city_of_tears__tower_of_love",
+      "name": "Tower of Love is located within or accessible from the City of Tears area, per segment context",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_city_of_tears__queen_s_gardens",
+      "name": "Segment references both City of Tears and Queen's Gardens as distinct areas relevant to the Knight's progression",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_city_of_tears__soul_sanctum",
+      "name": "Soul Sanctum is a sub-area accessible from within the City of Tears",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_hallownest__forgotten_crossroads",
+      "name": "Forgotten Crossroads is a sub-location within Hallownest",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_hallownest__greenpath",
+      "name": "Greenpath is a location within Hallownest, reachable as part of the world map",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__toll_bridge",
+      "name": "Following Hornet leads to the toll bridge area; a gate blocks upward passage, with lever on the far side",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_forgotten_crossroads__false_knight_arena",
+      "name": "The player traverses the flower/fungus-covered ground platforms of the Forgotten Crossroads, passing large oval stone door structures to reach the False Knight's arena.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_false_knight"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__hornet_boss_arena",
+      "name": "Follow the path left and upward through Greenpath, past bench and save points, to reach Hornet's sealed boss room",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_fungal_wastes__mantis_village",
+      "name": "Mantis Village is located near the bottom of Fungal Wastes, accessible through corridors patrolled by Mantis enemies",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_forgotten_crossroads__crystal_peak",
+      "name": "Left-side hallway with a toll booth; only visible and payable with Lumafly Lantern",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_crystal_peak__crystal_peak_crystal_heart_area",
+      "name": "Golem with a lever near the top of Crystal Peak; hitting the lever opens a shortcut leading right to the Crystal Heart platforming area",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_ancient_basin__ancient_basin",
+      "name": "Breakable wall shortcut connecting the Broken Vessel approach path back to the paid bench area",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_ancient_basin__forgotten_crossroads",
+      "name": "Picking up Monarch Wings in Ancient Basin triggers the transformation of Forgotten Crossroads into Infected Crossroads",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_ancient_basin__crystal_peak",
+      "name": "Monarch Wings double jump unlocks access to the top section / Hive's Crown area of Crystal Peak",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_ancient_basin__fungal_wastes",
+      "name": "Monarch Wings enables access to the Fungal Core, a central location within Fungal Wastes",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_royal_waterways__isma_s_grove",
+      "name": "Bottom-right section of Royal Waterways; requires defeating Dung Defender and using Crystal Heart to cross crystal platforms",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_isma_s_grove__queen_s_gardens",
+      "name": "Isma's Tear unlocks acid-free traversal making Queen's Gardens accessible without dangerous platforming",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_ancient_basin__abyss",
+      "name": "Door at the very bottom of Ancient Basin, opened with King's Brand",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_abyss__abyss_lighthouse",
+      "name": "Platforming section upward through void siblings leads to lighthouse canopy at the top",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_abyss__shade_cloak_chamber",
+      "name": "Right side of the falling void liquid room, accessible after lighthouse is activated to eliminate void liquid",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    }
+  ],
+  "corroborated": 95,
+  "quality": [
+    {
+      "id": "z_dirtmouth",
+      "name": "Dirtmouth",
+      "kind": "zone",
+      "sourceCount": 8,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_king_s_pass",
+      "name": "King's Pass",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_greenpath",
+      "name": "Greenpath",
+      "kind": "zone",
+      "sourceCount": 8,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_fext_greenpath",
+        "hk_vid_greenpath_hornet",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_city_of_tears",
+      "name": "City of Tears",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_deepnest",
+      "name": "Deepnest",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_colosseum_of_fools",
+      "name": "Colosseum of Fools",
+      "kind": "zone",
+      "sourceCount": 6,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_crystal_peak",
+      "name": "Crystal Peak",
+      "kind": "zone",
+      "sourceCount": 3,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_forgotten_crossroads",
+      "name": "Forgotten Crossroads",
+      "kind": "zone",
+      "sourceCount": 10,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_false_knight",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_howling_cliffs",
+      "name": "Howling Cliffs",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_graveyard",
+      "name": "Graveyard",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_confessor_jiji_s_cave",
+      "name": "Confessor Jiji's Cave",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_queen_s_gardens",
+      "name": "Queen's Gardens",
+      "kind": "zone",
+      "sourceCount": 6,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_tower_of_love",
+      "name": "Tower of Love",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_mantis_village",
+      "name": "Mantis Village",
+      "kind": "zone",
+      "sourceCount": 6,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_coral_forest",
+      "name": "Coral Forest",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_gilded_city",
+      "name": "Gilded City",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_lake_of_fire_bone_forest",
+      "name": "Lake of Fire/Bone Forest",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_bonebottom",
+      "name": "Bonebottom",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_moss_temple",
+      "name": "Moss Temple",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_soaring_warlord_s_tower",
+      "name": "Soaring Warlord's Tower",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_fungal_wastes",
+      "name": "Fungal Wastes",
+      "kind": "zone",
+      "sourceCount": 7,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_fext_greenpath",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_fog_canyon",
+      "name": "Fog Canyon",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_resting_grounds",
+      "name": "Resting Grounds",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_ancestral_mound",
+      "name": "Ancestral Mound",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_temple_of_the_black_egg",
+      "name": "Temple of the Black Egg",
+      "kind": "zone",
+      "sourceCount": 3,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_fext_crossroads",
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_infected_crossroads",
+      "name": "Infected Crossroads",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_grubhome",
+      "name": "Grubhome",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hot_spring",
+      "name": "Hot Spring",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_aspid_nest",
+      "name": "Aspid Nest",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_deserted_village",
+      "name": "Deserted Village",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_pharloom",
+      "name": "Pharloom",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_lake_of_unn",
+      "name": "Lake of Unn",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_greenpath",
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_stone_sanctuary",
+      "name": "Stone Sanctuary",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_acid_lake",
+      "name": "Acid Lake",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_sheo_s_hut",
+      "name": "Sheo's Hut",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_acidic_lake",
+      "name": "Acidic Lake",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_queen_s_station",
+      "name": "Queen's Station",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_fungal_core",
+      "name": "Fungal Core",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_royal_waterways",
+      "name": "Royal Waterways",
+      "kind": "zone",
+      "sourceCount": 3,
+      "sources": [
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_kingdom_s_edge",
+      "name": "Kingdom's Edge",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_soul_sanctum",
+      "name": "Soul Sanctum",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_fountain_square",
+      "name": "Fountain Square",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_pleasure_house",
+      "name": "Pleasure House",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_watcher_s_spire",
+      "name": "Watcher's Spire",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_king_s_station",
+      "name": "King's Station",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_city_storerooms",
+      "name": "City Storerooms",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_blue_lake",
+      "name": "Blue Lake",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_ancient_basin",
+      "name": "Ancient Basin",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_city",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_hallownest",
+      "name": "Hallownest",
+      "kind": "zone",
+      "sourceCount": 3,
+      "sources": [
+        "hk_fext_crossroads",
+        "hk_fext_greenpath",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_forgotten_crossroads_stag_station",
+      "name": "Forgotten Crossroads Stag Station",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hot_springs_bench_room",
+      "name": "Hot Springs / Bench Room",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_locked_room_bee_encounter",
+      "name": "Locked Room (Bee Encounter)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_isma_s_grove",
+      "name": "Isma's Grove",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_abyss",
+      "name": "The Abyss",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_abyss_lighthouse",
+      "name": "Abyss Lighthouse",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_shade_cloak_chamber",
+      "name": "Shade Cloak Chamber",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_unknown_area",
+      "name": "Unknown Area",
+      "kind": "zone",
+      "sourceCount": 0,
+      "sources": [],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hallownest_implied_not_dirtmouth",
+      "name": "Hallownest (implied, not Dirtmouth)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_forgotten_crossroads_path_to_greenpath",
+      "name": "Forgotten Crossroads / path to Greenpath",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_greenpath_entrance_path",
+      "name": "Greenpath (entrance path)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_greenpath_north",
+      "name": "Greenpath (north)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_greenpath_northwest",
+      "name": "Greenpath (northwest)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hallownest_stag_station_network",
+      "name": "Hallownest (Stag Station network)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_toll_bridge",
+      "name": "Toll Bridge",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_false_knight_arena",
+      "name": "False Knight Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_false_knight"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hornet_boss_arena",
+      "name": "Hornet Boss Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_crystal_peak_crystal_heart_area",
+      "name": "Crystal Peak Crystal Heart Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_mantis_claw",
+      "name": "Mantis Claw",
+      "kind": "ability",
+      "sourceCount": 7,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_fext_crossroads",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_love_key",
+      "name": "Love Key",
+      "kind": "key_item",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_needle",
+      "name": "The Needle",
+      "kind": "ability",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_tools",
+      "name": "Tools",
+      "kind": "key_item",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_crests",
+      "name": "Crests",
+      "kind": "key_item",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_dream_nail",
+      "name": "Dream Nail",
+      "kind": "key_item",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_shade_cloak",
+      "name": "Shade Cloak",
+      "kind": "ability",
+      "sourceCount": 6,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_howling_wraiths",
+      "name": "Howling Wraiths",
+      "kind": "ability",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_abyss_shriek",
+      "name": "Abyss Shriek",
+      "kind": "ability",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_shaman_stone",
+      "name": "Shaman Stone",
+      "kind": "ability",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_spell_twister",
+      "name": "Spell Twister",
+      "kind": "ability",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_soul_catcher",
+      "name": "Soul Catcher",
+      "kind": "ability",
+      "sourceCount": 6,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_soul_eater",
+      "name": "Soul Eater",
+      "kind": "ability",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_isma_s_tear",
+      "name": "Isma's Tear",
+      "kind": "key_item",
+      "sourceCount": 6,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_nailmaster_s_glory",
+      "name": "Nailmaster's Glory",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_grimmchild",
+      "name": "Grimmchild",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_carefree_melody",
+      "name": "Carefree Melody",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_crystal_heart",
+      "name": "Crystal Heart",
+      "kind": "ability",
+      "sourceCount": 3,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_fext_crossroads",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_glowing_womb",
+      "name": "Glowing Womb",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_city_crest",
+      "name": "City Crest",
+      "kind": "key_item",
+      "sourceCount": 4,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city",
+        "hk_fext_crossroads",
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_vengeful_spirit",
+      "name": "Vengeful Spirit",
+      "kind": "ability",
+      "sourceCount": 6,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_fext_greenpath",
+        "hk_gw_crossroads",
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_bind",
+      "name": "Bind",
+      "kind": "ability",
+      "sourceCount": 4,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_world_sense",
+      "name": "World Sense",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_needle_slash_block",
+      "name": "Needle (slash/block)",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_needle_dash_stab",
+      "name": "Needle (dash-stab)",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_needle_bounce",
+      "name": "Needle (bounce)",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_needle_grappling_hook",
+      "name": "Needle (grappling hook)",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_great_slash_nail_art",
+      "name": "Great Slash Nail Art",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_mothwing_cloak",
+      "name": "Mothwing Cloak",
+      "kind": "ability",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_fext_greenpath",
+        "hk_vid_greenpath_hornet",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_great_slash",
+      "name": "Great Slash",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_thorns_of_agony",
+      "name": "Thorns of Agony",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_greenpath",
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_shape_of_unn",
+      "name": "Shape of Unn",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_lumafly_lantern",
+      "name": "Lumafly Lantern",
+      "kind": "key_item",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_greenpath",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_mark_of_pride",
+      "name": "Mark of Pride",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_dashmaster",
+      "name": "Dashmaster",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_spore_shroom",
+      "name": "Spore Shroom",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_charm_notch",
+      "name": "Charm Notch",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_mask_shard",
+      "name": "Mask Shard",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_fragile_charms",
+      "name": "Fragile Charms",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_silk",
+      "name": "Silk",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_crest",
+      "name": "Crest",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_tram_pass",
+      "name": "Tram Pass",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_desolate_dive",
+      "name": "Desolate Dive",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_city",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_shade_soul",
+      "name": "Shade Soul",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_spell_twister_charm",
+      "name": "Spell Twister Charm",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_simple_key",
+      "name": "Simple Key",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_elegant_key",
+      "name": "Elegant Key",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_monarch_wings",
+      "name": "Monarch Wings",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "hk_fext_crossroads",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_wayward_compass",
+      "name": "Wayward Compass",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_quill",
+      "name": "Quill",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_hunter_s_journal",
+      "name": "Hunter's Journal",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_wanderer_s_journal",
+      "name": "Wanderer's Journal",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_downward_parry_strike",
+      "name": "Downward Parry Strike",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_king_s_brand",
+      "name": "King's Brand",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_vengefly_king",
+      "name": "Vengefly King",
+      "kind": "boss",
+      "sourceCount": 6,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city",
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_zote",
+      "name": "Zote",
+      "kind": "boss",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_false_knight",
+      "name": "False Knight",
+      "kind": "boss",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_fext_crossroads",
+        "hk_gw_crossroads",
+        "hk_vid_false_knight"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_collector",
+      "name": "Collector",
+      "kind": "boss",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_elder_hu",
+      "name": "Elder Hu",
+      "kind": "boss",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_grey_prince_zote",
+      "name": "Grey Prince Zote",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_grimm",
+      "name": "Grimm",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_nightmare_king_grimm",
+      "name": "Nightmare King Grimm",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_gruz_mother",
+      "name": "Gruz Mother",
+      "kind": "boss",
+      "sourceCount": 3,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_fext_crossroads",
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_brooding_mawlek",
+      "name": "Brooding Mawlek",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_hollow_knight",
+      "name": "Hollow Knight",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_radiance",
+      "name": "The Radiance",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_failed_champion",
+      "name": "Failed Champion",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_snail_shaman",
+      "name": "Snail Shaman",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_elder_baldur",
+      "name": "Elder Baldur",
+      "kind": "boss",
+      "sourceCount": 3,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_mantis_lords",
+      "name": "Mantis Lords",
+      "kind": "boss",
+      "sourceCount": 4,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_hornet",
+      "name": "Hornet",
+      "kind": "boss",
+      "sourceCount": 4,
+      "sources": [
+        "hk_wiki_greenpath",
+        "hk_fext_greenpath",
+        "hk_vid_greenpath_hornet",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_hornet_protector",
+      "name": "Hornet Protector",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_massive_moss_charger",
+      "name": "Massive Moss Charger",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_greenpath",
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_no_eyes",
+      "name": "No Eyes",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_shrumal_ogres",
+      "name": "Shrumal Ogres",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_soul_master",
+      "name": "Soul Master",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_watcher_knights",
+      "name": "Watcher Knights",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_soul_warrior",
+      "name": "Soul Warrior",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_soul_tyrant",
+      "name": "Soul Tyrant",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_mawlek",
+      "name": "Mawlek",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_hornet_boss",
+      "name": "Hornet (Boss)",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_large_bug_with_bat",
+      "name": "Large bug with bat",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_mantis_youth",
+      "name": "Mantis Youth",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_mantis",
+      "name": "Mantis",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_broken_vessel",
+      "name": "Broken Vessel",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_dung_defender",
+      "name": "Dung Defender",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_husk_sentry",
+      "name": "Husk Sentry",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_descend_into_the_caverns_below_dirtmouth",
+      "name": "Descend into the caverns below Dirtmouth",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_optionally_save_zote_from_the_vengefly_king",
+      "name": "Optionally save Zote from the Vengefly King",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_optionally_save_zote_in_deepnest",
+      "name": "Optionally save Zote in Deepnest",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_optionally_defeat_zote_at_the_colosseum_of_fools",
+      "name": "Optionally defeat Zote at the Colosseum of Fools",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_break_down_king_s_pass_stone_door",
+      "name": "Break down King's Pass stone door",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_open_iselda_s_map_shop",
+      "name": "Open Iselda's map shop",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_simple_key_on_cave_door",
+      "name": "Use Simple Key on cave door",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_activate_the_lift_to_crystal_peak",
+      "name": "Activate the lift to Crystal Peak",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_acquire_the_dream_nail",
+      "name": "Acquire the Dream Nail",
+      "kind": "objective",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_fight_elder_hu_s_spirit_at_his_memorial",
+      "name": "Fight Elder Hu's spirit at his memorial",
+      "kind": "objective",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_essence_from_elder_hu",
+      "name": "Collect Essence from Elder Hu",
+      "kind": "objective",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_the_love_key",
+      "name": "Obtain the Love Key",
+      "kind": "objective",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_use_the_love_key",
+      "name": "Use the Love Key",
+      "kind": "objective",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_boss_with_spell_build",
+      "name": "Defeat boss with Spell build",
+      "kind": "objective",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_fight_elder_hu_s_spirit",
+      "name": "Fight Elder Hu's spirit",
+      "kind": "objective",
+      "sourceCount": 4,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_dream_nail_the_husk_dandy_corpse",
+      "name": "Dream Nail the Husk Dandy corpse",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_enter_hallownest_via_the_well",
+      "name": "Enter Hallownest via the well",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_fight_and_defeat_elder_hu_at_his_memorial",
+      "name": "Fight and defeat Elder Hu at his memorial",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_100_essence_from_elder_hu",
+      "name": "Collect 100 Essence from Elder Hu",
+      "kind": "objective",
+      "sourceCount": 4,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_dream_nail_the_husk_dandy_corpse_holding_the_love_key",
+      "name": "Dream Nail the Husk Dandy corpse holding the Love Key",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_enter_dirtmouth_via_king_s_pass",
+      "name": "Enter Dirtmouth via King's Pass",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_save_zote_from_the_vengefly_king",
+      "name": "Save Zote from the Vengefly King",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_save_zote_from_deepnest",
+      "name": "Save Zote from Deepnest",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_zote_at_the_colosseum_of_fools",
+      "name": "Defeat Zote at the Colosseum of Fools",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_the_neglect_achievement",
+      "name": "Obtain the Neglect achievement",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_descend_the_well_in_dirtmouth",
+      "name": "Descend the well in Dirtmouth",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_temple_of_the_black_egg",
+      "name": "Reach Temple of the Black Egg",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_brooding_mawlek",
+      "name": "Find Brooding Mawlek",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_rescue_sly",
+      "name": "Rescue Sly",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_crystal_peak_upper_connection",
+      "name": "Reach Crystal Peak (upper connection)",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_the_tram_to_reach_resting_grounds",
+      "name": "Use the Tram to reach Resting Grounds",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_encounter_garmond_and_zaza",
+      "name": "Encounter Garmond and Zaza",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_dodge_elder_hu_s_ring_curtain_attack",
+      "name": "Dodge Elder Hu's Ring Curtain attack",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_isma_s_tear",
+      "name": "Obtain Isma's Tear",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_retrieve_love_key_from_queen_s_gardens",
+      "name": "Retrieve Love Key from Queen's Gardens",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_use_love_key_in_city_of_tears",
+      "name": "Use Love Key in City of Tears",
+      "kind": "objective",
+      "sourceCount": 3,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_fight_elder_hu_at_his_memorial",
+      "name": "Fight Elder Hu at his memorial",
+      "kind": "objective",
+      "sourceCount": 3,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_love_key_from_husk_dandy_corpse",
+      "name": "Collect Love Key from Husk Dandy corpse",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_vengeful_spirit",
+      "name": "Obtain Vengeful Spirit",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_soul_catcher",
+      "name": "Obtain Soul Catcher",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_escape_the_cage",
+      "name": "Escape the cage",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_ascend_pharloom_to_its_peak",
+      "name": "Ascend Pharloom to its peak",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_manage_silk_and_masks",
+      "name": "Manage Silk and Masks",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_equip_tools_on_a_crest",
+      "name": "Equip Tools on a Crest",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_find_garmond_and_zaza",
+      "name": "Find Garmond and Zaza",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_retrieve_the_love_key",
+      "name": "Retrieve the Love Key",
+      "kind": "objective",
+      "sourceCount": 3,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_save_zote_from_vengefly_king",
+      "name": "Save Zote from Vengefly King",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_save_zote_before_acquiring_mantis_claw",
+      "name": "Save Zote before acquiring Mantis Claw",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_save_zote_in_deepnest",
+      "name": "Save Zote in Deepnest",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_rescue_zote_from_the_vengefly_king",
+      "name": "Rescue Zote from the Vengefly King",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_greenpath",
+      "name": "Reach Greenpath",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_greenpath",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_rescue_or_abandon_zote_the_mighty",
+      "name": "Rescue (or abandon) Zote the Mighty",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_hornet",
+      "name": "Defeat Hornet",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_greenpath",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_visit_lake_of_unn_and_encounter_unn",
+      "name": "Visit Lake of Unn and encounter Unn",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_learn_great_slash_nail_art_from_sheo",
+      "name": "Learn Great Slash Nail Art from Sheo",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_the_stone_sanctuary",
+      "name": "Find the Stone Sanctuary",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_enter_greenpath",
+      "name": "Enter Greenpath",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_love_key",
+      "name": "Obtain Love Key",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_shape_of_unn",
+      "name": "Obtain Shape of Unn",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_stone_sanctuary",
+      "name": "Explore Stone Sanctuary",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_elder_hu",
+      "name": "Defeat Elder Hu",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_fountain_square_and_find_hornet",
+      "name": "Reach Fountain Square and find Hornet",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_relic_seeker_lemm",
+      "name": "Unlock Relic Seeker Lemm",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_soul_master_in_soul_sanctum",
+      "name": "Defeat Soul Master in Soul Sanctum",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_watcher_knights_in_watcher_s_spire",
+      "name": "Defeat Watcher Knights in Watcher's Spire",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_the_collector_in_tower_of_love",
+      "name": "Defeat the Collector in Tower of Love",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_access_king_s_station_stag_station",
+      "name": "Access King's Station Stag Station",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_the_hot_spring_at_pleasure_house",
+      "name": "Use the Hot Spring at Pleasure House",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_the_love_key",
+      "name": "Find the Love Key",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_tower_of_love_door",
+      "name": "Unlock the Tower of Love door",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_the_love_key_in_queen_s_gardens",
+      "name": "Obtain the Love Key in Queen's Gardens",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_acquire_dream_nail_before_challenging_elder_hu",
+      "name": "Acquire Dream Nail before challenging Elder Hu",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_dodge_ring_slam_and_ring_curtain_attacks",
+      "name": "Dodge Ring Slam and Ring Curtain attacks",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_love_key_from_husk_dandy_corpse",
+      "name": "Obtain Love Key from Husk Dandy corpse",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_city_of_tears_points_of_interest",
+      "name": "Explore City of Tears Points of Interest",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_the_dream_nail",
+      "name": "Obtain the Dream Nail",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_retrieve_the_love_key_in_queen_s_gardens",
+      "name": "Retrieve the Love Key in Queen's Gardens",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_forgotten_crossroads",
+      "name": "Navigate Forgotten Crossroads",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_forgotten_crossroads",
+      "name": "Explore Forgotten Crossroads",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_false_knight",
+      "name": "Defeat False Knight",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "hk_fext_crossroads",
+        "hk_vid_false_knight"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_to_greenpath",
+      "name": "Navigate to Greenpath",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_greenpath",
+      "name": "Explore Greenpath",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_chase_hornet_to_the_toll_bridge",
+      "name": "Chase Hornet to the Toll Bridge",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_thorns_of_agony_entrance",
+      "name": "Find Thorns of Agony entrance",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_greenpath_grub_via_pogo",
+      "name": "Collect Greenpath Grub via pogo",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_geo_shell",
+      "name": "Collect Geo shell",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_open_gate_back_to_map_maker",
+      "name": "Open gate back to map maker",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_speak_with_snail_shaman",
+      "name": "Speak with Snail Shaman",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_ancestral_mound",
+      "name": "Navigate Ancestral Mound",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_elder_baldur",
+      "name": "Defeat Elder Baldur",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_soul_catcher_charm",
+      "name": "Obtain Soul Catcher charm",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_visit_grubfather",
+      "name": "Visit Grubfather",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_head_to_greenpath",
+      "name": "Head to Greenpath",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_gw_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_buy_map_from_cornifer",
+      "name": "Buy map from Cornifer",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_left_through_greenpath",
+      "name": "Navigate left through Greenpath",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_vengeful_spirit_to_pass_blocking_enemy",
+      "name": "Use Vengeful Spirit to pass blocking enemy",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_the_three_pillars_area",
+      "name": "Reach the three pillars area",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_hornet_to_unlock_dash",
+      "name": "Defeat Hornet to unlock dash",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_learn_how_to_obtain_movement_abilities",
+      "name": "Learn how to obtain movement abilities",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_acquire_vengeful_spirit",
+      "name": "Acquire Vengeful Spirit",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_pick_up_mothwing_cloak",
+      "name": "Pick up Mothwing Cloak",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_flip_the_lever_in_mantis_village",
+      "name": "Flip the lever in Mantis Village",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_the_top_path_after_lever_flip",
+      "name": "Reach the top path after lever flip",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_two_mantis_youths_guarding_mantis_claw",
+      "name": "Defeat two Mantis Youths guarding Mantis Claw",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_crystal_peak_via_forgotten_crossroads_toll_booth",
+      "name": "Reach Crystal Peak via Forgotten Crossroads toll booth",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_crystal_peak_via_desolate_dive_shortcut",
+      "name": "Reach Crystal Peak via Desolate Dive shortcut",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_to_crystal_heart_room_in_crystal_peak",
+      "name": "Navigate to Crystal Heart room in Crystal Peak",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_sit_at_the_paid_bench_in_ancient_basin",
+      "name": "Sit at the paid bench in Ancient Basin",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_cross_the_spike_corridor_using_crystal_dash",
+      "name": "Cross the spike corridor using Crystal Dash",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_break_the_shortcut_wall",
+      "name": "Break the shortcut wall",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_broken_vessel",
+      "name": "Defeat Broken Vessel",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_monarch_wings",
+      "name": "Obtain Monarch Wings",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_dung_defender",
+      "name": "Defeat Dung Defender",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_cross_crystal_platform_with_crystal_heart",
+      "name": "Cross crystal platform with Crystal Heart",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_husk_sentries_and_find_dung_defender_sigil",
+      "name": "Defeat Husk Sentries and find Dung Defender Sigil",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_through_the_mire_to_isma_s_grove",
+      "name": "Navigate through the mire to Isma's Grove",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_open_the_door_at_the_bottom_of_ancient_basin",
+      "name": "Open the door at the bottom of Ancient Basin",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_navigate_down_and_right_through_the_abyss",
+      "name": "Navigate down and right through the Abyss",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_climb_the_void_siblings_platforming_section",
+      "name": "Climb the void siblings platforming section",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_activate_the_lighthouse_lever",
+      "name": "Activate the Lighthouse lever",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_cross_the_void_liquid_and_reach_the_shade_cloak",
+      "name": "Cross the void liquid and reach the Shade Cloak",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_king_s_pass__dirtmouth",
+      "name": "The Knight breaks down the stone door at King's Pass to enter Dirtmouth from the west.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dirtmouth__crystal_peak",
+      "name": "A lift east of the town centre goes up to Crystal Peak; the activation lever is located near the mines' entrances.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dirtmouth__graveyard",
+      "name": "East of Dirtmouth town centre lies a graveyard.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_graveyard__confessor_jiji_s_cave",
+      "name": "The graveyard leads to a stone door barring a cave; a Simple Key is required to open it.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dirtmouth__hallownest_stag_station_network",
+      "name": "Dirtmouth's Stag Station is locked from the inside but reachable from any other Stag Station in the network.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_mantis_village__city_of_tears",
+      "name": "Elder Hu's journey took him from the Mantis Village (where he died) to a memorial erected above the City of Tears gates",
+      "kind": "connector",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "c_queen_s_gardens__fungal_wastes",
+      "name": "Path connecting southeast Queen's Gardens down to Fungal Wastes",
+      "kind": "connector",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "c_queen_s_gardens__city_of_tears",
+      "name": "Love Key acquired in Queen's Gardens is used in City of Tears",
+      "kind": "connector",
+      "sourceCount": 5,
+      "sources": [
+        "hk_wiki_dirtmouth",
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_fungal",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "c_dirtmouth__city_of_tears",
+      "name": "Elder Hu's memorial is located above the gates to the City of Tears, placing the boss encounter at the boundary between these zones",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_mantis_village__dirtmouth",
+      "name": "Elder Hu travelled from Mantis Village where he was slain; his memorial rests in Dirtmouth near City of Tears",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_dirtmouth"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_city_of_tears__mantis_village",
+      "name": "Elder Hu's memorial is above City of Tears gates; his death occurred at Mantis Village",
+      "kind": "connector",
+      "sourceCount": 3,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_greenpath",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "c_pharloom__pharloom",
+      "name": "Hornet ascends through Pharloom toward its peak via a deadly pilgrimage",
+      "kind": "connector",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_crossroads",
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "c_forgotten_crossroads__greenpath",
+      "name": "Greenpath is located west of the Forgotten Crossroads.",
+      "kind": "connector",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_greenpath",
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__fog_canyon",
+      "name": "Direct connection listed between Greenpath and Fog Canyon.",
+      "kind": "connector",
+      "sourceCount": 2,
+      "sources": [
+        "hk_wiki_greenpath",
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__howling_cliffs",
+      "name": "Direct connection listed between Greenpath and Howling Cliffs.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__queen_s_gardens",
+      "name": "Direct connection listed between Greenpath and Queen's Gardens.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__lake_of_unn",
+      "name": "Lake of Unn is a sub-area within Greenpath.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__stone_sanctuary",
+      "name": "Stone Sanctuary is a sub-area within Greenpath.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__sheo_s_hut",
+      "name": "Southwest sector of Greenpath, at the end of a challenging thorn-filled path full of Durandas",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_city_of_tears__city_of_tears",
+      "name": "Elder Hu's memorial is located above the gates to the City of Tears; player fights his spirit there after obtaining Dream Nail",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_fungal_wastes__city_of_tears",
+      "name": "Love Key acquired near Fungal Wastes path is used in the City of Tears",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_fungal"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_queen_s_gardens__tower_of_love",
+      "name": "Love Key obtained in Queen's Gardens unlocks the door in Tower of Love",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_city_of_tears__tower_of_love",
+      "name": "Tower of Love is located within or accessible from the City of Tears area, per segment context",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_city_of_tears__queen_s_gardens",
+      "name": "Segment references both City of Tears and Queen's Gardens as distinct areas relevant to the Knight's progression",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_city_of_tears__soul_sanctum",
+      "name": "Soul Sanctum is a sub-area accessible from within the City of Tears",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_wiki_city"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_hallownest__forgotten_crossroads",
+      "name": "Forgotten Crossroads is a sub-location within Hallownest",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_crossroads"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_hallownest__greenpath",
+      "name": "Greenpath is a location within Hallownest, reachable as part of the world map",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__toll_bridge",
+      "name": "Following Hornet leads to the toll bridge area; a gate blocks upward passage, with lever on the far side",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_fext_greenpath"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_forgotten_crossroads__false_knight_arena",
+      "name": "The player traverses the flower/fungus-covered ground platforms of the Forgotten Crossroads, passing large oval stone door structures to reach the False Knight's arena.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_false_knight"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_greenpath__hornet_boss_arena",
+      "name": "Follow the path left and upward through Greenpath, past bench and save points, to reach Hornet's sealed boss room",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_greenpath_hornet"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_fungal_wastes__mantis_village",
+      "name": "Mantis Village is located near the bottom of Fungal Wastes, accessible through corridors patrolled by Mantis enemies",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_forgotten_crossroads__crystal_peak",
+      "name": "Left-side hallway with a toll booth; only visible and payable with Lumafly Lantern",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_crystal_peak__crystal_peak_crystal_heart_area",
+      "name": "Golem with a lever near the top of Crystal Peak; hitting the lever opens a shortcut leading right to the Crystal Heart platforming area",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_ancient_basin__ancient_basin",
+      "name": "Breakable wall shortcut connecting the Broken Vessel approach path back to the paid bench area",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_ancient_basin__forgotten_crossroads",
+      "name": "Picking up Monarch Wings in Ancient Basin triggers the transformation of Forgotten Crossroads into Infected Crossroads",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_ancient_basin__crystal_peak",
+      "name": "Monarch Wings double jump unlocks access to the top section / Hive's Crown area of Crystal Peak",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_ancient_basin__fungal_wastes",
+      "name": "Monarch Wings enables access to the Fungal Core, a central location within Fungal Wastes",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_royal_waterways__isma_s_grove",
+      "name": "Bottom-right section of Royal Waterways; requires defeating Dung Defender and using Crystal Heart to cross crystal platforms",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_isma_s_grove__queen_s_gardens",
+      "name": "Isma's Tear unlocks acid-free traversal making Queen's Gardens accessible without dangerous platforming",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_ancient_basin__abyss",
+      "name": "Door at the very bottom of Ancient Basin, opened with King's Brand",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_abyss__abyss_lighthouse",
+      "name": "Platforming section upward through void siblings leads to lighthouse canopy at the top",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_abyss__shade_cloak_chamber",
+      "name": "Right side of the falling void liquid room, accessible after lighthouse is activated to eliminate void liquid",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "hk_vid_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    }
+  ]
+}

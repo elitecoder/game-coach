@@ -1,0 +1,5398 @@
+{
+  "z_nexus": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_vessel": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_metropolis": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    }
+  ],
+  "z_vaults": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_haven": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    }
+  ],
+  "z_lab": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_crucible": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_bell_tower": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_canopy": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_library": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_celestial_bay": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_pit": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_silo": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_manufactory": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_network_gate": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_severed_spine": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    }
+  ],
+  "z_dwellings": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    }
+  ],
+  "z_feral_undergrowth": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "z_promenade": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_breath": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_foundations": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_blood": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_hand": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_spine": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 1,
+      "segmentTitle": "Tip 1 - Map Unlock",
+      "startSec": 19,
+      "endSec": 70
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 1,
+      "segmentTitle": "Tip 1 - Map Unlock",
+      "startSec": 19,
+      "endSec": 70
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    }
+  ],
+  "z_hall_of_history": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_early_game_area": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_aviaries": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_area_above_metropolis": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_promenade_entrance": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_nexus_apartments": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_network_gates": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_egis_arena": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_nacre_basin_egis": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_crow_arena": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_calderon_arena": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_anra_dr_halyn_boss_area": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_friends_boss_area": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_lower_area": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_lombre_boss_arena": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_vlad_boss_area": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_lift_room": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_ancile_targa_boss_area": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_debby_boss_area": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_poltergates_boss_area": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_late_game_story_progression": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_end_of_main_story": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_true_ending_path": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_beginning": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_l1_the_spine": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_l2_apartments": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_dwellings_3": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_blocked_off_dome": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_nacre_basin": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_strange_tube": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_digital_world": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_severed_spine_apartments": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_dwellings_6": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_auma_s_giga_s_room": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    }
+  ],
+  "z_lash_s_room": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    }
+  ],
+  "z_icy_cavern": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    }
+  ],
+  "z_frozen_ruins_platform": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    }
+  ],
+  "z_spine_floor": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "z_network_gate_room": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    }
+  ],
+  "z_torn_overseer_area": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    }
+  ],
+  "z_heart": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 8,
+      "segmentTitle": "Tip 8 - Endings",
+      "startSec": 271,
+      "endSec": 298
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 8,
+      "segmentTitle": "Tip 8 - Endings",
+      "startSec": 271,
+      "endSec": 298
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 8,
+      "segmentTitle": "Tip 8 - Endings",
+      "startSec": 271,
+      "endSec": 298
+    }
+  ],
+  "z_ati_keeper_of_the_heart_arena": [
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 0,
+      "segmentTitle": "window 1",
+      "startSec": 0,
+      "endSec": 90
+    },
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 0,
+      "segmentTitle": "window 1",
+      "startSec": 0,
+      "endSec": 90
+    },
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 0,
+      "segmentTitle": "window 1",
+      "startSec": 0,
+      "endSec": 90
+    }
+  ],
+  "z_ati_s_chamber": [
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 1,
+      "segmentTitle": "window 2",
+      "startSec": 90,
+      "endSec": 180
+    }
+  ],
+  "z_heart_cavern": [
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 2,
+      "segmentTitle": "window 3",
+      "startSec": 180,
+      "endSec": 259
+    },
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 2,
+      "segmentTitle": "window 3",
+      "startSec": 180,
+      "endSec": 259
+    }
+  ],
+  "z_memory_void": [
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 2,
+      "segmentTitle": "window 3",
+      "startSec": 180,
+      "endSec": 259
+    },
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 2,
+      "segmentTitle": "window 3",
+      "startSec": 180,
+      "endSec": 259
+    }
+  ],
+  "a_modifiers": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_coating_components": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_mod_extensions": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_allocation_matrix": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_solid_nacre": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_nacre_droplets": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_double_jump": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_hairpin_grapple": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_arachnid_locomotion": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_modifier_extensions": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_dash_deflect": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_gliding": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_orbs": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_decoy_clones": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_grappling": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_liquid_nacre": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_map_function": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_aerial_combat_jump_reset": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_corrupted_boss_mode": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_pacifist_mode": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_first_ability_dwellings": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_important_ability_the_severed_spine_revisit": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_powerful_new_ability_post_flora": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_harvester": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_crow_boss_fight_prior_segment": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_bell_tower_visitor_pass": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_glide": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_haven_prior_to_promenade": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_flowing_steps": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_old_fashioned_key": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_lura_s_seal": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_aviaries_passepartout": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_fragmented_serial_numbers": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_friends_invitation": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_protective_overlay": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_enhanced_dodge": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_strider": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_modifications": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_silo_access_badge": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_hairpin": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "a_protective_overlay_modifier": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_kinetic_thrust_modifier": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_dodge": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "a_sail": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_slingshot": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_friendly_invitation": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_map": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 1,
+      "segmentTitle": "Tip 1 - Map Unlock",
+      "startSec": 19,
+      "endSec": 70
+    }
+  ],
+  "a_analyser": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_kinetic_thrust": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_absorb_tendrils": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_attuner": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_old_core": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "a_crystallized_nacre": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    }
+  ],
+  "a_extra_health_mod": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    }
+  ],
+  "a_aviary_s_passport": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "a_forebear_s_legacy": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    }
+  ],
+  "a_haven_ability": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    }
+  ],
+  "a_metropolis_ability": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    }
+  ],
+  "b_egis": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_calderon": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_sol_vin": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_flora": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "b_shii": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_sawlong": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_last_embedders": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_dr_halyn_s_collector": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_twisted_baron": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_dr_halyn_s_experiment_223": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_friends": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_intrusive_fertiliser": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_sentient_pearltrap": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_terror_of_the_ledge": [
+    {
+      "sourceId": "mio_wiki_walkthrough",
+      "videoId": "mio_wiki_walkthrough",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_bosses_general": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_acat": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    }
+  ],
+  "z_dwellings_feral_undergrowth_border": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_crow": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_prior_to_metropolis": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_breath": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_blood": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_hand": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_vaults_the_lab": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_spine": [
+    {
+      "sourceId": "mio_intoindie_hub",
+      "videoId": "mio_intoindie_hub",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories In Orbit Walkthrough Hub #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_ati": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_dr_halyn": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_secret_final_boss": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_flora_sentient_pearltrap": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_acat_nacre_engraver": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_calderon_unyielding_furnace": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_atmos_weather_control_unit": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_nabuu_keeper_of_the_breath": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_unknown": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_anra": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_lombre_intrusive_fertiliser": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_vlad": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_ancile_targa": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_debby": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_poltergates_dr_halyn_s_experiment_233": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_poltergate": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_keeper_of_the_heart": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_atmos": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_egis_worn_out_sentinel": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "b_challenge_fight_enemy": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    }
+  ],
+  "b_torn_overseer": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    }
+  ],
+  "b_final_boss_standard": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 8,
+      "segmentTitle": "Tip 8 - Endings",
+      "startSec": 271,
+      "endSec": 298
+    }
+  ],
+  "b_ati_keeper_of_the_heart": [
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 0,
+      "segmentTitle": "window 1",
+      "startSec": 0,
+      "endSec": 90
+    },
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 1,
+      "segmentTitle": "window 2",
+      "startSec": 90,
+      "endSec": 180
+    },
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 2,
+      "segmentTitle": "window 3",
+      "startSec": 180,
+      "endSec": 259
+    }
+  ],
+  "o_acquire_hairpin_grapple": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_locate_network_gates": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_expand_allocation_matrix": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_master_aerial_combat_jump_reset": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_acquire_arachnid_locomotion": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_find_overseers": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_unlock_the_map_function": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_repair_damaged_robots": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_convert_nacre_to_solid_nacre": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_unlock_hairpin_grapple": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_unlock_gliding": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_spend_nacre_before_difficult_encounters": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_manage_allocation_matrix_at_network_gates": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_enable_assist_modes_if_struggling": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_update_map_at_network_gates": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_find_and_defeat_intrusive_fertiliser": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_find_and_defeat_sentient_pearltrap": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_defeat_terror_of_the_ledge_without_taking_damage": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_visit_network_gates_before_boss_encounters": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_general": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_spend_nacre_before_difficult_bosses": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_obtain_old_fashioned_key_from_calderon": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_defeat_all_19_bosses": [
+    {
+      "sourceId": "mio_wiki_bosses",
+      "videoId": "mio_wiki_bosses",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_unlock_the_crucible": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_complete_the_crucible_challenges": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_reach_the_top_of_haven_via_bell_tower": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_climb_gloom_waterfall_in_the_canopy": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_find_all_7_mod_extensions": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_convert_liquid_nacre_to_solid_nacre": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_purchase_upgrades_at_network_gates": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 1,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #2",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_master_hairpin_grapple_chaining": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_early_game_areas": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_collect_all_7_mod_extensions": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "z_various_collectible_locations": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_experiment_at_network_gates": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_spend_nacre_before_dangerous_encounters": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_reach_egis_arena": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_use_nacre_basin_before_egis_if_low_on_health": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_defeat_egis_worn_out_sentinel": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_climb_to_the_top_using_hairpin": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_defeat_crow_automated_reaper": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_complete_opening_parkour": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_reach_the_hook_platform": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_connect_to_the_spine": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_collect_nacre_from_junk_pile": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_defeat_initial_robot_enemies": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_find_flash_memory_note": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_unlock_the_map_in_dwellings": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_explore_the_hidden_path": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_beat_egis_worn_out_sentinel": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_unlock_the_hairpin": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_beat_acat_nacre_engraver": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_reach_metropolis": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #1",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_defeat_robots_on_lower_floor": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_slide_down_icy_floor_and_cross_red_grass_ground": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_find_the_hole_in_the_ground_and_drop_down": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_rescue_rad_and_receive_analyser": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_use_elevator_to_return_to_shii_and_unlock_the_map": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_equip_modifier_at_attuner": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_defeat_gauntlet_and_open_container_for_protective_overlay": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_explore_hidden_path_to_reach_blocked_off_dome": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_collect_kinetic_thrust": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_return_and_continue_heading_down": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_use_crystalliser_to_condense_nacre_droplets": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_clear_the_gauntlet_room": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_unlock_shortcut_to_apartments": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_heal_at_nacre_basin_before_boss": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_defeat_acat_nacre_engraver": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    }
+  ],
+  "o_interact_with_torn_overseer": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_find_old_core_in_mechanical_remains": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_unlock_the_attuner": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_return_to_the_severed_spine": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 4,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #5",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_progress_through_the_beginning": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_progress_through_the_severed_spine": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_reach_dwellings_6": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "o_watch_essential_tips_for_mio_memories_in_orbit": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 0,
+      "segmentTitle": "Intro",
+      "startSec": 0,
+      "endSec": 19
+    }
+  ],
+  "z_n_a_intro_segment_only": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 0,
+      "segmentTitle": "Intro",
+      "startSec": 0,
+      "endSec": 19
+    }
+  ],
+  "o_unlock_the_map": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 1,
+      "segmentTitle": "Tip 1 - Map Unlock",
+      "startSec": 19,
+      "endSec": 70
+    }
+  ],
+  "o_find_the_crystallizer_robot_near_the_severed_spine": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    }
+  ],
+  "z_feral_undergrowth_the_severed_spine": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    }
+  ],
+  "o_unlock_and_use_mel_s_shop": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    }
+  ],
+  "o_head_west_past_enemy_and_dwellings": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    }
+  ],
+  "o_find_chest_and_complete_challenge_fight": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    }
+  ],
+  "o_equip_the_extra_health_mod": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    }
+  ],
+  "o_get_hairpin_ability": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "o_defeat_flora": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "o_collect_aviary_s_passport": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "o_bring_passport_to_elevator_and_ascend": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "o_receive_dodge_from_sam": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "o_grab_forebear_s_legacy_before_acat": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    }
+  ],
+  "o_use_cross_area_abilities_to_unlock_blocked_paths": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    }
+  ],
+  "z_haven_metropolis": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    }
+  ],
+  "o_locate_the_torn_overseer_in_each_area": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    }
+  ],
+  "o_use_network_gate_to_save_and_update_map": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    }
+  ],
+  "o_reach_out_to_the_other_pearls": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 8,
+      "segmentTitle": "Tip 8 - Endings",
+      "startSec": 271,
+      "endSec": 298
+    }
+  ],
+  "o_complete_true_ending_requirements": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 8,
+      "segmentTitle": "Tip 8 - Endings",
+      "startSec": 271,
+      "endSec": 298
+    }
+  ],
+  "o_watch_for_more_memories_in_orbit_content": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 9,
+      "segmentTitle": "Outro",
+      "startSec": 298,
+      "endSec": 316
+    }
+  ],
+  "z_n_a_outro_segment": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 9,
+      "segmentTitle": "Outro",
+      "startSec": 298,
+      "endSec": 316
+    }
+  ],
+  "o_defeat_ati_keeper_of_the_heart": [
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 0,
+      "segmentTitle": "window 1",
+      "startSec": 0,
+      "endSec": 90
+    },
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 1,
+      "segmentTitle": "window 2",
+      "startSec": 90,
+      "endSec": 180
+    },
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 2,
+      "segmentTitle": "window 3",
+      "startSec": 180,
+      "endSec": 259
+    }
+  ],
+  "c_vessel__vessel": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 0,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #1",
+      "startSec": 0,
+      "endSec": 0
+    },
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 3,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #4",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "c_vessel__network_gate": [
+    {
+      "sourceId": "mio_wiki_beginner",
+      "videoId": "mio_wiki_beginner",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "c_network_gates__network_gates": [
+    {
+      "sourceId": "mio_wiki_abilities",
+      "videoId": "mio_wiki_abilities",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "c_egis_arena__nacre_basin_egis": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "c_egis_arena__crow_arena": [
+    {
+      "sourceId": "mio_slashskill_bosses",
+      "videoId": "mio_slashskill_bosses",
+      "segmentIndex": 2,
+      "segmentTitle": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies #3",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "c_beginning__severed_spine": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "c_severed_spine__dwellings_6": [
+    {
+      "sourceId": "mio_intoindie_part1",
+      "videoId": "mio_intoindie_part1",
+      "segmentIndex": 5,
+      "segmentTitle": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings #6",
+      "startSec": 0,
+      "endSec": 0
+    }
+  ],
+  "c_severed_spine__feral_undergrowth": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    }
+  ],
+  "c_feral_undergrowth__severed_spine": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 2,
+      "segmentTitle": "Tip 2 - Crystallising Nacre",
+      "startSec": 70,
+      "endSec": 120
+    }
+  ],
+  "c_icy_cavern__frozen_ruins_platform": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 3,
+      "segmentTitle": "Tip 3 - Extra Health",
+      "startSec": 120,
+      "endSec": 132
+    }
+  ],
+  "c_feral_undergrowth__spine_floor": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "c_spine_floor__haven": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 4,
+      "segmentTitle": "Tip 4 - Dodge Ability",
+      "startSec": 132,
+      "endSec": 183
+    }
+  ],
+  "c_dwellings__metropolis": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    }
+  ],
+  "c_dwellings__spine": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 5,
+      "segmentTitle": "Tip 5 - Damage Increase",
+      "startSec": 183,
+      "endSec": 214
+    }
+  ],
+  "c_haven__metropolis": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 6,
+      "segmentTitle": "Tip 6 - Exploration",
+      "startSec": 214,
+      "endSec": 233
+    }
+  ],
+  "c_network_gate_room__spine": [
+    {
+      "sourceId": "mio_vid_walkthrough_1",
+      "videoId": "EY8OrfvBeXE",
+      "segmentIndex": 7,
+      "segmentTitle": "Tip 7 - Fast Travel",
+      "startSec": 233,
+      "endSec": 271
+    }
+  ],
+  "c_heart_cavern__memory_void": [
+    {
+      "sourceId": "mio_vid_boss",
+      "videoId": "0JJ1VacXAUo",
+      "segmentIndex": 2,
+      "segmentTitle": "window 3",
+      "startSec": 180,
+      "endSec": 259
+    }
+  ]
+}

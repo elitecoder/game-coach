@@ -1,0 +1,6410 @@
+{
+  "total": 291,
+  "keptEntities": 267,
+  "droppedArtifacts": [],
+  "contamination": [
+    {
+      "id": "z_early_game_area",
+      "name": "Early Game Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_late_game_story_progression",
+      "name": "Late-game story progression",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_end_of_main_story",
+      "name": "End of main story",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_ati_keeper_of_the_heart_arena",
+      "name": "ATI, Keeper Of The Heart Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_ati_s_chamber",
+      "name": "ATI's Chamber",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_heart_cavern",
+      "name": "Heart Cavern",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_unknown_area",
+      "name": "Unknown Area",
+      "kind": "zone",
+      "sourceCount": 0,
+      "sources": [],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_crow_boss_fight_prior_segment",
+      "name": "Crow boss fight (prior segment)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_prior_to_metropolis",
+      "name": "Prior to Metropolis",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_unknown",
+      "name": "Unknown",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_general",
+      "name": "General",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_early_game_areas",
+      "name": "Early game areas",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_various_collectible_locations",
+      "name": "Various collectible locations",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_n_a_intro_segment_only",
+      "name": "N/A — intro segment only",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_n_a_outro_segment",
+      "name": "N/A – outro segment",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_aerial_combat_jump_reset",
+      "name": "Aerial Combat Jump Reset",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_beginner",
+        "mio_wiki_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_important_ability_the_severed_spine_revisit",
+      "name": "Important ability (The Severed Spine revisit)",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_powerful_new_ability_post_flora",
+      "name": "Powerful new ability (post-Flora)",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_modifications",
+      "name": "Modifications",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_metropolis_ability",
+      "name": "Metropolis Ability",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_bosses_general",
+      "name": "Bosses (general)",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_ati",
+      "name": "ATI",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_poltergates_dr_halyn_s_experiment_233",
+      "name": "Poltergates – Dr. Halyn's Experiment #233",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_challenge_fight_enemy",
+      "name": "Challenge Fight Enemy",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    }
+  ],
+  "escalated": [],
+  "singleSource": [
+    {
+      "id": "z_nexus",
+      "name": "Nexus",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_walkthrough"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_celestial_bay",
+      "name": "Celestial Bay",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_walkthrough"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_network_gate",
+      "name": "Network Gate",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_promenade",
+      "name": "Promenade",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_breath",
+      "name": "The Breath",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_foundations",
+      "name": "Foundations",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_blood",
+      "name": "The Blood",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hand",
+      "name": "The Hand",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hall_of_history",
+      "name": "Hall of History",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_area_above_metropolis",
+      "name": "Area above Metropolis",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_promenade_entrance",
+      "name": "Promenade Entrance",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_nexus_apartments",
+      "name": "Nexus - Apartments",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_network_gates",
+      "name": "Network Gates",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_egis_arena",
+      "name": "Egis Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_nacre_basin_egis",
+      "name": "Nacre Basin (Egis)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_crow_arena",
+      "name": "Crow Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_calderon_arena",
+      "name": "Calderon arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_anra_dr_halyn_boss_area",
+      "name": "Anra / Dr. Halyn Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_friends_boss_area",
+      "name": "Friends Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_lower_area",
+      "name": "Lower Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_lombre_boss_arena",
+      "name": "Lombre Boss Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_vlad_boss_area",
+      "name": "Vlad Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_lift_room",
+      "name": "Lift Room",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_ancile_targa_boss_area",
+      "name": "Ancile Targa Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_debby_boss_area",
+      "name": "Debby Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_poltergates_boss_area",
+      "name": "Poltergates Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_true_ending_path",
+      "name": "True ending path",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_beginning",
+      "name": "The Beginning",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_l1_the_spine",
+      "name": "L1: The Spine",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_l2_apartments",
+      "name": "L2: Apartments",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_dwellings_3",
+      "name": "Dwellings #3",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_blocked_off_dome",
+      "name": "Blocked-off Dome",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_nacre_basin",
+      "name": "Nacre Basin",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_strange_tube",
+      "name": "Strange Tube",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_digital_world",
+      "name": "Digital World",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_severed_spine_apartments",
+      "name": "The Severed Spine - Apartments",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_dwellings_6",
+      "name": "Dwellings #6",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_auma_s_giga_s_room",
+      "name": "Auma's & Giga's Room",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_lash_s_room",
+      "name": "Lash's Room",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_icy_cavern",
+      "name": "Icy Cavern",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_frozen_ruins_platform",
+      "name": "Frozen Ruins Platform",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_spine_floor",
+      "name": "Spine Floor",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_network_gate_room",
+      "name": "Network Gate Room",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_torn_overseer_area",
+      "name": "Torn Overseer Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_heart",
+      "name": "The Heart",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_memory_void",
+      "name": "Memory Void",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_haven_prior_to_promenade",
+      "name": "Haven (prior to Promenade)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_dwellings_feral_undergrowth_border",
+      "name": "Dwellings / Feral Undergrowth border",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_vaults_the_lab",
+      "name": "The Vaults / The Lab",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_feral_undergrowth_the_severed_spine",
+      "name": "Feral Undergrowth / The Severed Spine",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_haven_metropolis",
+      "name": "Haven / Metropolis",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_modifiers",
+      "name": "Modifiers",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_walkthrough"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_nacre_droplets",
+      "name": "Nacre Droplets",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_walkthrough"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_modifier_extensions",
+      "name": "Modifier Extensions",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_grappling",
+      "name": "Grappling",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_liquid_nacre",
+      "name": "Liquid Nacre",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_map_function",
+      "name": "Map Function",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_pacifist_mode",
+      "name": "Pacifist Mode",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_first_ability_dwellings",
+      "name": "First ability (Dwellings)",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_bell_tower_visitor_pass",
+      "name": "Bell Tower Visitor Pass",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_glide",
+      "name": "Glide",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_old_fashioned_key",
+      "name": "Old-Fashioned Key",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_lura_s_seal",
+      "name": "Lura's Seal",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_fragmented_serial_numbers",
+      "name": "Fragmented Serial Numbers",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_friends_invitation",
+      "name": "Friends Invitation",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_enhanced_dodge",
+      "name": "Enhanced Dodge",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_strider",
+      "name": "Strider",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_protective_overlay_modifier",
+      "name": "Protective Overlay Modifier",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_kinetic_thrust_modifier",
+      "name": "Kinetic Thrust Modifier",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_sail",
+      "name": "Sail",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_slingshot",
+      "name": "Slingshot",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_friendly_invitation",
+      "name": "Friendly Invitation",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_analyser",
+      "name": "Analyser",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_kinetic_thrust",
+      "name": "Kinetic Thrust",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_absorb_tendrils",
+      "name": "Absorb Tendrils",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_attuner",
+      "name": "Attuner",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_old_core",
+      "name": "Old Core",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_crystallized_nacre",
+      "name": "Crystallized Nacre",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_extra_health_mod",
+      "name": "Extra Health Mod",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_aviary_s_passport",
+      "name": "Aviary's Passport",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_forebear_s_legacy",
+      "name": "Forebear's Legacy",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_haven_ability",
+      "name": "Haven Ability",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_breath",
+      "name": "The Breath",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_blood",
+      "name": "The Blood",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_hand",
+      "name": "The Hand",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_spine",
+      "name": "The Spine",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_secret_final_boss",
+      "name": "Secret Final Boss",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_flora_sentient_pearltrap",
+      "name": "Flora – Sentient Pearltrap",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_calderon_unyielding_furnace",
+      "name": "Calderon – Unyielding Furnace",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_atmos_weather_control_unit",
+      "name": "Atmos – Weather Control Unit",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_nabuu_keeper_of_the_breath",
+      "name": "Nabuu – Keeper of the Breath",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_anra",
+      "name": "Anra",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_lombre_intrusive_fertiliser",
+      "name": "Lombre – Intrusive Fertiliser",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_vlad",
+      "name": "Vlad",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_ancile_targa",
+      "name": "Ancile Targa",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_debby",
+      "name": "Debby",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_poltergate",
+      "name": "Poltergate",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_keeper_of_the_heart",
+      "name": "The Keeper of the Heart",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_atmos",
+      "name": "Atmos",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_egis_worn_out_sentinel",
+      "name": "Egis, Worn Out Sentinel",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_torn_overseer",
+      "name": "Torn Overseer",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_final_boss_standard",
+      "name": "Final Boss (Standard)",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_ati_keeper_of_the_heart",
+      "name": "ATI, Keeper Of The Heart",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_acquire_hairpin_grapple",
+      "name": "Acquire Hairpin Grapple",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_locate_network_gates",
+      "name": "Locate Network Gates",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_expand_allocation_matrix",
+      "name": "Expand Allocation Matrix",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_master_aerial_combat_jump_reset",
+      "name": "Master aerial combat jump reset",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_acquire_arachnid_locomotion",
+      "name": "Acquire Arachnid Locomotion",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_overseers",
+      "name": "Find Overseers",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_map_function",
+      "name": "Unlock the Map Function",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_repair_damaged_robots",
+      "name": "Repair Damaged Robots",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_convert_nacre_to_solid_nacre",
+      "name": "Convert Nacre to Solid Nacre",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_hairpin_grapple",
+      "name": "Unlock Hairpin Grapple",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_gliding",
+      "name": "Unlock Gliding",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_spend_nacre_before_difficult_encounters",
+      "name": "Spend Nacre Before Difficult Encounters",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_manage_allocation_matrix_at_network_gates",
+      "name": "Manage Allocation Matrix at Network Gates",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_enable_assist_modes_if_struggling",
+      "name": "Enable Assist Modes if Struggling",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_update_map_at_network_gates",
+      "name": "Update Map at Network Gates",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_and_defeat_intrusive_fertiliser",
+      "name": "Find and defeat Intrusive Fertiliser",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_and_defeat_sentient_pearltrap",
+      "name": "Find and defeat Sentient Pearltrap",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_terror_of_the_ledge_without_taking_damage",
+      "name": "Defeat Terror of the Ledge without taking damage",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_visit_network_gates_before_boss_encounters",
+      "name": "Visit Network Gates before boss encounters",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_spend_nacre_before_difficult_bosses",
+      "name": "Spend Nacre before difficult bosses",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_old_fashioned_key_from_calderon",
+      "name": "Obtain Old-Fashioned Key from Calderon",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_all_19_bosses",
+      "name": "Defeat all 19 bosses",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_crucible",
+      "name": "Unlock The Crucible",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_complete_the_crucible_challenges",
+      "name": "Complete The Crucible challenges",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_the_top_of_haven_via_bell_tower",
+      "name": "Reach the top of Haven via Bell Tower",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_climb_gloom_waterfall_in_the_canopy",
+      "name": "Climb gloom waterfall in The Canopy",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_all_7_mod_extensions",
+      "name": "Find all 7 Mod Extensions",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_convert_liquid_nacre_to_solid_nacre",
+      "name": "Convert Liquid Nacre to Solid Nacre",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_purchase_upgrades_at_network_gates",
+      "name": "Purchase Upgrades at Network Gates",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_master_hairpin_grapple_chaining",
+      "name": "Master Hairpin Grapple chaining",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_all_7_mod_extensions",
+      "name": "Collect all 7 Mod Extensions",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_experiment_at_network_gates",
+      "name": "Experiment at Network Gates",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_spend_nacre_before_dangerous_encounters",
+      "name": "Spend Nacre before dangerous encounters",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_egis_arena",
+      "name": "Reach Egis Arena",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_nacre_basin_before_egis_if_low_on_health",
+      "name": "Use Nacre Basin before Egis if low on health",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_egis_worn_out_sentinel",
+      "name": "Defeat Egis – Worn Out Sentinel",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_climb_to_the_top_using_hairpin",
+      "name": "Climb to the top using Hairpin",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_crow_automated_reaper",
+      "name": "Defeat Crow – Automated Reaper",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_complete_opening_parkour",
+      "name": "Complete Opening Parkour",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_the_hook_platform",
+      "name": "Reach the Hook Platform",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_connect_to_the_spine",
+      "name": "Connect to the Spine",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_nacre_from_junk_pile",
+      "name": "Collect Nacre from Junk Pile",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_initial_robot_enemies",
+      "name": "Defeat Initial Robot Enemies",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_flash_memory_note",
+      "name": "Find Flash Memory Note",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_map_in_dwellings",
+      "name": "Unlock the Map in Dwellings",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_the_hidden_path",
+      "name": "Explore the Hidden Path",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_beat_egis_worn_out_sentinel",
+      "name": "Beat Egis, Worn Out Sentinel",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_hairpin",
+      "name": "Unlock the Hairpin",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_beat_acat_nacre_engraver",
+      "name": "Beat Acat, Nacre Engraver",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_metropolis",
+      "name": "Reach Metropolis",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_robots_on_lower_floor",
+      "name": "Defeat robots on lower floor",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_slide_down_icy_floor_and_cross_red_grass_ground",
+      "name": "Slide down icy floor and cross red grass ground",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_the_hole_in_the_ground_and_drop_down",
+      "name": "Find the hole in the ground and drop down",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_rescue_rad_and_receive_analyser",
+      "name": "Rescue Rad and receive Analyser",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_elevator_to_return_to_shii_and_unlock_the_map",
+      "name": "Use elevator to return to Shii and unlock the map",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_equip_modifier_at_attuner",
+      "name": "Equip Modifier at Attuner",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_gauntlet_and_open_container_for_protective_overlay",
+      "name": "Defeat gauntlet and open Container for Protective Overlay",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_hidden_path_to_reach_blocked_off_dome",
+      "name": "Explore hidden path to reach Blocked-off Dome",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_kinetic_thrust",
+      "name": "Collect Kinetic Thrust",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_return_and_continue_heading_down",
+      "name": "Return and continue heading down",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_crystalliser_to_condense_nacre_droplets",
+      "name": "Use Crystalliser to condense Nacre Droplets",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_clear_the_gauntlet_room",
+      "name": "Clear the gauntlet room",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_shortcut_to_apartments",
+      "name": "Unlock shortcut to Apartments",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_heal_at_nacre_basin_before_boss",
+      "name": "Heal at Nacre Basin before boss",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_interact_with_torn_overseer",
+      "name": "Interact with Torn Overseer",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_old_core_in_mechanical_remains",
+      "name": "Find Old Core in Mechanical Remains",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_attuner",
+      "name": "Unlock the Attuner",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_return_to_the_severed_spine",
+      "name": "Return to The Severed Spine",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_progress_through_the_beginning",
+      "name": "Progress through The Beginning",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_progress_through_the_severed_spine",
+      "name": "Progress through The Severed Spine",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_dwellings_6",
+      "name": "Reach Dwellings #6",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_watch_essential_tips_for_mio_memories_in_orbit",
+      "name": "Watch essential tips for Mio: Memories in Orbit",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_map",
+      "name": "Unlock the Map",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_the_crystallizer_robot_near_the_severed_spine",
+      "name": "Find the Crystallizer Robot near The Severed Spine",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_and_use_mel_s_shop",
+      "name": "Unlock and use Mel's Shop",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_head_west_past_enemy_and_dwellings",
+      "name": "Head West Past Enemy and Dwellings",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_chest_and_complete_challenge_fight",
+      "name": "Find Chest and Complete Challenge Fight",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_equip_the_extra_health_mod",
+      "name": "Equip the Extra Health Mod",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_get_hairpin_ability",
+      "name": "Get Hairpin ability",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_flora",
+      "name": "Defeat Flora",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_aviary_s_passport",
+      "name": "Collect Aviary's Passport",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_bring_passport_to_elevator_and_ascend",
+      "name": "Bring Passport to elevator and ascend",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_receive_dodge_from_sam",
+      "name": "Receive Dodge from Sam",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_grab_forebear_s_legacy_before_acat",
+      "name": "Grab Forebear's Legacy before ACAT",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_cross_area_abilities_to_unlock_blocked_paths",
+      "name": "Use cross-area abilities to unlock blocked paths",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_locate_the_torn_overseer_in_each_area",
+      "name": "Locate the Torn Overseer in each area",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_network_gate_to_save_and_update_map",
+      "name": "Use Network Gate to save and update map",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_out_to_the_other_pearls",
+      "name": "Reach out to the other Pearls",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_complete_true_ending_requirements",
+      "name": "Complete True Ending requirements",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_watch_for_more_memories_in_orbit_content",
+      "name": "Watch for more Memories in Orbit content",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_ati_keeper_of_the_heart",
+      "name": "Defeat ATI, Keeper Of The Heart",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_vessel__vessel",
+      "name": "Network Gates act as loadout-swap hubs within The Vessel, allowing Modification equip/unequip without changing zones.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_vessel__network_gate",
+      "name": "Returning to a Network Gate (save point) updates the map with newly explored routes.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_network_gates__network_gates",
+      "name": "Player returns to Network Gates to swap or combine Modifications; acts as a modification hub.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_egis_arena__nacre_basin_egis",
+      "name": "Nacre Basin is hidden behind an icy gate just above the Egis arena",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_egis_arena__crow_arena",
+      "name": "Progress after defeating Egis; climb to the top using Hairpin, then enter the hole in the left wall",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_beginning__severed_spine",
+      "name": "Player progresses from The Beginning into The Severed Spine as part of the opening path",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_severed_spine__dwellings_6",
+      "name": "Player progresses from The Severed Spine to Dwellings #6",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_severed_spine__feral_undergrowth",
+      "name": "Player routes south/south-east from The Severed Spine through the Feral Undergrowth.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_feral_undergrowth__severed_spine",
+      "name": "Circling back east through Feral Undergrowth leads to an accessible Crystallizer Robot near The Severed Spine.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_icy_cavern__frozen_ruins_platform",
+      "name": "Head west past the enemy and dwellings to reach the chest/challenge fight area",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_feral_undergrowth__spine_floor",
+      "name": "Return to elevator near game start with Aviary's Passport and ascend to level one (Spine Floor)",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_spine_floor__haven",
+      "name": "Alternate progression path eastward through Haven; late-game route that also eventually yields Dodge without the passport shortcut",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dwellings__metropolis",
+      "name": "Main story progression path leads from The Dwellings into Metropolis.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dwellings__spine",
+      "name": "Shortcut unlocked after defeating ACAT, allowing fast travel back to The Spine.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_haven__metropolis",
+      "name": "Fast travel between the two main exploration areas",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_network_gate_room__spine",
+      "name": "Warp connection unlocked between a Network Gate and The Spine once the Torn Overseer for that area has been found.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_heart_cavern__memory_void",
+      "name": "Phase transition during ATI, Keeper Of The Heart boss fight shifts the battle from the physical crystalline cavern to an abstract white void",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    }
+  ],
+  "corroborated": 57,
+  "quality": [
+    {
+      "id": "z_nexus",
+      "name": "Nexus",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_walkthrough"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_vessel",
+      "name": "The Vessel",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_beginner",
+        "mio_intoindie_hub",
+        "mio_wiki_bosses",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_metropolis",
+      "name": "Metropolis",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_bosses",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_vaults",
+      "name": "Vaults",
+      "kind": "zone",
+      "sourceCount": 4,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_bosses",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_haven",
+      "name": "Haven",
+      "kind": "zone",
+      "sourceCount": 4,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_abilities",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_lab",
+      "name": "The Lab",
+      "kind": "zone",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_crucible",
+      "name": "The Crucible",
+      "kind": "zone",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_bell_tower",
+      "name": "Bell Tower",
+      "kind": "zone",
+      "sourceCount": 4,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_wiki_abilities",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_canopy",
+      "name": "Canopy",
+      "kind": "zone",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_library",
+      "name": "The Library",
+      "kind": "zone",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_celestial_bay",
+      "name": "Celestial Bay",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_walkthrough"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_pit",
+      "name": "The Pit",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_silo",
+      "name": "Silo",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_manufactory",
+      "name": "Manufactory",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_network_gate",
+      "name": "Network Gate",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_severed_spine",
+      "name": "The Severed Spine",
+      "kind": "zone",
+      "sourceCount": 3,
+      "sources": [
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_dwellings",
+      "name": "Dwellings",
+      "kind": "zone",
+      "sourceCount": 5,
+      "sources": [
+        "mio_intoindie_hub",
+        "mio_wiki_bosses",
+        "mio_slashskill_bosses",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_feral_undergrowth",
+      "name": "Feral Undergrowth",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "mio_intoindie_hub",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_promenade",
+      "name": "Promenade",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_breath",
+      "name": "The Breath",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_foundations",
+      "name": "Foundations",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_blood",
+      "name": "The Blood",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_hand",
+      "name": "The Hand",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_spine",
+      "name": "The Spine",
+      "kind": "zone",
+      "sourceCount": 3,
+      "sources": [
+        "mio_intoindie_hub",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_hall_of_history",
+      "name": "Hall of History",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_early_game_area",
+      "name": "Early Game Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_aviaries",
+      "name": "Aviaries",
+      "kind": "zone",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_bosses",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "z_area_above_metropolis",
+      "name": "Area above Metropolis",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_promenade_entrance",
+      "name": "Promenade Entrance",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_nexus_apartments",
+      "name": "Nexus - Apartments",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_network_gates",
+      "name": "Network Gates",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_egis_arena",
+      "name": "Egis Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_nacre_basin_egis",
+      "name": "Nacre Basin (Egis)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_crow_arena",
+      "name": "Crow Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_calderon_arena",
+      "name": "Calderon arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_anra_dr_halyn_boss_area",
+      "name": "Anra / Dr. Halyn Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_friends_boss_area",
+      "name": "Friends Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_lower_area",
+      "name": "Lower Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_lombre_boss_arena",
+      "name": "Lombre Boss Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_vlad_boss_area",
+      "name": "Vlad Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_lift_room",
+      "name": "Lift Room",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_ancile_targa_boss_area",
+      "name": "Ancile Targa Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_debby_boss_area",
+      "name": "Debby Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_poltergates_boss_area",
+      "name": "Poltergates Boss Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_late_game_story_progression",
+      "name": "Late-game story progression",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_end_of_main_story",
+      "name": "End of main story",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_true_ending_path",
+      "name": "True ending path",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_beginning",
+      "name": "The Beginning",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_l1_the_spine",
+      "name": "L1: The Spine",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_l2_apartments",
+      "name": "L2: Apartments",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_dwellings_3",
+      "name": "Dwellings #3",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_blocked_off_dome",
+      "name": "Blocked-off Dome",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_nacre_basin",
+      "name": "Nacre Basin",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_strange_tube",
+      "name": "Strange Tube",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_digital_world",
+      "name": "Digital World",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_severed_spine_apartments",
+      "name": "The Severed Spine - Apartments",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_dwellings_6",
+      "name": "Dwellings #6",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_auma_s_giga_s_room",
+      "name": "Auma's & Giga's Room",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_lash_s_room",
+      "name": "Lash's Room",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_icy_cavern",
+      "name": "Icy Cavern",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_frozen_ruins_platform",
+      "name": "Frozen Ruins Platform",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_spine_floor",
+      "name": "Spine Floor",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_network_gate_room",
+      "name": "Network Gate Room",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_torn_overseer_area",
+      "name": "Torn Overseer Area",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_heart",
+      "name": "The Heart",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_ati_keeper_of_the_heart_arena",
+      "name": "ATI, Keeper Of The Heart Arena",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_ati_s_chamber",
+      "name": "ATI's Chamber",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_heart_cavern",
+      "name": "Heart Cavern",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_memory_void",
+      "name": "Memory Void",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_unknown_area",
+      "name": "Unknown Area",
+      "kind": "zone",
+      "sourceCount": 0,
+      "sources": [],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_crow_boss_fight_prior_segment",
+      "name": "Crow boss fight (prior segment)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_haven_prior_to_promenade",
+      "name": "Haven (prior to Promenade)",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_dwellings_feral_undergrowth_border",
+      "name": "Dwellings / Feral Undergrowth border",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_prior_to_metropolis",
+      "name": "Prior to Metropolis",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_vaults_the_lab",
+      "name": "The Vaults / The Lab",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_unknown",
+      "name": "Unknown",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_general",
+      "name": "General",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_early_game_areas",
+      "name": "Early game areas",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_various_collectible_locations",
+      "name": "Various collectible locations",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_n_a_intro_segment_only",
+      "name": "N/A — intro segment only",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_feral_undergrowth_the_severed_spine",
+      "name": "Feral Undergrowth / The Severed Spine",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_haven_metropolis",
+      "name": "Haven / Metropolis",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "z_n_a_outro_segment",
+      "name": "N/A – outro segment",
+      "kind": "zone",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_modifiers",
+      "name": "Modifiers",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_walkthrough"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_coating_components",
+      "name": "Coating Components",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_mod_extensions",
+      "name": "Mod Extensions",
+      "kind": "ability",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_allocation_matrix",
+      "name": "Allocation Matrix",
+      "kind": "ability",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_beginner",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_solid_nacre",
+      "name": "Solid Nacre",
+      "kind": "key_item",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_nacre_droplets",
+      "name": "Nacre Droplets",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_walkthrough"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_double_jump",
+      "name": "Double Jump",
+      "kind": "ability",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_beginner",
+        "mio_slashskill_bosses",
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_hairpin_grapple",
+      "name": "Hairpin Grapple",
+      "kind": "ability",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_beginner",
+        "mio_wiki_bosses",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_arachnid_locomotion",
+      "name": "Arachnid Locomotion",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_beginner",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_modifier_extensions",
+      "name": "Modifier Extensions",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_dash_deflect",
+      "name": "Dash/Deflect",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_beginner",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_gliding",
+      "name": "Gliding",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_beginner",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_orbs",
+      "name": "Orbs",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_beginner",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_decoy_clones",
+      "name": "Decoy Clones",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_beginner",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_grappling",
+      "name": "Grappling",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_liquid_nacre",
+      "name": "Liquid Nacre",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_map_function",
+      "name": "Map Function",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_aerial_combat_jump_reset",
+      "name": "Aerial Combat Jump Reset",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_beginner",
+        "mio_wiki_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_corrupted_boss_mode",
+      "name": "Corrupted Boss Mode",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_beginner",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_pacifist_mode",
+      "name": "Pacifist Mode",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_first_ability_dwellings",
+      "name": "First ability (Dwellings)",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_important_ability_the_severed_spine_revisit",
+      "name": "Important ability (The Severed Spine revisit)",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_powerful_new_ability_post_flora",
+      "name": "Powerful new ability (post-Flora)",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_harvester",
+      "name": "Harvester",
+      "kind": "key_item",
+      "sourceCount": 2,
+      "sources": [
+        "mio_intoindie_hub",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_bell_tower_visitor_pass",
+      "name": "Bell Tower Visitor Pass",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_glide",
+      "name": "Glide",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_flowing_steps",
+      "name": "Flowing Steps",
+      "kind": "key_item",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_bosses",
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_old_fashioned_key",
+      "name": "Old-Fashioned Key",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_lura_s_seal",
+      "name": "Lura's Seal",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_aviaries_passepartout",
+      "name": "Aviaries Passepartout",
+      "kind": "key_item",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_bosses",
+        "mio_slashskill_bosses",
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_fragmented_serial_numbers",
+      "name": "Fragmented Serial Numbers",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_friends_invitation",
+      "name": "Friends Invitation",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_protective_overlay",
+      "name": "Protective Overlay",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_bosses",
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_enhanced_dodge",
+      "name": "Enhanced Dodge",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_strider",
+      "name": "Strider",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_modifications",
+      "name": "Modifications",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_silo_access_badge",
+      "name": "Silo Access Badge",
+      "kind": "key_item",
+      "sourceCount": 2,
+      "sources": [
+        "mio_slashskill_bosses",
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_hairpin",
+      "name": "Hairpin",
+      "kind": "ability",
+      "sourceCount": 3,
+      "sources": [
+        "mio_slashskill_bosses",
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_protective_overlay_modifier",
+      "name": "Protective Overlay Modifier",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_kinetic_thrust_modifier",
+      "name": "Kinetic Thrust Modifier",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_dodge",
+      "name": "Dodge",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_slashskill_bosses",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_sail",
+      "name": "Sail",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_slingshot",
+      "name": "Slingshot",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_friendly_invitation",
+      "name": "Friendly Invitation",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_map",
+      "name": "Map",
+      "kind": "ability",
+      "sourceCount": 2,
+      "sources": [
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "a_analyser",
+      "name": "Analyser",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_kinetic_thrust",
+      "name": "Kinetic Thrust",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_absorb_tendrils",
+      "name": "Absorb Tendrils",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_attuner",
+      "name": "Attuner",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_old_core",
+      "name": "Old Core",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_crystallized_nacre",
+      "name": "Crystallized Nacre",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_extra_health_mod",
+      "name": "Extra Health Mod",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_aviary_s_passport",
+      "name": "Aviary's Passport",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_forebear_s_legacy",
+      "name": "Forebear's Legacy",
+      "kind": "key_item",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_haven_ability",
+      "name": "Haven Ability",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "a_metropolis_ability",
+      "name": "Metropolis Ability",
+      "kind": "ability",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_egis",
+      "name": "Egis",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_calderon",
+      "name": "Calderon",
+      "kind": "boss",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_sol_vin",
+      "name": "Sol & Vin",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_flora",
+      "name": "FLORA",
+      "kind": "boss",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_intoindie_hub",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_shii",
+      "name": "Shii",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_sawlong",
+      "name": "Sawlong",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_last_embedders",
+      "name": "The Last Embedders",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_dr_halyn_s_collector",
+      "name": "Dr Halyn's Collector",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_twisted_baron",
+      "name": "Twisted Baron",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_dr_halyn_s_experiment_223",
+      "name": "Dr Halyn's Experiment #223",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_friends",
+      "name": "The Friends :)",
+      "kind": "boss",
+      "sourceCount": 3,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_intrusive_fertiliser",
+      "name": "Intrusive Fertiliser",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_sentient_pearltrap",
+      "name": "Sentient Pearltrap",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_terror_of_the_ledge",
+      "name": "Terror of the Ledge",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_walkthrough",
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_bosses_general",
+      "name": "Bosses (general)",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_acat",
+      "name": "Acat",
+      "kind": "boss",
+      "sourceCount": 3,
+      "sources": [
+        "mio_intoindie_hub",
+        "mio_slashskill_bosses",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_crow",
+      "name": "Crow",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_intoindie_hub",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_breath",
+      "name": "The Breath",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_blood",
+      "name": "The Blood",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_hand",
+      "name": "The Hand",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_spine",
+      "name": "The Spine",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_hub"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_ati",
+      "name": "ATI",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_dr_halyn",
+      "name": "Dr Halyn",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_wiki_bosses",
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_secret_final_boss",
+      "name": "Secret Final Boss",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_flora_sentient_pearltrap",
+      "name": "Flora – Sentient Pearltrap",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_acat_nacre_engraver",
+      "name": "Acat – Nacre Engraver",
+      "kind": "boss",
+      "sourceCount": 2,
+      "sources": [
+        "mio_slashskill_bosses",
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "b_calderon_unyielding_furnace",
+      "name": "Calderon – Unyielding Furnace",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_atmos_weather_control_unit",
+      "name": "Atmos – Weather Control Unit",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_nabuu_keeper_of_the_breath",
+      "name": "Nabuu – Keeper of the Breath",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_anra",
+      "name": "Anra",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_lombre_intrusive_fertiliser",
+      "name": "Lombre – Intrusive Fertiliser",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_vlad",
+      "name": "Vlad",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_ancile_targa",
+      "name": "Ancile Targa",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_debby",
+      "name": "Debby",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_poltergates_dr_halyn_s_experiment_233",
+      "name": "Poltergates – Dr. Halyn's Experiment #233",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_poltergate",
+      "name": "Poltergate",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_keeper_of_the_heart",
+      "name": "The Keeper of the Heart",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_atmos",
+      "name": "Atmos",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_egis_worn_out_sentinel",
+      "name": "Egis, Worn Out Sentinel",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_challenge_fight_enemy",
+      "name": "Challenge Fight Enemy",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "contamination",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_torn_overseer",
+      "name": "Torn Overseer",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_final_boss_standard",
+      "name": "Final Boss (Standard)",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "b_ati_keeper_of_the_heart",
+      "name": "ATI, Keeper Of The Heart",
+      "kind": "boss",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_acquire_hairpin_grapple",
+      "name": "Acquire Hairpin Grapple",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_locate_network_gates",
+      "name": "Locate Network Gates",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_expand_allocation_matrix",
+      "name": "Expand Allocation Matrix",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_master_aerial_combat_jump_reset",
+      "name": "Master aerial combat jump reset",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_acquire_arachnid_locomotion",
+      "name": "Acquire Arachnid Locomotion",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_overseers",
+      "name": "Find Overseers",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_map_function",
+      "name": "Unlock the Map Function",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_repair_damaged_robots",
+      "name": "Repair Damaged Robots",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_convert_nacre_to_solid_nacre",
+      "name": "Convert Nacre to Solid Nacre",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_hairpin_grapple",
+      "name": "Unlock Hairpin Grapple",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_gliding",
+      "name": "Unlock Gliding",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_spend_nacre_before_difficult_encounters",
+      "name": "Spend Nacre Before Difficult Encounters",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_manage_allocation_matrix_at_network_gates",
+      "name": "Manage Allocation Matrix at Network Gates",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_enable_assist_modes_if_struggling",
+      "name": "Enable Assist Modes if Struggling",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_update_map_at_network_gates",
+      "name": "Update Map at Network Gates",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_and_defeat_intrusive_fertiliser",
+      "name": "Find and defeat Intrusive Fertiliser",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_and_defeat_sentient_pearltrap",
+      "name": "Find and defeat Sentient Pearltrap",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_terror_of_the_ledge_without_taking_damage",
+      "name": "Defeat Terror of the Ledge without taking damage",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_visit_network_gates_before_boss_encounters",
+      "name": "Visit Network Gates before boss encounters",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_spend_nacre_before_difficult_bosses",
+      "name": "Spend Nacre before difficult bosses",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_obtain_old_fashioned_key_from_calderon",
+      "name": "Obtain Old-Fashioned Key from Calderon",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_all_19_bosses",
+      "name": "Defeat all 19 bosses",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_crucible",
+      "name": "Unlock The Crucible",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_complete_the_crucible_challenges",
+      "name": "Complete The Crucible challenges",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_the_top_of_haven_via_bell_tower",
+      "name": "Reach the top of Haven via Bell Tower",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_climb_gloom_waterfall_in_the_canopy",
+      "name": "Climb gloom waterfall in The Canopy",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_all_7_mod_extensions",
+      "name": "Find all 7 Mod Extensions",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_convert_liquid_nacre_to_solid_nacre",
+      "name": "Convert Liquid Nacre to Solid Nacre",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_purchase_upgrades_at_network_gates",
+      "name": "Purchase Upgrades at Network Gates",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_master_hairpin_grapple_chaining",
+      "name": "Master Hairpin Grapple chaining",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_all_7_mod_extensions",
+      "name": "Collect all 7 Mod Extensions",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_experiment_at_network_gates",
+      "name": "Experiment at Network Gates",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_spend_nacre_before_dangerous_encounters",
+      "name": "Spend Nacre before dangerous encounters",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_egis_arena",
+      "name": "Reach Egis Arena",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_nacre_basin_before_egis_if_low_on_health",
+      "name": "Use Nacre Basin before Egis if low on health",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_egis_worn_out_sentinel",
+      "name": "Defeat Egis – Worn Out Sentinel",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_climb_to_the_top_using_hairpin",
+      "name": "Climb to the top using Hairpin",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_crow_automated_reaper",
+      "name": "Defeat Crow – Automated Reaper",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_complete_opening_parkour",
+      "name": "Complete Opening Parkour",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_the_hook_platform",
+      "name": "Reach the Hook Platform",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_connect_to_the_spine",
+      "name": "Connect to the Spine",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_nacre_from_junk_pile",
+      "name": "Collect Nacre from Junk Pile",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_initial_robot_enemies",
+      "name": "Defeat Initial Robot Enemies",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_flash_memory_note",
+      "name": "Find Flash Memory Note",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_map_in_dwellings",
+      "name": "Unlock the Map in Dwellings",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_the_hidden_path",
+      "name": "Explore the Hidden Path",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_beat_egis_worn_out_sentinel",
+      "name": "Beat Egis, Worn Out Sentinel",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_hairpin",
+      "name": "Unlock the Hairpin",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_beat_acat_nacre_engraver",
+      "name": "Beat Acat, Nacre Engraver",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_metropolis",
+      "name": "Reach Metropolis",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_robots_on_lower_floor",
+      "name": "Defeat robots on lower floor",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_slide_down_icy_floor_and_cross_red_grass_ground",
+      "name": "Slide down icy floor and cross red grass ground",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_the_hole_in_the_ground_and_drop_down",
+      "name": "Find the hole in the ground and drop down",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_rescue_rad_and_receive_analyser",
+      "name": "Rescue Rad and receive Analyser",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_elevator_to_return_to_shii_and_unlock_the_map",
+      "name": "Use elevator to return to Shii and unlock the map",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_equip_modifier_at_attuner",
+      "name": "Equip Modifier at Attuner",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_gauntlet_and_open_container_for_protective_overlay",
+      "name": "Defeat gauntlet and open Container for Protective Overlay",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_explore_hidden_path_to_reach_blocked_off_dome",
+      "name": "Explore hidden path to reach Blocked-off Dome",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_kinetic_thrust",
+      "name": "Collect Kinetic Thrust",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_return_and_continue_heading_down",
+      "name": "Return and continue heading down",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_crystalliser_to_condense_nacre_droplets",
+      "name": "Use Crystalliser to condense Nacre Droplets",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_clear_the_gauntlet_room",
+      "name": "Clear the gauntlet room",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_shortcut_to_apartments",
+      "name": "Unlock shortcut to Apartments",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_heal_at_nacre_basin_before_boss",
+      "name": "Heal at Nacre Basin before boss",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_acat_nacre_engraver",
+      "name": "Defeat Acat, Nacre Engraver",
+      "kind": "objective",
+      "sourceCount": 2,
+      "sources": [
+        "mio_intoindie_part1",
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": true,
+      "escalated": false
+    },
+    {
+      "id": "o_interact_with_torn_overseer",
+      "name": "Interact with Torn Overseer",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_old_core_in_mechanical_remains",
+      "name": "Find Old Core in Mechanical Remains",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_attuner",
+      "name": "Unlock the Attuner",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_return_to_the_severed_spine",
+      "name": "Return to The Severed Spine",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_progress_through_the_beginning",
+      "name": "Progress through The Beginning",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_progress_through_the_severed_spine",
+      "name": "Progress through The Severed Spine",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_dwellings_6",
+      "name": "Reach Dwellings #6",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_watch_essential_tips_for_mio_memories_in_orbit",
+      "name": "Watch essential tips for Mio: Memories in Orbit",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_the_map",
+      "name": "Unlock the Map",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_the_crystallizer_robot_near_the_severed_spine",
+      "name": "Find the Crystallizer Robot near The Severed Spine",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_unlock_and_use_mel_s_shop",
+      "name": "Unlock and use Mel's Shop",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_head_west_past_enemy_and_dwellings",
+      "name": "Head West Past Enemy and Dwellings",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_find_chest_and_complete_challenge_fight",
+      "name": "Find Chest and Complete Challenge Fight",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_equip_the_extra_health_mod",
+      "name": "Equip the Extra Health Mod",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_get_hairpin_ability",
+      "name": "Get Hairpin ability",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_flora",
+      "name": "Defeat Flora",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_collect_aviary_s_passport",
+      "name": "Collect Aviary's Passport",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_bring_passport_to_elevator_and_ascend",
+      "name": "Bring Passport to elevator and ascend",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_receive_dodge_from_sam",
+      "name": "Receive Dodge from Sam",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_grab_forebear_s_legacy_before_acat",
+      "name": "Grab Forebear's Legacy before ACAT",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_cross_area_abilities_to_unlock_blocked_paths",
+      "name": "Use cross-area abilities to unlock blocked paths",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_locate_the_torn_overseer_in_each_area",
+      "name": "Locate the Torn Overseer in each area",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_use_network_gate_to_save_and_update_map",
+      "name": "Use Network Gate to save and update map",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_reach_out_to_the_other_pearls",
+      "name": "Reach out to the other Pearls",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_complete_true_ending_requirements",
+      "name": "Complete True Ending requirements",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_watch_for_more_memories_in_orbit_content",
+      "name": "Watch for more Memories in Orbit content",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "o_defeat_ati_keeper_of_the_heart",
+      "name": "Defeat ATI, Keeper Of The Heart",
+      "kind": "objective",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_vessel__vessel",
+      "name": "Network Gates act as loadout-swap hubs within The Vessel, allowing Modification equip/unequip without changing zones.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_vessel__network_gate",
+      "name": "Returning to a Network Gate (save point) updates the map with newly explored routes.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_beginner"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_network_gates__network_gates",
+      "name": "Player returns to Network Gates to swap or combine Modifications; acts as a modification hub.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_wiki_abilities"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_egis_arena__nacre_basin_egis",
+      "name": "Nacre Basin is hidden behind an icy gate just above the Egis arena",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_egis_arena__crow_arena",
+      "name": "Progress after defeating Egis; climb to the top using Hairpin, then enter the hole in the left wall",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_slashskill_bosses"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_beginning__severed_spine",
+      "name": "Player progresses from The Beginning into The Severed Spine as part of the opening path",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_severed_spine__dwellings_6",
+      "name": "Player progresses from The Severed Spine to Dwellings #6",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_intoindie_part1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_severed_spine__feral_undergrowth",
+      "name": "Player routes south/south-east from The Severed Spine through the Feral Undergrowth.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_feral_undergrowth__severed_spine",
+      "name": "Circling back east through Feral Undergrowth leads to an accessible Crystallizer Robot near The Severed Spine.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_icy_cavern__frozen_ruins_platform",
+      "name": "Head west past the enemy and dwellings to reach the chest/challenge fight area",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_feral_undergrowth__spine_floor",
+      "name": "Return to elevator near game start with Aviary's Passport and ascend to level one (Spine Floor)",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_spine_floor__haven",
+      "name": "Alternate progression path eastward through Haven; late-game route that also eventually yields Dodge without the passport shortcut",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dwellings__metropolis",
+      "name": "Main story progression path leads from The Dwellings into Metropolis.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_dwellings__spine",
+      "name": "Shortcut unlocked after defeating ACAT, allowing fast travel back to The Spine.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_haven__metropolis",
+      "name": "Fast travel between the two main exploration areas",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_network_gate_room__spine",
+      "name": "Warp connection unlocked between a Network Gate and The Spine once the Torn Overseer for that area has been found.",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_walkthrough_1"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    },
+    {
+      "id": "c_heart_cavern__memory_void",
+      "name": "Phase transition during ATI, Keeper Of The Heart boss fight shifts the battle from the physical crystalline cavern to an abstract white void",
+      "kind": "connector",
+      "sourceCount": 1,
+      "sources": [
+        "mio_vid_boss"
+      ],
+      "classification": "entity",
+      "corroborated": false,
+      "escalated": false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+[
+  {
+    "sourceId": "hk_wiki_dirtmouth",
+    "kind": "text",
+    "title": "Dirtmouth",
+    "url": "https://hollowknight.fandom.com/wiki/Dirtmouth",
+    "segments": 15
+  },
+  {
+    "sourceId": "hk_wiki_crossroads",
+    "kind": "text",
+    "title": "Forgotten Crossroads",
+    "url": "https://hollowknight.fandom.com/wiki/Forgotten_Crossroads",
+    "segments": 15
+  },
+  {
+    "sourceId": "hk_wiki_greenpath",
+    "kind": "text",
+    "title": "Greenpath",
+    "url": "https://hollowknight.fandom.com/wiki/Greenpath",
+    "segments": 15
+  },
+  {
+    "sourceId": "hk_wiki_fungal",
+    "kind": "text",
+    "title": "Fungal Wastes",
+    "url": "https://hollowknight.fandom.com/wiki/Fungal_Wastes",
+    "segments": 15
+  },
+  {
+    "sourceId": "hk_wiki_city",
+    "kind": "text",
+    "title": "City of Tears",
+    "url": "https://hollowknight.fandom.com/wiki/City_of_Tears",
+    "segments": 15
+  },
+  {
+    "sourceId": "hk_fext_crossroads",
+    "kind": "text",
+    "title": "Forgotten Crossroads | Hollow Knight Wiki",
+    "url": "https://hollowknight.wiki.fextralife.com/Forgotten+Crossroads",
+    "segments": 4
+  },
+  {
+    "sourceId": "hk_fext_greenpath",
+    "kind": "text",
+    "title": "Greenpath | Hollow Knight Wiki",
+    "url": "https://hollowknight.wiki.fextralife.com/Greenpath",
+    "segments": 4
+  },
+  {
+    "sourceId": "hk_gw_crossroads",
+    "kind": "text",
+    "title": "Forgotten Crossroads - Gamer Walkthroughs",
+    "url": "https://gamerwalkthroughs.com/hollow-knight/forgotten-crossroads/",
+    "segments": 3
+  },
+  {
+    "sourceId": "hk_vid_false_knight",
+    "kind": "video",
+    "title": "Hollow Knight : How to Beat False Knight (Mace Wielding First Boss)",
+    "url": "https://www.youtube.com/watch?v=aSQjIsbXx_8",
+    "durationSec": 125,
+    "usedChapters": false,
+    "segments": 2
+  },
+  {
+    "sourceId": "hk_vid_greenpath_hornet",
+    "kind": "video",
+    "title": "Hollow Knight- How to Find the Dash Ability/ Mothwing Cloak-  Step By Step Guide",
+    "url": "https://www.youtube.com/watch?v=z-Fqpt-P4kQ",
+    "durationSec": 653,
+    "usedChapters": true,
+    "segments": 1
+  },
+  {
+    "sourceId": "hk_vid_abilities",
+    "kind": "video",
+    "title": "Hollow Knight- All Movement Abilities Guide",
+    "url": "https://www.youtube.com/watch?v=5rLabTaX_2o",
+    "durationSec": 902,
+    "usedChapters": true,
+    "segments": 7
+  }
+]

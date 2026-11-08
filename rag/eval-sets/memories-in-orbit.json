@@ -1,0 +1,8 @@
+[
+  { "question": "Where do I go right after the opening area on the operating table?", "mustInclude": ["spine", "dwellings"] },
+  { "question": "How do I beat Egis, the Worn Out Sentinel?", "mustInclude": ["egis"] },
+  { "question": "What is Nacre used for and where do I first find it?", "mustInclude": ["nacre"] },
+  { "question": "Who sells items and where is the main vendor?", "mustInclude": ["mel"] },
+  { "question": "What movement ability do I start with and what comes later?", "mustInclude": ["double jump"] },
+  { "question": "How are the two main areas of the game connected for progression?", "mustInclude": ["abilities"] }
+]

@@ -1,0 +1,25 @@
+{
+  "game": "hollow-knight",
+  "note": "Gate on vessel-circle anchor>=0.15 (clean gameplay/non-gameplay separator at 360p+); luma only flags pure-black.",
+  "roi_x": [
+    0.145,
+    0.41
+  ],
+  "roi_y": [
+    0.06,
+    0.145
+  ],
+  "bright_thresh": 150,
+  "min_col_frac": 0.1,
+  "min_run_frac": 0.0065,
+  "anchor_x": [
+    0.04,
+    0.12
+  ],
+  "anchor_y": [
+    0.06,
+    0.2
+  ],
+  "anchor_min_frac": 0.15,
+  "black_luma_max": 2
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "sourceId": "mio_wiki_walkthrough",
+    "kind": "text",
+    "title": "MIO: Memories in Orbit Walkthrough - Complete Step-by-Step Guide",
+    "url": "https://www.miomemoriesinorbit.wiki/walkthrough/",
+    "segments": 2
+  },
+  {
+    "sourceId": "mio_wiki_beginner",
+    "kind": "text",
+    "title": "MIO: Memories in Orbit Beginner Guide - Allocation Matrix, Controls, Tips",
+    "url": "https://www.miomemoriesinorbit.wiki/beginner-guide/",
+    "segments": 4
+  },
+  {
+    "sourceId": "mio_game_wiki_walkthrough",
+    "kind": "text",
+    "title": "Complete Walkthrough | MIO: Memories in Orbit Wiki",
+    "url": "https://miogame.wiki/walkthrough/",
+    "segments": 1
+  },
+  {
+    "sourceId": "mio_intoindie_hub",
+    "kind": "text",
+    "title": "MIO: Memories In Orbit Walkthrough Hub",
+    "url": "https://intoindiegames.com/walkthrough-hub/mio-memories-in-orbit-walkthrough-hub/",
+    "segments": 3
+  },
+  {
+    "sourceId": "mio_wiki_bosses",
+    "kind": "text",
+    "title": "MIO: Memories in Orbit Bosses - Full Boss List, All 19 Bosses &amp; Strategies",
+    "url": "https://www.miomemoriesinorbit.wiki/bosses/",
+    "segments": 4
+  },
+  {
+    "sourceId": "mio_wiki_abilities",
+    "kind": "text",
+    "title": "MIO: Memories in Orbit Abilities &amp; Upgrades Guide - Modifications, Mod Extensions",
+    "url": "https://www.miomemoriesinorbit.wiki/abilities-upgrades/",
+    "segments": 3
+  },
+  {
+    "sourceId": "mio_slashskill_bosses",
+    "kind": "text",
+    "title": "MIO: Memories in Orbit Boss Guide – All 18 Bosses &amp; Strategies",
+    "url": "https://www.slashskill.com/mio-memories-in-orbit-boss-guide-all-18-bosses-strategies/",
+    "segments": 7
+  },
+  {
+    "sourceId": "mio_intoindie_part1",
+    "kind": "text",
+    "title": "MIO: Memories in Orbit Walkthrough Part 1 - The Beginning, The Severed Spine, &amp; Dwellings",
+    "url": "https://intoindiegames.com/walkthroughs/mio-memories-in-orbit-walkthrough-part-1-the-beginning-the-severed-spine-dwellings/",
+    "segments": 6
+  },
+  {
+    "sourceId": "mio_vid_walkthrough_1",
+    "kind": "video",
+    "title": "New To MIO: Memories in Orbit? Start With These 8 Tips",
+    "url": "https://www.youtube.com/watch?v=EY8OrfvBeXE",
+    "durationSec": 316,
+    "usedChapters": true,
+    "segments": 10
+  },
+  {
+    "sourceId": "mio_vid_boss",
+    "kind": "video",
+    "title": "MIO: Memories in Orbit – How to beat Ati Boss EASY | Final Boss Fight Tips, Patterns & Strategy",
+    "url": "https://www.youtube.com/watch?v=0JJ1VacXAUo",
+    "durationSec": 259,
+    "usedChapters": false,
+    "segments": 3
+  }
+]

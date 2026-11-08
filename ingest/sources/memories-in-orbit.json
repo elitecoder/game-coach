@@ -1,0 +1,17 @@
+{
+  "game": "memories-in-orbit",
+  "sources": [
+    { "id": "mio_wiki_walkthrough", "kind": "text", "url": "https://www.miomemoriesinorbit.wiki/walkthrough/", "topic": "complete walkthrough (progression spine)" },
+    { "id": "mio_wiki_beginner", "kind": "text", "url": "https://www.miomemoriesinorbit.wiki/beginner-guide/", "topic": "beginner guide, early areas + abilities" },
+    { "id": "mio_game_wiki_walkthrough", "kind": "text", "url": "https://miogame.wiki/walkthrough/", "topic": "complete walkthrough (second source for fusion)" },
+    { "id": "mio_intoindie_hub", "kind": "text", "url": "https://intoindiegames.com/walkthrough-hub/mio-memories-in-orbit-walkthrough-hub/", "topic": "walkthrough hub: areas, bosses, abilities" },
+    { "id": "mio_reviewgeek_prologue", "kind": "text", "url": "https://www.thereviewgeek.com/memoriesinorbit-walkthrough-severedspine/", "topic": "Prologue & The Severed Spine (opening area)" },
+    { "id": "mio_wiki_bosses", "kind": "text", "url": "https://www.miomemoriesinorbit.wiki/bosses/", "topic": "full boss list (grounds boss names like ATI, Dr Halyn)" },
+    { "id": "mio_wiki_abilities", "kind": "text", "url": "https://www.miomemoriesinorbit.wiki/abilities-upgrades/", "topic": "abilities & upgrades (Modifiers, Nacre, traversal)" },
+    { "id": "mio_slashskill_bosses", "kind": "text", "url": "https://www.slashskill.com/mio-memories-in-orbit-boss-guide-all-18-bosses-strategies/", "topic": "all bosses + strategies (second boss source)" },
+    { "id": "mio_intoindie_part1", "kind": "text", "url": "https://intoindiegames.com/walkthroughs/mio-memories-in-orbit-walkthrough-part-1-the-beginning-the-severed-spine-dwellings/", "topic": "walkthrough part 1: opening areas" },
+
+    { "id": "mio_vid_walkthrough_1", "kind": "video", "query": "ytsearch1:Mio Memories in Orbit walkthrough part 1", "topic": "early game progression" },
+    { "id": "mio_vid_boss", "kind": "video", "query": "ytsearch1:Mio Memories in Orbit boss guide how to beat", "topic": "boss fights" }
+  ]
+}

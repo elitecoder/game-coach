@@ -1,0 +1,5970 @@
+{
+  "game": "memories-in-orbit",
+  "scope": "machine-ingested from video (provisional, all nodes unverified)",
+  "lattice": [
+    {
+      "id": "m_begin_mio_memories_in_orbit_coverage",
+      "name": "Begin Mio: Memories in Orbit coverage",
+      "requires": [],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_first_ability_in_dwellings",
+      "name": "Unlock first ability in Dwellings",
+      "requires": [
+        "m_begin_mio_memories_in_orbit_coverage"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_two_bosses_in_part_1",
+      "name": "Defeat two bosses in Part 1",
+      "requires": [
+        "m_unlock_first_ability_in_dwellings"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_arrive_at_gates_of_metropolis",
+      "name": "Arrive at gates of Metropolis",
+      "requires": [
+        "m_defeat_two_bosses_in_part_1"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_powerful_new_ability_after_flora",
+      "name": "Unlock powerful new ability after Flora",
+      "requires": [
+        "m_arrive_at_gates_of_metropolis"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_silo_access_badge",
+      "name": "Obtain Silo Access Badge",
+      "requires": [
+        "m_unlock_powerful_new_ability_after_flora"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_harvester",
+      "name": "Obtain Harvester",
+      "requires": [
+        "m_obtain_silo_access_badge"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_opening_cutscene",
+      "name": "Opening Cutscene",
+      "requires": [
+        "m_obtain_harvester"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_hook_grab_arrive_at_main_game",
+      "name": "Hook Grab / Arrive at Main Game",
+      "requires": [
+        "m_opening_cutscene"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_wake_up_in_dark_room",
+      "name": "Wake Up in Dark Room",
+      "requires": [
+        "m_hook_grab_arrive_at_main_game"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_the_hairpin",
+      "name": "Unlock the Hairpin",
+      "requires": [
+        "m_wake_up_in_dark_room"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_reach_metropolis",
+      "name": "Reach Metropolis",
+      "requires": [
+        "m_unlock_the_hairpin"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_enter_the_beginning",
+      "name": "Enter The Beginning",
+      "requires": [
+        "m_reach_metropolis"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_enter_the_severed_spine",
+      "name": "Enter The Severed Spine",
+      "requires": [
+        "m_enter_the_beginning"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_reach_dwellings_6",
+      "name": "Reach Dwellings #6",
+      "requires": [
+        "m_enter_the_severed_spine"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_map_unlock_stage_1_view_at_shii",
+      "name": "Map Unlock (Stage 1) - View at Shii",
+      "requires": [
+        "m_reach_dwellings_6"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_map_unlock_stage_2_pause_menu_access",
+      "name": "Map Unlock (Stage 2) - Pause Menu Access",
+      "requires": [
+        "m_map_unlock_stage_1_view_at_shii"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_egis_worn_out_sentinel",
+      "name": "Defeat Egis, Worn Out Sentinel",
+      "requires": [
+        "m_map_unlock_stage_2_pause_menu_access"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_nexus_attuner_reached",
+      "name": "Nexus Attuner reached",
+      "requires": [
+        "m_defeat_egis_worn_out_sentinel"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_entered_the_severed_spine",
+      "name": "Entered The Severed Spine",
+      "requires": [
+        "m_nexus_attuner_reached"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_met_samsk_via_strange_tube",
+      "name": "Met Samsk via Strange Tube",
+      "requires": [
+        "m_entered_the_severed_spine"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_met_shii_at_the_pond",
+      "name": "Met Shii at the Pond",
+      "requires": [
+        "m_met_samsk_via_strange_tube"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_entered_dwellings",
+      "name": "Entered Dwellings",
+      "requires": [
+        "m_met_shii_at_the_pond"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_met_rostam",
+      "name": "Met Rostam",
+      "requires": [
+        "m_entered_dwellings"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_health_bar_lost",
+      "name": "Health bar lost",
+      "requires": [
+        "m_met_rostam"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_nacre_droplets_lost_50_nacres",
+      "name": "Nacre droplets lost — 50 Nacres",
+      "requires": [
+        "m_health_bar_lost"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_rescue_rad_npc",
+      "name": "Rescue Rad (NPC)",
+      "requires": [
+        "m_nacre_droplets_lost_50_nacres"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_acquire_analyser_modifier",
+      "name": "Acquire Analyser Modifier",
+      "requires": [
+        "m_rescue_rad_npc"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_the_map",
+      "name": "Unlock the Map",
+      "requires": [
+        "m_acquire_analyser_modifier"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_acquire_protective_overlay_modifier",
+      "name": "Acquire Protective Overlay Modifier",
+      "requires": [
+        "m_unlock_the_map"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_acquire_kinetic_thrust_modifier",
+      "name": "Acquire Kinetic Thrust Modifier",
+      "requires": [
+        "m_acquire_protective_overlay_modifier"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_hairpin",
+      "name": "Unlock Hairpin",
+      "requires": [
+        "m_acquire_kinetic_thrust_modifier"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_meet_mel_dr_halyn_s_property",
+      "name": "Meet Mel, Dr. Halyn's Property",
+      "requires": [
+        "m_unlock_hairpin"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_pick_up_coating_component",
+      "name": "Pick up Coating Component",
+      "requires": [
+        "m_meet_mel_dr_halyn_s_property"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_absorb_tendrils",
+      "name": "Absorb Tendrils",
+      "requires": [
+        "m_pick_up_coating_component"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_double_jump_unlocked",
+      "name": "Double Jump unlocked",
+      "requires": [
+        "m_absorb_tendrils"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_visit_first_network_gate",
+      "name": "Visit First Network Gate",
+      "requires": [
+        "m_double_jump_unlocked"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_convert_liquid_nacre_to_solid_nacre",
+      "name": "Convert Liquid Nacre to Solid Nacre",
+      "requires": [
+        "m_visit_first_network_gate"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_manage_allocation_matrix",
+      "name": "Manage Allocation Matrix",
+      "requires": [
+        "m_convert_liquid_nacre_to_solid_nacre"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_master_the_hairpin_grapple",
+      "name": "Master the Hairpin Grapple",
+      "requires": [
+        "m_manage_allocation_matrix"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_find_all_7_mod_extensions",
+      "name": "Find All 7 Mod Extensions",
+      "requires": [
+        "m_master_the_hairpin_grapple"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_experiment_with_modifications_at_network_gates",
+      "name": "Experiment with Modifications at Network Gates",
+      "requires": [
+        "m_find_all_7_mod_extensions"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_spend_nacre_before_dangerous_encounters",
+      "name": "Spend Nacre Before Dangerous Encounters",
+      "requires": [
+        "m_experiment_with_modifications_at_network_gates"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_extra_health_mod",
+      "name": "Obtain Extra Health Mod",
+      "requires": [
+        "m_spend_nacre_before_dangerous_encounters"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_fast_travel",
+      "name": "Unlock Fast Travel",
+      "requires": [
+        "m_obtain_extra_health_mod"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_find_torn_overseer",
+      "name": "Find Torn Overseer",
+      "requires": [
+        "m_unlock_fast_travel"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_early_game_tips_covered",
+      "name": "Early Game Tips Covered",
+      "requires": [
+        "m_find_torn_overseer"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_acat_nacre_engraver",
+      "name": "Defeat Acat, Nacre Engraver",
+      "requires": [
+        "m_early_game_tips_covered"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_map_function_unlocked",
+      "name": "Map Function Unlocked",
+      "requires": [
+        "m_defeat_acat_nacre_engraver"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_hairpin_grapple_unlocked",
+      "name": "Hairpin Grapple Unlocked",
+      "requires": [
+        "m_map_function_unlocked"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_gliding_unlocked",
+      "name": "Gliding Unlocked",
+      "requires": [
+        "m_hairpin_grapple_unlocked"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_overseer_found",
+      "name": "Overseer Found",
+      "requires": [
+        "m_gliding_unlocked"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_damaged_robot_repaired",
+      "name": "Damaged Robot Repaired",
+      "requires": [
+        "m_overseer_found"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_crystallise_nacre_via_crystallizer_robot",
+      "name": "Crystallise Nacre via Crystallizer Robot",
+      "requires": [
+        "m_damaged_robot_repaired"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_mel_s_shop",
+      "name": "Unlock Mel's Shop",
+      "requires": [
+        "m_crystallise_nacre_via_crystallizer_robot"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_hairpin_grapple_acquired",
+      "name": "Hairpin Grapple acquired",
+      "requires": [
+        "m_unlock_mel_s_shop"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_arachnid_locomotion_acquired",
+      "name": "Arachnid Locomotion acquired",
+      "requires": [
+        "m_hairpin_grapple_acquired"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_dash_deflect",
+      "name": "Unlock Dash/Deflect",
+      "requires": [
+        "m_arachnid_locomotion_acquired"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_gliding",
+      "name": "Unlock Gliding",
+      "requires": [
+        "m_unlock_dash_deflect"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_orbs_projectile_attacks",
+      "name": "Unlock Orbs (Projectile Attacks)",
+      "requires": [
+        "m_unlock_gliding"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_decoy_clones",
+      "name": "Unlock Decoy Clones",
+      "requires": [
+        "m_unlock_orbs_projectile_attacks"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_first_network_gate_visit",
+      "name": "First Network Gate visit",
+      "requires": [
+        "m_unlock_decoy_clones"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_find_solid_nacre_conversion_robot",
+      "name": "Find Solid Nacre conversion robot",
+      "requires": [
+        "m_first_network_gate_visit"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_shortcut_to_apartments_level_of_the_severed_spine",
+      "name": "Unlock shortcut to Apartments level of The Severed Spine",
+      "requires": [
+        "m_find_solid_nacre_conversion_robot"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_find_first_old_core",
+      "name": "Find first Old Core",
+      "requires": [
+        "m_unlock_shortcut_to_apartments_level_of_the_severed_spine"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_the_attuner",
+      "name": "Unlock the Attuner",
+      "requires": [
+        "m_find_first_old_core"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_hairpin_ability",
+      "name": "Unlock Hairpin Ability",
+      "requires": [
+        "m_unlock_the_attuner"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_aviary_s_passport",
+      "name": "Obtain Aviary's Passport",
+      "requires": [
+        "m_unlock_hairpin_ability"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_dodge_ability",
+      "name": "Unlock Dodge Ability",
+      "requires": [
+        "m_obtain_aviary_s_passport"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_forebear_s_legacy",
+      "name": "Obtain Forebear's Legacy",
+      "requires": [
+        "m_unlock_dodge_ability"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_shortcut_to_the_spine",
+      "name": "Unlock shortcut to The Spine",
+      "requires": [
+        "m_obtain_forebear_s_legacy"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_acat",
+      "name": "Defeat ACAT",
+      "requires": [
+        "m_unlock_shortcut_to_the_spine"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_aerial_combat_jump_reset_unlocked",
+      "name": "Aerial Combat & Jump Reset unlocked",
+      "requires": [
+        "m_defeat_acat"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_gliding_acquired",
+      "name": "Gliding acquired",
+      "requires": [
+        "m_aerial_combat_jump_reset_unlocked"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_dash_deflect_unlocked",
+      "name": "Dash/Deflect unlocked",
+      "requires": [
+        "m_gliding_acquired"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_orbs_unlocked",
+      "name": "Orbs unlocked",
+      "requires": [
+        "m_dash_deflect_unlocked"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_decoy_clones_unlocked",
+      "name": "Decoy Clones unlocked",
+      "requires": [
+        "m_orbs_unlocked"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_enter_haven",
+      "name": "Enter Haven",
+      "requires": [
+        "m_decoy_clones_unlocked"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_enter_metropolis",
+      "name": "Enter Metropolis",
+      "requires": [
+        "m_enter_haven"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_cross_area_ability_progression",
+      "name": "Cross-area ability progression",
+      "requires": [
+        "m_enter_metropolis"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_flora",
+      "name": "Defeat FLORA",
+      "requires": [
+        "m_cross_area_ability_progression"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_egis",
+      "name": "Defeat Egis",
+      "requires": [
+        "m_defeat_flora"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_crow",
+      "name": "Defeat Crow",
+      "requires": [
+        "m_defeat_egis"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_repair_the_nexus",
+      "name": "Repair the Nexus",
+      "requires": [
+        "m_defeat_crow"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_first_kill_defeat_egis",
+      "name": "First Kill - Defeat Egis",
+      "requires": [
+        "m_repair_the_nexus"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_hairpin_grapple",
+      "name": "Unlock Hairpin Grapple",
+      "requires": [
+        "m_first_kill_defeat_egis"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_map_function",
+      "name": "Unlock map function",
+      "requires": [
+        "m_unlock_hairpin_grapple"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_gliding_ability",
+      "name": "Unlock gliding ability",
+      "requires": [
+        "m_unlock_map_function"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_arachnid_locomotion",
+      "name": "Unlock arachnid locomotion",
+      "requires": [
+        "m_unlock_gliding_ability"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_dash_deflect_ability",
+      "name": "Unlock dash/deflect ability",
+      "requires": [
+        "m_unlock_arachnid_locomotion"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_calderon",
+      "name": "Defeat Calderon",
+      "requires": [
+        "m_unlock_dash_deflect_ability"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_aerial_maneuver_sawlong_chase",
+      "name": "Aerial Maneuver - Sawlong Chase",
+      "requires": [
+        "m_defeat_calderon"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_attune_the_blood_liho_s_voice",
+      "name": "Attune The Blood (Liho's Voice)",
+      "requires": [
+        "m_aerial_maneuver_sawlong_chase"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_attune_the_eye_asma_s_voice",
+      "name": "Attune The Eye (Asma's Voice)",
+      "requires": [
+        "m_attune_the_blood_liho_s_voice"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_attune_the_hand_halyn_s_voice",
+      "name": "Attune The Hand (Halyn's Voice)",
+      "requires": [
+        "m_attune_the_eye_asma_s_voice"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_attune_the_breath_amytis_s_voice",
+      "name": "Attune The Breath (Amytis's Voice)",
+      "requires": [
+        "m_attune_the_hand_halyn_s_voice"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_standard_ending_now_we_can_go_on",
+      "name": "Standard Ending - Now We Can Go On",
+      "requires": [
+        "m_attune_the_breath_amytis_s_voice"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_find_severed_fingertip",
+      "name": "Find Severed Fingertip",
+      "requires": [
+        "m_standard_ending_now_we_can_go_on"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_repair_broken_hand_at_the_wheel",
+      "name": "Repair broken hand at The Wheel",
+      "requires": [
+        "m_find_severed_fingertip"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_solve_the_wheel_puzzle",
+      "name": "Solve The Wheel puzzle",
+      "requires": [
+        "m_repair_broken_hand_at_the_wheel"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_flowing_steps",
+      "name": "Unlock Flowing Steps",
+      "requires": [
+        "m_solve_the_wheel_puzzle"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_boss_shii",
+      "name": "Defeat Boss Shii",
+      "requires": [
+        "m_unlock_flowing_steps"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_manufactory",
+      "name": "Unlock Manufactory",
+      "requires": [
+        "m_defeat_boss_shii"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_hairpin_grapple",
+      "name": "Obtain Hairpin Grapple",
+      "requires": [
+        "m_unlock_manufactory"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_dodge_ability",
+      "name": "Obtain Dodge ability",
+      "requires": [
+        "m_obtain_hairpin_grapple"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_sail_glide_ability",
+      "name": "Obtain Sail (Glide) ability",
+      "requires": [
+        "m_obtain_dodge_ability"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_atmos",
+      "name": "Defeat Atmos",
+      "requires": [
+        "m_obtain_sail_glide_ability"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_nabuu",
+      "name": "Defeat Nabuu",
+      "requires": [
+        "m_defeat_atmos"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_flowing_steps_ability",
+      "name": "Obtain Flowing Steps ability",
+      "requires": [
+        "m_defeat_nabuu"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_map_viewing_via_shii",
+      "name": "Unlock map viewing via Shii",
+      "requires": [
+        "m_obtain_flowing_steps_ability"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_map_access_anywhere",
+      "name": "Unlock map access anywhere",
+      "requires": [
+        "m_unlock_map_viewing_via_shii"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_sawlong_first_encounter",
+      "name": "Defeat SAWLONG (first encounter)",
+      "requires": [
+        "m_unlock_map_access_anywhere"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_ancile_and_targa",
+      "name": "Defeat Ancile and Targa",
+      "requires": [
+        "m_defeat_sawlong_first_encounter"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_slingshot_punch_ability",
+      "name": "Obtain Slingshot Punch ability",
+      "requires": [
+        "m_defeat_ancile_and_targa"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_sol_and_vin",
+      "name": "Defeat Sol and Vin",
+      "requires": [
+        "m_obtain_slingshot_punch_ability"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_afterimage_modifier",
+      "name": "Obtain Afterimage modifier",
+      "requires": [
+        "m_defeat_sol_and_vin"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_collect_all_four_pearl_fragments",
+      "name": "Collect all four Pearl fragments",
+      "requires": [
+        "m_obtain_afterimage_modifier"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_find_all_12_candles",
+      "name": "Find all 12 Candles",
+      "requires": [
+        "m_collect_all_four_pearl_fragments"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_talk_to_shard_of_the_eye",
+      "name": "Talk to Shard of The Eye",
+      "requires": [
+        "m_find_all_12_candles"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_defective_core_modifier",
+      "name": "Obtain Defective Core modifier",
+      "requires": [
+        "m_talk_to_shard_of_the_eye"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_secret_ending_boss",
+      "name": "Unlock Secret Ending Boss",
+      "requires": [
+        "m_obtain_defective_core_modifier"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_old_fashioned_key",
+      "name": "Obtain Old-Fashioned Key",
+      "requires": [
+        "m_unlock_secret_ending_boss"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_lura_s_seal",
+      "name": "Obtain Lura's Seal",
+      "requires": [
+        "m_obtain_old_fashioned_key"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_aviaries_passepartout",
+      "name": "Obtain Aviaries Passepartout",
+      "requires": [
+        "m_obtain_lura_s_seal"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_sawlong",
+      "name": "Defeat Sawlong",
+      "requires": [
+        "m_obtain_aviaries_passepartout"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_flowing_steps",
+      "name": "Obtain Flowing Steps",
+      "requires": [
+        "m_defeat_sawlong"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_complete_the_crucible",
+      "name": "Complete The Crucible",
+      "requires": [
+        "m_obtain_flowing_steps"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_full_boss_list_documented",
+      "name": "Full Boss List Documented",
+      "requires": [
+        "m_complete_the_crucible"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies",
+      "name": "MIO: Memories in Orbit Boss Guide – All 18 Bosses & Strategies",
+      "requires": [
+        "m_full_boss_list_documented"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_crow_defeated",
+      "name": "Crow defeated",
+      "requires": [
+        "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_flora_defeated",
+      "name": "Flora defeated",
+      "requires": [
+        "m_crow_defeated"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_aviaries_passepartout_acquired",
+      "name": "Aviaries Passepartout acquired",
+      "requires": [
+        "m_flora_defeated"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_dodge_ability_unlocked",
+      "name": "Dodge ability unlocked",
+      "requires": [
+        "m_aviaries_passepartout_acquired"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_acat_defeated",
+      "name": "Acat defeated",
+      "requires": [
+        "m_dodge_ability_unlocked"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_calderon_defeated",
+      "name": "Calderon defeated",
+      "requires": [
+        "m_acat_defeated"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_atmos_defeated",
+      "name": "Atmos defeated",
+      "requires": [
+        "m_calderon_defeated"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_sail_ability_unlocked",
+      "name": "Sail ability unlocked",
+      "requires": [
+        "m_atmos_defeated"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_nabuu_defeated",
+      "name": "Nabuu defeated",
+      "requires": [
+        "m_sail_ability_unlocked"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_sawlong_chase_encountered",
+      "name": "Sawlong chase encountered",
+      "requires": [
+        "m_nabuu_defeated"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_friends",
+      "name": "Defeat Friends",
+      "requires": [
+        "m_sawlong_chase_encountered"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_anra_dr_halyn",
+      "name": "Defeat Anra & Dr Halyn",
+      "requires": [
+        "m_defeat_friends"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_vlad",
+      "name": "Defeat Vlad",
+      "requires": [
+        "m_defeat_anra_dr_halyn"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_debby",
+      "name": "Defeat Debby",
+      "requires": [
+        "m_defeat_vlad"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_intrusive_fertiliser",
+      "name": "Defeat Intrusive Fertiliser",
+      "requires": [
+        "m_defeat_debby"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_sentient_pearltrap",
+      "name": "Defeat Sentient Pearltrap",
+      "requires": [
+        "m_defeat_intrusive_fertiliser"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_terror_of_the_ledge",
+      "name": "Defeat Terror of the Ledge",
+      "requires": [
+        "m_defeat_sentient_pearltrap"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_acquire_old_fashioned_key_from_calderon",
+      "name": "Acquire Old-Fashioned Key from Calderon",
+      "requires": [
+        "m_defeat_terror_of_the_ledge"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_corrupted_boss_mode_enabled",
+      "name": "Corrupted Boss Mode enabled",
+      "requires": [
+        "m_acquire_old_fashioned_key_from_calderon"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_ati_keeper_of_the_heart_phase_transition",
+      "name": "ATI, Keeper Of The Heart phase transition",
+      "requires": [
+        "m_corrupted_boss_mode_enabled"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_sol_vin",
+      "name": "Defeat Sol & Vin",
+      "requires": [
+        "m_ati_keeper_of_the_heart_phase_transition"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_reach_the_library",
+      "name": "Reach The Library",
+      "requires": [
+        "m_defeat_sol_vin"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_ati_keeper_of_the_heart_encounter",
+      "name": "ATI, Keeper Of The Heart encounter",
+      "requires": [
+        "m_reach_the_library"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_pick_up_the_harvester",
+      "name": "Pick up the Harvester",
+      "requires": [
+        "m_ati_keeper_of_the_heart_encounter"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_obtain_bell_tower_visitor_pass",
+      "name": "Obtain Bell Tower Visitor Pass",
+      "requires": [
+        "m_pick_up_the_harvester"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_glide_ability",
+      "name": "Unlock Glide ability",
+      "requires": [
+        "m_obtain_bell_tower_visitor_pass"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_sever_the_breath",
+      "name": "Sever The Breath",
+      "requires": [
+        "m_unlock_glide_ability"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_sever_the_blood",
+      "name": "Sever The Blood",
+      "requires": [
+        "m_sever_the_breath"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_find_the_hand",
+      "name": "Find The Hand",
+      "requires": [
+        "m_sever_the_blood"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_first_meeting_with_dr_halyn",
+      "name": "First meeting with Dr. Halyn",
+      "requires": [
+        "m_find_the_hand"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_rescue_mel",
+      "name": "Rescue Mel",
+      "requires": [
+        "m_first_meeting_with_dr_halyn"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_the_hand_dr_halyn",
+      "name": "Defeat The Hand (Dr. Halyn)",
+      "requires": [
+        "m_rescue_mel"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_sever_the_spine",
+      "name": "Sever The Spine",
+      "requires": [
+        "m_defeat_the_hand_dr_halyn"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_lombre_intrusive_fertiliser",
+      "name": "Defeat Lombre – Intrusive Fertiliser",
+      "requires": [
+        "m_sever_the_spine"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_ancile_targa",
+      "name": "Defeat Ancile Targa",
+      "requires": [
+        "m_defeat_lombre_intrusive_fertiliser"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_poltergates_dr_halyn_s_experiment_233",
+      "name": "Defeat Poltergates – Dr. Halyn's Experiment #233",
+      "requires": [
+        "m_defeat_ancile_targa"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_true_ending",
+      "name": "Unlock True Ending",
+      "requires": [
+        "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_the_keeper_of_the_heart",
+      "name": "Defeat The Keeper of the Heart",
+      "requires": [
+        "m_unlock_true_ending"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_shii",
+      "name": "Defeat Shii",
+      "requires": [
+        "m_defeat_the_keeper_of_the_heart"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_the_last_embedders",
+      "name": "Defeat The Last Embedders",
+      "requires": [
+        "m_defeat_shii"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_dr_halyn_s_collector",
+      "name": "Defeat Dr Halyn's Collector",
+      "requires": [
+        "m_defeat_the_last_embedders"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_twisted_baron",
+      "name": "Defeat Twisted Baron",
+      "requires": [
+        "m_defeat_dr_halyn_s_collector"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_dr_halyn_s_experiment_223",
+      "name": "Defeat Dr Halyn's Experiment #223",
+      "requires": [
+        "m_defeat_twisted_baron"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_the_friends",
+      "name": "Defeat The Friends :)",
+      "requires": [
+        "m_defeat_dr_halyn_s_experiment_223"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_earn_flowing_steps",
+      "name": "Earn Flowing Steps",
+      "requires": [
+        "m_defeat_the_friends"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_unlock_the_crucible",
+      "name": "Unlock The Crucible",
+      "requires": [
+        "m_earn_flowing_steps"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_reach_secret_final_boss",
+      "name": "Reach Secret Final Boss",
+      "requires": [
+        "m_unlock_the_crucible"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_shii_diagnoses_the_heart",
+      "name": "Shii diagnoses the Heart",
+      "requires": [
+        "m_reach_secret_final_boss"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_seek_out_the_other_pearls",
+      "name": "Seek out the other Pearls",
+      "requires": [
+        "m_shii_diagnoses_the_heart"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_standard_ending",
+      "name": "Standard Ending",
+      "requires": [
+        "m_seek_out_the_other_pearls"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_true_ending",
+      "name": "True ending",
+      "requires": [
+        "m_standard_ending"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_complete_main_story",
+      "name": "Complete Main Story",
+      "requires": [
+        "m_true_ending"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_all_19_bosses",
+      "name": "Defeat All 19 Bosses",
+      "requires": [
+        "m_complete_main_story"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_fully_modded",
+      "name": "Fully Modded",
+      "requires": [
+        "m_defeat_all_19_bosses"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_fully_shielded",
+      "name": "Fully Shielded",
+      "requires": [
+        "m_fully_modded"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_tribute",
+      "name": "Tribute",
+      "requires": [
+        "m_fully_shielded"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_collector",
+      "name": "The Collector",
+      "requires": [
+        "m_tribute"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_pie",
+      "name": "The Pie",
+      "requires": [
+        "m_collector"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_now_we_know",
+      "name": "Now We Know",
+      "requires": [
+        "m_pie"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_collect_all_7_mod_extensions",
+      "name": "Collect All 7 Mod Extensions",
+      "requires": [
+        "m_now_we_know"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_collect_all_6_fragmented_serial_numbers",
+      "name": "Collect All 6 Fragmented Serial Numbers",
+      "requires": [
+        "m_collect_all_7_mod_extensions"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_out_of_stock",
+      "name": "Out Of Stock",
+      "requires": [
+        "m_collect_all_6_fragmented_serial_numbers"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_greedy",
+      "name": "Greedy",
+      "requires": [
+        "m_out_of_stock"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_alchemist",
+      "name": "Alchemist",
+      "requires": [
+        "m_greedy"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_aerial_skirmish",
+      "name": "Aerial Skirmish",
+      "requires": [
+        "m_alchemist"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_modifier_overload",
+      "name": "Modifier Overload",
+      "requires": [
+        "m_aerial_skirmish"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_defeat_poltergate_split_forms",
+      "name": "Defeat Poltergate (split forms)",
+      "requires": [
+        "m_modifier_overload"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    },
+    {
+      "id": "m_game_completion",
+      "name": "Game completion",
+      "requires": [
+        "m_defeat_poltergate_split_forms"
+      ],
+      "detectableBy": [
+        "zone_fingerprint"
+      ],
+      "signalStrength": "advisory",
+      "qaStatus": "unverified",
+      "note": "machine-inferred milestone; linear order is a walkthrough approximation"
+    }
+  ],
+  "zones": [
+    {
+      "id": "z_nexus",
+      "type": "zone",
+      "name": "Nexus",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Starting area; MIO wakes here; Mel's shop present; The Eye attuned above here."
+    },
+    {
+      "id": "z_vessel",
+      "type": "zone",
+      "name": "The Vessel",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Accessible after repairing Nexus and defeating Egis."
+    },
+    {
+      "id": "z_metropolis",
+      "type": "zone",
+      "name": "Metropolis",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "The Blood (Liho's Voice) found to the left of this area."
+    },
+    {
+      "id": "z_vaults",
+      "type": "zone",
+      "name": "Vaults",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "The Hand (Halyn's Voice) attuned here; Severed Fingertip found in pit beneath Vaults."
+    },
+    {
+      "id": "z_haven",
+      "type": "zone",
+      "name": "Haven",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "The Breath (Amytis's Voice) attuned here."
+    },
+    {
+      "id": "z_lab",
+      "type": "zone",
+      "name": "The Lab",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Contains The Wheel puzzle; above where The Hand is fought; used to repair broken hand with Severed Fingertip."
+    },
+    {
+      "id": "z_crucible",
+      "type": "zone",
+      "name": "The Crucible",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Reached by solving The Wheel puzzle (0→120→240); contains two platforming challenges granting Flowing Steps."
+    },
+    {
+      "id": "z_bell_tower",
+      "type": "zone",
+      "name": "Bell Tower",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Part of route from Crucible to Canopy and The Library via gloom waterfall."
+    },
+    {
+      "id": "z_canopy",
+      "type": "zone",
+      "name": "Canopy",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Optional area; part of True Ending route to The Library via Bell Tower."
+    },
+    {
+      "id": "z_library",
+      "type": "zone",
+      "name": "The Library",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Reached using Flowing Steps to climb gloom waterfall; elevator third level triggers Boss Shii."
+    },
+    {
+      "id": "z_celestial_bay",
+      "type": "zone",
+      "name": "Celestial Bay",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Optional area."
+    },
+    {
+      "id": "z_pit",
+      "type": "zone",
+      "name": "The Pit",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Optional area."
+    },
+    {
+      "id": "z_silo",
+      "type": "zone",
+      "name": "Silo",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Optional area."
+    },
+    {
+      "id": "z_manufactory",
+      "type": "zone",
+      "name": "Manufactory",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Unlocked by finding all 6 Fragmented Serial Numbers."
+    },
+    {
+      "id": "z_network_gate",
+      "type": "zone",
+      "name": "Network Gate",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Checkpoint and upgrade hub zones within The Vessel; used to spend Liquid Nacre on upgrades and health increases"
+    },
+    {
+      "id": "z_severed_spine",
+      "type": "zone",
+      "name": "The Severed Spine",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "player returns here in Part 2 to unlock ability"
+    },
+    {
+      "id": "z_dwellings",
+      "type": "zone",
+      "name": "Dwellings",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "frozen landscape, first ability unlocked here"
+    },
+    {
+      "id": "z_feral_undergrowth",
+      "type": "zone",
+      "name": "Feral Undergrowth",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "arrived at after Dwellings/Acat"
+    },
+    {
+      "id": "z_promenade",
+      "type": "zone",
+      "name": "Promenade",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_breath",
+      "type": "zone",
+      "name": "The Breath",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_foundations",
+      "type": "zone",
+      "name": "Foundations",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_blood",
+      "type": "zone",
+      "name": "The Blood",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_hand",
+      "type": "zone",
+      "name": "The Hand",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_spine",
+      "type": "zone",
+      "name": "The Spine",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Icy sliding floors, red grass ground, hole in the ground leading down, door connecting to Dwellings side"
+    },
+    {
+      "id": "z_hall_of_history",
+      "type": "zone",
+      "name": "Hall of History",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_early_game_area",
+      "type": "zone",
+      "name": "Early Game Area",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Location of Egis, first story boss."
+    },
+    {
+      "id": "z_aviaries",
+      "type": "zone",
+      "name": "Aviaries",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Area reached after obtaining the Aviaries Passepartout, found right of FLORA's arena."
+    },
+    {
+      "id": "z_area_above_metropolis",
+      "type": "zone",
+      "name": "Area above Metropolis",
+      "reveal": {
+        "existence": "m_defeat_the_friends"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Optional area accessible via Dwellings; arena containing The Last Embedders"
+    },
+    {
+      "id": "z_promenade_entrance",
+      "type": "zone",
+      "name": "Promenade Entrance",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Fast travel point; gap to the right leads to Intrusive Fertiliser optional boss"
+    },
+    {
+      "id": "z_nexus_apartments",
+      "type": "zone",
+      "name": "Nexus - Apartments",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Apartments area of the Nexus; location of Terror of the Ledge enemy"
+    },
+    {
+      "id": "z_network_gates",
+      "type": "zone",
+      "name": "Network Gates",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Location where modifications are equipped or swapped; central to modification experimentation."
+    },
+    {
+      "id": "z_egis_arena",
+      "type": "zone",
+      "name": "Egis Arena",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "First mandatory boss arena; icy gate above hides a Nacre Basin"
+    },
+    {
+      "id": "z_nacre_basin_egis",
+      "type": "zone",
+      "name": "Nacre Basin (Egis)",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Healing station hidden behind icy gate just above or before the Egis arena entrance"
+    },
+    {
+      "id": "z_crow_arena",
+      "type": "zone",
+      "name": "Crow Arena",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Reached by climbing to the top using Hairpin, then entering the hole in the left wall"
+    },
+    {
+      "id": "z_calderon_arena",
+      "type": "zone",
+      "name": "Calderon arena",
+      "reveal": {
+        "existence": "m_sawlong_chase_encountered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_anra_dr_halyn_boss_area",
+      "type": "zone",
+      "name": "Anra / Dr. Halyn Boss Area",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_friends_boss_area",
+      "type": "zone",
+      "name": "Friends Boss Area",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_lower_area",
+      "type": "zone",
+      "name": "Lower Area",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_lombre_boss_arena",
+      "type": "zone",
+      "name": "Lombre Boss Arena",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_vlad_boss_area",
+      "type": "zone",
+      "name": "Vlad Boss Area",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_lift_room",
+      "type": "zone",
+      "name": "Lift Room",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_ancile_targa_boss_area",
+      "type": "zone",
+      "name": "Ancile Targa Boss Area",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_debby_boss_area",
+      "type": "zone",
+      "name": "Debby Boss Area",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_poltergates_boss_area",
+      "type": "zone",
+      "name": "Poltergates Boss Area",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Under the stairs, lowest area, enter the left door"
+    },
+    {
+      "id": "z_late_game_story_progression",
+      "type": "zone",
+      "name": "Late-game story progression",
+      "reveal": {
+        "existence": "m_game_completion"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_end_of_main_story",
+      "type": "zone",
+      "name": "End of main story",
+      "reveal": {
+        "existence": "m_game_completion"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_true_ending_path",
+      "type": "zone",
+      "name": "True ending path",
+      "reveal": {
+        "existence": "m_game_completion"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_beginning",
+      "type": "zone",
+      "name": "The Beginning",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Opening parkour segment, small platforms, double jump introduced, hook grabs player at end"
+    },
+    {
+      "id": "z_l1_the_spine",
+      "type": "zone",
+      "name": "L1: The Spine",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "First floor of The Severed Spine elevator; bridge with NPCs, locked door requiring Aviaries Passepartout"
+    },
+    {
+      "id": "z_l2_apartments",
+      "type": "zone",
+      "name": "L2: Apartments",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Second floor of The Severed Spine elevator; enemies on bottom floor and chandelier, leads to Dwellings"
+    },
+    {
+      "id": "z_dwellings_3",
+      "type": "zone",
+      "name": "Dwellings #3",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Area with Rad NPC behind a locked door, Nacre Basin, Junk Pile, hidden path with broken pipe and blocked-off dome"
+    },
+    {
+      "id": "z_blocked_off_dome",
+      "type": "zone",
+      "name": "Blocked-off Dome",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "New zone accessible via hidden path through a broken pipe; contains Kinetic Thrust on the ground"
+    },
+    {
+      "id": "z_nacre_basin",
+      "type": "zone",
+      "name": "Nacre Basin",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Accessible via crystal wall shortcut broken by striking it; encountered near the large staircase"
+    },
+    {
+      "id": "z_strange_tube",
+      "type": "zone",
+      "name": "Strange Tube",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Interactable object below the boss room; triggers conversation with Samsk and grants Hairpin ability"
+    },
+    {
+      "id": "z_digital_world",
+      "type": "zone",
+      "name": "Digital World",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Temporary area player is teleported to after unlocking Hairpin; contains a short parkour segment"
+    },
+    {
+      "id": "z_severed_spine_apartments",
+      "type": "zone",
+      "name": "The Severed Spine - Apartments",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "A level within The Severed Spine; accessible via shortcut door unlocked near Rostam"
+    },
+    {
+      "id": "z_dwellings_6",
+      "type": "zone",
+      "name": "Dwellings #6",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Third area covered in Part 1 walkthrough; numbered dwelling sub-zone"
+    },
+    {
+      "id": "z_auma_s_giga_s_room",
+      "type": "zone",
+      "name": "Auma's & Giga's Room",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Room label visible north of The Severed Spine on the map."
+    },
+    {
+      "id": "z_lash_s_room",
+      "type": "zone",
+      "name": "Lash's Room",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Room label visible south of The Severed Spine / Feral Undergrowth on the map."
+    },
+    {
+      "id": "z_icy_cavern",
+      "type": "zone",
+      "name": "Icy Cavern",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Blue ice cave environment with floating rock platforms, snow particles, and sharp glacial geometry"
+    },
+    {
+      "id": "z_frozen_ruins_platform",
+      "type": "zone",
+      "name": "Frozen Ruins Platform",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Stone tile platform surrounded by ice and dead trees, contains scattered debris and a glowing collectible overhead"
+    },
+    {
+      "id": "z_spine_floor",
+      "type": "zone",
+      "name": "Spine Floor",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Level one above elevator; golden line-art map style; text reads 'I used to play in the shadow of their Palace'"
+    },
+    {
+      "id": "z_network_gate_room",
+      "type": "zone",
+      "name": "Network Gate Room",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Teal-grey gothic chamber with large circular arched door, geometric floor pattern"
+    },
+    {
+      "id": "z_torn_overseer_area",
+      "type": "zone",
+      "name": "Torn Overseer Area",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Red-tinted ruins with overgrown crimson flora, stone courtyard, large ringed portal structure"
+    },
+    {
+      "id": "z_heart",
+      "type": "zone",
+      "name": "The Heart",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Cosmic starfield background, circular platform with glowing ritual circle, large mechanical crab-like structures flanking a tall spire"
+    },
+    {
+      "id": "z_ati_keeper_of_the_heart_arena",
+      "type": "zone",
+      "name": "ATI, Keeper Of The Heart Arena",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Crystalline low-poly cavern with glowing red/pink heart-orb in the background, teal crystal spires, and a curved reflective floor"
+    },
+    {
+      "id": "z_ati_s_chamber",
+      "type": "zone",
+      "name": "ATI's Chamber",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Large low-poly crystalline ice cavern with towering ice spires, glowing teal diamond-shaped nodes floating in the background, and a deep red/pink glowing orb visible in the upper background during second phase"
+    },
+    {
+      "id": "z_heart_cavern",
+      "type": "zone",
+      "name": "Heart Cavern",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Low-poly crystalline blue-grey spires, reddish atmospheric glow at top, two teal diamond totems flanking the arena, icy shard floor"
+    },
+    {
+      "id": "z_memory_void",
+      "type": "zone",
+      "name": "Memory Void",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "fingerprintHint": "Pure white minimalist space, black silhouetted insect/arachnid-like entities, horizontal chain UI element top-left, yellow health/energy bar at bottom"
+    },
+    {
+      "id": "z_unknown_area",
+      "type": "zone",
+      "name": "Unknown Area",
+      "reveal": {
+        "existence": "m_begin_mio_memories_in_orbit_coverage"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_crow_boss_fight_prior_segment",
+      "type": "zone",
+      "name": "Crow boss fight (prior segment)",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_haven_prior_to_promenade",
+      "type": "zone",
+      "name": "Haven (prior to Promenade)",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_dwellings_feral_undergrowth_border",
+      "type": "zone",
+      "name": "Dwellings / Feral Undergrowth border",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_prior_to_metropolis",
+      "type": "zone",
+      "name": "Prior to Metropolis",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_vaults_the_lab",
+      "type": "zone",
+      "name": "The Vaults / The Lab",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_unknown",
+      "type": "zone",
+      "name": "Unknown",
+      "reveal": {
+        "existence": "m_sawlong_chase_encountered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_general",
+      "type": "zone",
+      "name": "General",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_early_game_areas",
+      "type": "zone",
+      "name": "Early game areas",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_various_collectible_locations",
+      "type": "zone",
+      "name": "Various collectible locations",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_n_a_intro_segment_only",
+      "type": "zone",
+      "name": "N/A — intro segment only",
+      "reveal": {
+        "existence": "m_begin_mio_memories_in_orbit_coverage"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_feral_undergrowth_the_severed_spine",
+      "type": "zone",
+      "name": "Feral Undergrowth / The Severed Spine",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_haven_metropolis",
+      "type": "zone",
+      "name": "Haven / Metropolis",
+      "reveal": {
+        "existence": "m_cross_area_ability_progression"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "z_n_a_outro_segment",
+      "type": "zone",
+      "name": "N/A – outro segment",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    }
+  ],
+  "abilities": [
+    {
+      "id": "a_modifiers",
+      "type": "ability",
+      "name": "Modifiers",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "42 total collectibles; required for trophy 'Fully Modded' and 'Modifier Overload'"
+    },
+    {
+      "id": "a_coating_components",
+      "type": "ability",
+      "name": "Coating Components",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "24 total collectibles; required for trophy 'Fully Shielded'"
+    },
+    {
+      "id": "a_mod_extensions",
+      "type": "ability",
+      "name": "Mod Extensions",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "7 total collectibles; part of 100% completion"
+    },
+    {
+      "id": "a_allocation_matrix",
+      "type": "ability",
+      "name": "Allocation Matrix",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Loadout system adjustable for exploration, combat, or platforming situations"
+    },
+    {
+      "id": "a_solid_nacre",
+      "type": "key_item",
+      "name": "Solid Nacre",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Converted from Nacre Droplets; should be managed before dangerous encounters"
+    },
+    {
+      "id": "a_nacre_droplets",
+      "type": "key_item",
+      "name": "Nacre Droplets",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Primary currency/resource; 2000 needed for 'Greedy' trophy; 500 must be crystallized at once for 'Alchemist' trophy"
+    },
+    {
+      "id": "a_double_jump",
+      "type": "ability",
+      "name": "Double Jump",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_early_game_tips_covered",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Unlocked from the start. Aerial hit-reset mechanic allows chaining hits to traverse rooms without touching the ground."
+    },
+    {
+      "id": "a_hairpin_grapple",
+      "type": "ability",
+      "name": "Hairpin Grapple",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_early_game_tips_covered",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Available early (~3 hours in). Timing and momentum are key; can fall short unexpectedly during complex platforming."
+    },
+    {
+      "id": "a_arachnid_locomotion",
+      "type": "ability",
+      "name": "Arachnid Locomotion",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_early_game_tips_covered",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Significantly expands traversal options beyond standard wall-clinging."
+    },
+    {
+      "id": "a_modifier_extensions",
+      "type": "key_item",
+      "name": "Modifier Extensions",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_early_game_tips_covered",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Found/acquired during the playthrough to allow equipping more Modifications simultaneously."
+    },
+    {
+      "id": "a_dash_deflect",
+      "type": "ability",
+      "name": "Dash/Deflect",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_unlock_dodge_ability",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "Not reliable for chaining dodges; combat becomes much more engaging once unlocked"
+    },
+    {
+      "id": "a_gliding",
+      "type": "ability",
+      "name": "Gliding",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_unlock_dodge_ability",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "Available later in the game, approximately 8 hours in; requires energy from the Energy System"
+    },
+    {
+      "id": "a_orbs",
+      "type": "ability",
+      "name": "Orbs",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_unlock_dodge_ability",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "Especially useful against flying enemies; referred to as Orbs (Projectile Attacks)"
+    },
+    {
+      "id": "a_decoy_clones",
+      "type": "ability",
+      "name": "Decoy Clones",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_unlock_dodge_ability",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "Adds strategic depth to combat"
+    },
+    {
+      "id": "a_grappling",
+      "type": "ability",
+      "name": "Grappling",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_unlock_dodge_ability",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "Requires energy; used in chained platforming sequences; can fall short leading to checkpoint resets"
+    },
+    {
+      "id": "a_liquid_nacre",
+      "type": "key_item",
+      "name": "Liquid Nacre",
+      "acquiredAtZone": "z_vessel",
+      "marker": "m_unlock_dodge_ability",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "Lost upon death and cannot be recovered; must be spent at Network Gates or converted to Solid Nacre before risky encounters"
+    },
+    {
+      "id": "a_map_function",
+      "type": "key_item",
+      "name": "Map Function",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_unlock_mel_s_shop",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified",
+      "note": "Not available at game start. Once unlocked, newly explored routes only appear upon returning to a Network Gate."
+    },
+    {
+      "id": "a_aerial_combat_jump_reset",
+      "type": "ability",
+      "name": "Aerial Combat Jump Reset",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_unlock_mel_s_shop",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified",
+      "note": "Core mechanic for both combat and platforming; must be mastered early."
+    },
+    {
+      "id": "a_corrupted_boss_mode",
+      "type": "ability",
+      "name": "Corrupted Boss Mode",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_early_game_tips_covered",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "An Assist Mode option found in Settings > Accessibility that adjusts boss difficulty."
+    },
+    {
+      "id": "a_pacifist_mode",
+      "type": "ability",
+      "name": "Pacifist Mode",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_early_game_tips_covered",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "An Assist Mode option found in Settings > Accessibility that reduces or removes combat challenge."
+    },
+    {
+      "id": "a_first_ability_dwellings",
+      "type": "ability",
+      "name": "First ability (Dwellings)",
+      "acquiredAtZone": "z_dwellings",
+      "marker": "m_map_unlock_stage_2_pause_menu_access",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "First ability unlocked in Part 1; exact name not stated in this segment"
+    },
+    {
+      "id": "a_important_ability_the_severed_spine_revisit",
+      "type": "ability",
+      "name": "Important ability (The Severed Spine revisit)",
+      "acquiredAtZone": "z_severed_spine",
+      "marker": "m_map_unlock_stage_2_pause_menu_access",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "Unlocked by returning to The Severed Spine in Part 2; exact name not stated"
+    },
+    {
+      "id": "a_powerful_new_ability_post_flora",
+      "type": "ability",
+      "name": "Powerful new ability (post-Flora)",
+      "acquiredAtZone": "z_feral_undergrowth",
+      "marker": "m_map_unlock_stage_2_pause_menu_access",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "Unlocked after defeating Flora; described as 'powerful new ability'; exact name not stated"
+    },
+    {
+      "id": "a_harvester",
+      "type": "key_item",
+      "name": "Harvester",
+      "acquiredAtZone": "z_crow_boss_fight_prior_segment",
+      "marker": "m_sever_the_spine",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "Picked up after defeating Crow"
+    },
+    {
+      "id": "a_bell_tower_visitor_pass",
+      "type": "key_item",
+      "name": "Bell Tower Visitor Pass",
+      "acquiredAtZone": "z_haven",
+      "marker": "m_sever_the_spine",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "Required to access Bell Tower and western Haven"
+    },
+    {
+      "id": "a_glide",
+      "type": "ability",
+      "name": "Glide",
+      "acquiredAtZone": "z_haven_prior_to_promenade",
+      "marker": "m_sever_the_spine",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "Unlocked before Part 6; required to venture across the dark chasm west of Haven"
+    },
+    {
+      "id": "a_flowing_steps",
+      "type": "key_item",
+      "name": "Flowing Steps",
+      "acquiredAtZone": "z_crucible",
+      "marker": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "note": "Required to reach Shii; used to climb the gloom waterfall in the Canopy on the True Ending path."
+    },
+    {
+      "id": "a_old_fashioned_key",
+      "type": "key_item",
+      "name": "Old-Fashioned Key",
+      "acquiredAtZone": "z_vessel",
+      "marker": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "note": "Rewarded upon defeating Calderon."
+    },
+    {
+      "id": "a_lura_s_seal",
+      "type": "key_item",
+      "name": "Lura's Seal",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "note": "Found after defeating Sol & Vin, by climbing to the top before the elevator and going right."
+    },
+    {
+      "id": "a_aviaries_passepartout",
+      "type": "key_item",
+      "name": "Aviaries Passepartout",
+      "acquiredAtZone": "z_aviaries",
+      "marker": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "note": "Found to the right after defeating FLORA; grants access to the Aviaries area."
+    },
+    {
+      "id": "a_fragmented_serial_numbers",
+      "type": "key_item",
+      "name": "Fragmented Serial Numbers",
+      "acquiredAtZone": "z_manufactory",
+      "marker": "m_defeat_the_friends",
+      "reveal": {
+        "existence": "m_defeat_the_friends"
+      },
+      "qaStatus": "unverified",
+      "note": "All 6 must be collected to access Twisted Baron"
+    },
+    {
+      "id": "a_friends_invitation",
+      "type": "key_item",
+      "name": "Friends Invitation",
+      "acquiredAtZone": "z_canopy",
+      "marker": "m_defeat_the_friends",
+      "reveal": {
+        "existence": "m_defeat_the_friends"
+      },
+      "qaStatus": "unverified",
+      "note": "Found in room to the right in the Canopy area; used to open door at bottom of drop"
+    },
+    {
+      "id": "a_protective_overlay",
+      "type": "ability",
+      "name": "Protective Overlay",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_ati_keeper_of_the_heart_phase_transition",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "note": "Recommended for tough boss fights"
+    },
+    {
+      "id": "a_enhanced_dodge",
+      "type": "ability",
+      "name": "Enhanced Dodge",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_ati_keeper_of_the_heart_phase_transition",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "note": "Recommended for tough boss fights"
+    },
+    {
+      "id": "a_strider",
+      "type": "ability",
+      "name": "Strider",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_standard_ending",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified",
+      "note": "Referenced as an analogue to Flowing Steps; works on walls"
+    },
+    {
+      "id": "a_modifications",
+      "type": "ability",
+      "name": "Modifications",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_early_game_tips_covered",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Equippable at Network Gates; combinable in various ways to suit playstyle. Multiple exist; can be upgraded via Nacre spending."
+    },
+    {
+      "id": "a_silo_access_badge",
+      "type": "key_item",
+      "name": "Silo Access Badge",
+      "acquiredAtZone": "z_egis_arena",
+      "marker": "m_map_unlock_stage_2_pause_menu_access",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "Dropped by Egis – Worn Out Sentinel"
+    },
+    {
+      "id": "a_hairpin",
+      "type": "ability",
+      "name": "Hairpin",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_map_unlock_stage_2_pause_menu_access",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "Required to climb to the top to reach Crow's arena; must be acquired before this fight"
+    },
+    {
+      "id": "a_protective_overlay_modifier",
+      "type": "ability",
+      "name": "Protective Overlay Modifier",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_map_unlock_stage_2_pause_menu_access",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "General modifier recommended for longer boss fights; provides extra coating layers"
+    },
+    {
+      "id": "a_kinetic_thrust_modifier",
+      "type": "ability",
+      "name": "Kinetic Thrust Modifier",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_map_unlock_stage_2_pause_menu_access",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "General modifier that increases damage output; recommended for aggressive players"
+    },
+    {
+      "id": "a_dodge",
+      "type": "ability",
+      "name": "Dodge",
+      "acquiredAtZone": "z_aviaries",
+      "marker": "m_sawlong_chase_encountered",
+      "reveal": {
+        "existence": "m_sawlong_chase_encountered"
+      },
+      "qaStatus": "unverified",
+      "note": "Obtained from Strange Tube in Aviaries after defeating Flora"
+    },
+    {
+      "id": "a_sail",
+      "type": "ability",
+      "name": "Sail",
+      "acquiredAtZone": "z_bell_tower",
+      "marker": "m_sawlong_chase_encountered",
+      "reveal": {
+        "existence": "m_sawlong_chase_encountered"
+      },
+      "qaStatus": "unverified",
+      "note": "Obtained from Strange Tube at Bell Tower top; recommended for Atmos"
+    },
+    {
+      "id": "a_slingshot",
+      "type": "key_item",
+      "name": "Slingshot",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_sawlong_chase_encountered",
+      "reveal": {
+        "existence": "m_sawlong_chase_encountered"
+      },
+      "qaStatus": "unverified",
+      "note": "Required ability for Sawlong encounter"
+    },
+    {
+      "id": "a_friendly_invitation",
+      "type": "key_item",
+      "name": "Friendly Invitation",
+      "acquiredAtZone": "z_unknown_area",
+      "marker": "m_defeat_poltergates_dr_halyn_s_experiment_233",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified",
+      "note": "Key item required to reach the Friends boss"
+    },
+    {
+      "id": "a_map",
+      "type": "ability",
+      "name": "Map",
+      "acquiredAtZone": "z_severed_spine",
+      "marker": "m_absorb_tendrils",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "note": "Unlocked by offering enough Nacre to the Pond (bowl) near Shii; cannot be obtained yet without enough Nacre to farm"
+    },
+    {
+      "id": "a_analyser",
+      "type": "ability",
+      "name": "Analyser",
+      "acquiredAtZone": "z_dwellings_3",
+      "marker": "m_absorb_tendrils",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "note": "First Modifier in the game; given by NPC Rad after being rescued"
+    },
+    {
+      "id": "a_kinetic_thrust",
+      "type": "ability",
+      "name": "Kinetic Thrust",
+      "acquiredAtZone": "z_blocked_off_dome",
+      "marker": "m_absorb_tendrils",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "note": "Described as one of the most powerful modifiers in the game; found on the ground via hidden path through a broken pipe"
+    },
+    {
+      "id": "a_absorb_tendrils",
+      "type": "ability",
+      "name": "Absorb Tendrils",
+      "acquiredAtZone": "z_severed_spine",
+      "marker": "m_absorb_tendrils",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified",
+      "note": "Obtained by interacting with a deactivated robot impaled in ice at the top-right section of the area"
+    },
+    {
+      "id": "a_attuner",
+      "type": "key_item",
+      "name": "Attuner",
+      "acquiredAtZone": "z_metropolis",
+      "marker": "m_unlock_dodge_ability",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "Unlocked by running to the end of the path in Metropolis; purpose elaborated in later walkthrough parts"
+    },
+    {
+      "id": "a_old_core",
+      "type": "key_item",
+      "name": "Old Core",
+      "acquiredAtZone": "z_metropolis",
+      "marker": "m_unlock_dodge_ability",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "First one found in Mechanical Remains in a broken building near the gate to Metropolis"
+    },
+    {
+      "id": "a_crystallized_nacre",
+      "type": "key_item",
+      "name": "Crystallized Nacre",
+      "acquiredAtZone": "z_severed_spine",
+      "marker": "m_unlock_mel_s_shop",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified",
+      "note": "Produced by interacting with a Crystallizer Robot. Cannot be lost upon death. Raw Nacre is not accepted by Mel."
+    },
+    {
+      "id": "a_extra_health_mod",
+      "type": "key_item",
+      "name": "Extra Health Mod",
+      "acquiredAtZone": "z_frozen_ruins_platform",
+      "marker": "m_early_game_tips_covered",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Equipable mod found in a chest after a challenge fight; must be manually equipped at a safe point"
+    },
+    {
+      "id": "a_aviary_s_passport",
+      "type": "key_item",
+      "name": "Aviary's Passport",
+      "acquiredAtZone": "z_feral_undergrowth",
+      "marker": "m_unlock_dodge_ability",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "Found beyond Flora; used to access Spine Floor route via elevator"
+    },
+    {
+      "id": "a_forebear_s_legacy",
+      "type": "key_item",
+      "name": "Forebear's Legacy",
+      "acquiredAtZone": "z_dwellings",
+      "marker": "m_unlock_shortcut_to_the_spine",
+      "reveal": {
+        "existence": "m_unlock_shortcut_to_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "Found in the northeast corner of a room in The Dwellings, just before the ACAT boss. Four more exist but are found much later (10–15 hours of gameplay)."
+    },
+    {
+      "id": "a_haven_ability",
+      "type": "ability",
+      "name": "Haven Ability",
+      "acquiredAtZone": "z_haven",
+      "marker": "m_cross_area_ability_progression",
+      "reveal": {
+        "existence": "m_cross_area_ability_progression"
+      },
+      "qaStatus": "unverified",
+      "note": "Generic reference — segment does not name the specific ability; white lines on map indicate newly accessible routes"
+    },
+    {
+      "id": "a_metropolis_ability",
+      "type": "ability",
+      "name": "Metropolis Ability",
+      "acquiredAtZone": "z_metropolis",
+      "marker": "m_cross_area_ability_progression",
+      "reveal": {
+        "existence": "m_cross_area_ability_progression"
+      },
+      "qaStatus": "unverified",
+      "note": "Generic reference — segment does not name the specific ability; white lines on map indicate newly accessible routes"
+    }
+  ],
+  "bosses": [
+    {
+      "id": "b_egis",
+      "type": "boss",
+      "name": "Egis",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Story boss (1 of 6)"
+    },
+    {
+      "id": "b_calderon",
+      "type": "boss",
+      "name": "Calderon",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Story boss (2 of 6)"
+    },
+    {
+      "id": "b_sol_vin",
+      "type": "boss",
+      "name": "Sol & Vin",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Story boss (3 of 6)"
+    },
+    {
+      "id": "b_flora",
+      "type": "boss",
+      "name": "FLORA",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Story boss (4 of 6)"
+    },
+    {
+      "id": "b_shii",
+      "type": "boss",
+      "name": "Shii",
+      "zone": "z_crucible",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Story boss (5 of 6); defeating Shii unlocks the true ending"
+    },
+    {
+      "id": "b_sawlong",
+      "type": "boss",
+      "name": "Sawlong",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Story boss (6 of 6)"
+    },
+    {
+      "id": "b_last_embedders",
+      "type": "boss",
+      "name": "The Last Embedders",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional boss (1 of 13)"
+    },
+    {
+      "id": "b_dr_halyn_s_collector",
+      "type": "boss",
+      "name": "Dr Halyn's Collector",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional boss (2 of 13)"
+    },
+    {
+      "id": "b_twisted_baron",
+      "type": "boss",
+      "name": "Twisted Baron",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional boss (3 of 13)"
+    },
+    {
+      "id": "b_dr_halyn_s_experiment_223",
+      "type": "boss",
+      "name": "Dr Halyn's Experiment #223",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional boss (4 of 13)"
+    },
+    {
+      "id": "b_friends",
+      "type": "boss",
+      "name": "The Friends :)",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional boss (5 of 13)"
+    },
+    {
+      "id": "b_intrusive_fertiliser",
+      "type": "boss",
+      "name": "Intrusive Fertiliser",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional boss (6 of 13)"
+    },
+    {
+      "id": "b_sentient_pearltrap",
+      "type": "boss",
+      "name": "Sentient Pearltrap",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional boss (7 of 13)"
+    },
+    {
+      "id": "b_terror_of_the_ledge",
+      "type": "boss",
+      "name": "Terror of the Ledge",
+      "zone": "z_unknown_area",
+      "marker": "m_modifier_overload",
+      "reveal": {
+        "existence": "m_modifier_overload"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional boss (8 of 13); further optional bosses not individually named in this segment"
+    },
+    {
+      "id": "b_bosses_general",
+      "type": "boss",
+      "name": "Bosses (general)",
+      "zone": "z_vessel",
+      "marker": "m_unlock_mel_s_shop",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified",
+      "note": "Bosses do not summon large numbers of extra mobs. Each death to a boss makes it slightly weaker in Corrupted Boss Mode. Boss runbacks can be brutal, requiring repetition of long paths."
+    },
+    {
+      "id": "b_acat",
+      "type": "boss",
+      "name": "Acat",
+      "zone": "z_dwellings_feral_undergrowth_border",
+      "marker": "m_map_unlock_stage_2_pause_menu_access",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "Defeated during Part 2 (Feral Undergrowth); player arrives at gates of Metropolis after defeating Acat"
+    },
+    {
+      "id": "b_crow",
+      "type": "boss",
+      "name": "Crow",
+      "zone": "z_prior_to_metropolis",
+      "marker": "m_sever_the_spine",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "Already defeated by start of this segment; dropping the Harvester on defeat"
+    },
+    {
+      "id": "b_breath",
+      "type": "boss",
+      "name": "The Breath",
+      "zone": "z_promenade",
+      "marker": "m_sever_the_spine",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "A Pearl; severed during Part 6"
+    },
+    {
+      "id": "b_blood",
+      "type": "boss",
+      "name": "The Blood",
+      "zone": "z_foundations",
+      "marker": "m_sever_the_spine",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "A Pearl; severed during Part 7"
+    },
+    {
+      "id": "b_hand",
+      "type": "boss",
+      "name": "The Hand",
+      "zone": "z_vaults_the_lab",
+      "marker": "m_sever_the_spine",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "Identified as Dr. Halyn; Pearl boss; final confrontation in Part 11"
+    },
+    {
+      "id": "b_spine",
+      "type": "boss",
+      "name": "The Spine",
+      "zone": "z_spine",
+      "marker": "m_sever_the_spine",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "Last Pearl; encountered after The Hand; described as not far"
+    },
+    {
+      "id": "b_ati",
+      "type": "boss",
+      "name": "ATI",
+      "zone": "z_unknown_area",
+      "marker": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "note": "Named boss grounding from the full boss list source topic."
+    },
+    {
+      "id": "b_dr_halyn",
+      "type": "boss",
+      "name": "Dr Halyn",
+      "zone": "z_unknown_area",
+      "marker": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "note": "Named boss grounding from the full boss list source topic."
+    },
+    {
+      "id": "b_secret_final_boss",
+      "type": "boss",
+      "name": "Secret Final Boss",
+      "zone": "z_library",
+      "marker": "m_standard_ending",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified",
+      "note": "Accessed via The Library, reached by climbing the gloom waterfall in the Canopy using Flowing Steps"
+    },
+    {
+      "id": "b_flora_sentient_pearltrap",
+      "type": "boss",
+      "name": "Flora – Sentient Pearltrap",
+      "zone": "z_aviaries",
+      "marker": "m_sawlong_chase_encountered",
+      "reveal": {
+        "existence": "m_sawlong_chase_encountered"
+      },
+      "qaStatus": "unverified",
+      "note": "Guards Aviaries access and Dodge ability; required for story; position left, jump melee, dodge poison"
+    },
+    {
+      "id": "b_acat_nacre_engraver",
+      "type": "boss",
+      "name": "Acat – Nacre Engraver",
+      "zone": "z_dwellings",
+      "marker": "m_sawlong_chase_encountered",
+      "reveal": {
+        "existence": "m_sawlong_chase_encountered"
+      },
+      "qaStatus": "unverified",
+      "note": "Difficulty ★★★☆☆; requires Dodge; bait-and-punish strategy; use Hairpin mid-air"
+    },
+    {
+      "id": "b_calderon_unyielding_furnace",
+      "type": "boss",
+      "name": "Calderon – Unyielding Furnace",
+      "zone": "z_calderon_arena",
+      "marker": "m_sawlong_chase_encountered",
+      "reveal": {
+        "existence": "m_sawlong_chase_encountered"
+      },
+      "qaStatus": "unverified",
+      "note": "Difficulty ★★★★☆; accessed via fake container fall; four claws + moving head; phase two has updraft"
+    },
+    {
+      "id": "b_atmos_weather_control_unit",
+      "type": "boss",
+      "name": "Atmos – Weather Control Unit",
+      "zone": "z_bell_tower",
+      "marker": "m_sawlong_chase_encountered",
+      "reveal": {
+        "existence": "m_sawlong_chase_encountered"
+      },
+      "qaStatus": "unverified",
+      "note": "Difficulty ★★★☆☆; snowman form; rapid-fire ice attack countered with Sail; found via windy hole next to Bell Tower elevator"
+    },
+    {
+      "id": "b_nabuu_keeper_of_the_breath",
+      "type": "boss",
+      "name": "Nabuu – Keeper of the Breath",
+      "zone": "z_unknown",
+      "marker": "m_sawlong_chase_encountered",
+      "reveal": {
+        "existence": "m_sawlong_chase_encountered"
+      },
+      "qaStatus": "unverified",
+      "note": "Difficulty ★★★★☆; ground and background phases; attack purple flowers to stay airborne; use Sail between flower spawns; avoid white strand wall/floor eruptions"
+    },
+    {
+      "id": "b_anra",
+      "type": "boss",
+      "name": "Anra",
+      "zone": "z_anra_dr_halyn_boss_area",
+      "marker": "m_defeat_poltergates_dr_halyn_s_experiment_233",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified",
+      "note": "Phase one of two-phase fight; mobile and aggressive, uses projectiles and a shield (yellow orb in mechanical hand)"
+    },
+    {
+      "id": "b_lombre_intrusive_fertiliser",
+      "type": "boss",
+      "name": "Lombre – Intrusive Fertiliser",
+      "zone": "z_lombre_boss_arena",
+      "marker": "m_defeat_poltergates_dr_halyn_s_experiment_233",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified",
+      "note": "Burrows and surfaces; poison rain leaves only one safe gap mid-fight; requires Dodge"
+    },
+    {
+      "id": "b_vlad",
+      "type": "boss",
+      "name": "Vlad",
+      "zone": "z_vlad_boss_area",
+      "marker": "m_defeat_poltergates_dr_halyn_s_experiment_233",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified",
+      "note": "Never attacks directly; circular arena with spikes, projectiles, spinning walls, and electrical currents"
+    },
+    {
+      "id": "b_ancile_targa",
+      "type": "boss",
+      "name": "Ancile Targa",
+      "zone": "z_ancile_targa_boss_area",
+      "marker": "m_defeat_poltergates_dr_halyn_s_experiment_233",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified",
+      "note": "Two Egis-type enemies that move in unison; dash attacks; punish recovery windows"
+    },
+    {
+      "id": "b_debby",
+      "type": "boss",
+      "name": "Debby",
+      "zone": "z_debby_boss_area",
+      "marker": "m_defeat_poltergates_dr_halyn_s_experiment_233",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified",
+      "note": "Drops explosives destroying platforms; rapid-fire attack from screen edge"
+    },
+    {
+      "id": "b_poltergates_dr_halyn_s_experiment_233",
+      "type": "boss",
+      "name": "Poltergates – Dr. Halyn's Experiment #233",
+      "zone": "z_poltergates_boss_area",
+      "marker": "m_defeat_poltergates_dr_halyn_s_experiment_233",
+      "reveal": {
+        "existence": "m_defeat_poltergates_dr_halyn_s_experiment_233"
+      },
+      "qaStatus": "unverified",
+      "note": "Difficulty ★★★★☆; visually stunning, combines several earlier fight mechanics"
+    },
+    {
+      "id": "b_poltergate",
+      "type": "boss",
+      "name": "Poltergate",
+      "zone": "z_late_game_story_progression",
+      "marker": "m_game_completion",
+      "reveal": {
+        "existence": "m_game_completion"
+      },
+      "qaStatus": "unverified",
+      "note": "Splits into two forms mid-fight. One drops from above (aerial dive), one attacks horizontally. Early phase spawns standard enemies — clear them first. Split attention required."
+    },
+    {
+      "id": "b_keeper_of_the_heart",
+      "type": "boss",
+      "name": "The Keeper of the Heart",
+      "zone": "z_end_of_main_story",
+      "marker": "m_game_completion",
+      "reveal": {
+        "existence": "m_game_completion"
+      },
+      "qaStatus": "unverified",
+      "note": "Final boss. Massive health pool. Uses jabs, projectiles, and slams. Attack after slam recoveries. Equip Protective Overlay Modifier. Difficulty: ★★★★★."
+    },
+    {
+      "id": "b_atmos",
+      "type": "boss",
+      "name": "Atmos",
+      "zone": "z_unknown_area",
+      "marker": "m_game_completion",
+      "reveal": {
+        "existence": "m_game_completion"
+      },
+      "qaStatus": "unverified",
+      "note": "Benefits greatly from Sail ability."
+    },
+    {
+      "id": "b_egis_worn_out_sentinel",
+      "type": "boss",
+      "name": "Egis, Worn Out Sentinel",
+      "zone": "z_dwellings",
+      "marker": "m_map_unlock_stage_2_pause_menu_access",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "First boss fight of the game; encountered before the Hairpin is unlocked"
+    },
+    {
+      "id": "b_challenge_fight_enemy",
+      "type": "boss",
+      "name": "Challenge Fight Enemy",
+      "zone": "z_frozen_ruins_platform",
+      "marker": "m_early_game_tips_covered",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "An unnamed enemy guarding the Extra Health Mod chest; appears crab/insect-like with splayed limbs based on keyframe"
+    },
+    {
+      "id": "b_torn_overseer",
+      "type": "boss",
+      "name": "Torn Overseer",
+      "zone": "z_torn_overseer_area",
+      "marker": "m_early_game_tips_covered",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Must be found (and presumably defeated or interacted with) in an area to unlock fast travel warping from that area's Network Gate. Appears as a large entity with long purple/white ribbon-like appendages emerging from a portal structure."
+    },
+    {
+      "id": "b_final_boss_standard",
+      "type": "boss",
+      "name": "Final Boss (Standard)",
+      "zone": "z_heart",
+      "marker": "m_standard_ending",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified",
+      "note": "Clearly signaled by the game; accessible via the standard ending path without excessive extra exploration"
+    },
+    {
+      "id": "b_ati_keeper_of_the_heart",
+      "type": "boss",
+      "name": "ATI, Keeper Of The Heart",
+      "zone": "z_ati_keeper_of_the_heart_arena",
+      "marker": "m_sever_the_spine",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "Name displayed in top-right HUD in both keyframes; arena features glowing red orb core and crystalline environment; a small creature entity visible on the arena floor alongside the player"
+    }
+  ],
+  "objectives": [
+    {
+      "id": "o_acquire_hairpin_grapple",
+      "type": "objective",
+      "name": "Acquire Hairpin Grapple",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_hairpin_grapple_acquired",
+      "hopDescription": "Progress roughly 3 hours into the game to unlock the Hairpin Grapple for enhanced navigation.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_locate_network_gates",
+      "type": "objective",
+      "name": "Locate Network Gates",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_defeat_acat_nacre_engraver",
+      "hopDescription": "Find Network Gates scattered throughout The Vessel to swap Modifications in and out of the Allocation Matrix.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Required for managing loadout/build decisions mid-playthrough."
+    },
+    {
+      "id": "o_expand_allocation_matrix",
+      "type": "objective",
+      "name": "Expand Allocation Matrix",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_defeat_acat_nacre_engraver",
+      "hopDescription": "Collect Modifier Extensions to gain additional memory slots and equip more Modifications simultaneously.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_master_aerial_combat_jump_reset",
+      "type": "objective",
+      "name": "Master aerial combat jump reset",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_defeat_acat_nacre_engraver",
+      "hopDescription": "Chain aerial hits on enemies or environmental objects to reset Double Jump and traverse rooms without touching the ground.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Advanced technique — requires precise reactions and timing."
+    },
+    {
+      "id": "o_acquire_arachnid_locomotion",
+      "type": "objective",
+      "name": "Acquire Arachnid Locomotion",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_arachnid_locomotion_acquired",
+      "hopDescription": "Unlock Arachnid Locomotion to navigate walls and ceilings, opening new traversal routes.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_find_overseers",
+      "type": "objective",
+      "name": "Find Overseers",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_unlock_mel_s_shop",
+      "completedAt": "m_hairpin_grapple_acquired",
+      "hopDescription": "Locate Overseer entities scattered throughout The Vessel to unlock fast travel between areas.",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified",
+      "note": "Without Overseers, traversal requires lengthy backtracking."
+    },
+    {
+      "id": "o_unlock_the_map_function",
+      "type": "objective",
+      "name": "Unlock the Map Function",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_unlock_mel_s_shop",
+      "completedAt": "m_map_function_unlocked",
+      "hopDescription": "Progress far enough in the game to unlock the map; rely on memory and exploration until then.",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_repair_damaged_robots",
+      "type": "objective",
+      "name": "Repair Damaged Robots",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_unlock_mel_s_shop",
+      "completedAt": "m_hairpin_grapple_acquired",
+      "hopDescription": "Interact with and repair damaged robots found throughout The Vessel for bonuses and lore.",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_convert_nacre_to_solid_nacre",
+      "type": "objective",
+      "name": "Convert Nacre to Solid Nacre",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_unlock_mel_s_shop",
+      "completedAt": "m_hairpin_grapple_acquired",
+      "hopDescription": "Find robots that convert Nacre to Solid Nacre and use them regularly to prevent resource loss on death.",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_unlock_hairpin_grapple",
+      "type": "objective",
+      "name": "Unlock Hairpin Grapple",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_unlock_mel_s_shop",
+      "completedAt": "m_hairpin_grapple_unlocked",
+      "hopDescription": "Progress through approximately 3 hours of gameplay to acquire the Hairpin Grapple ability.",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_unlock_gliding",
+      "type": "objective",
+      "name": "Unlock Gliding",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_unlock_mel_s_shop",
+      "completedAt": "m_gliding_unlocked",
+      "hopDescription": "Progress through approximately 8 hours of gameplay to acquire the Gliding ability.",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_spend_nacre_before_difficult_encounters",
+      "type": "objective",
+      "name": "Spend Nacre Before Difficult Encounters",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_defeat_acat_nacre_engraver",
+      "hopDescription": "Visit a Network Gate, convert Liquid Nacre and purchase upgrades before attempting hard fights or boss runbacks.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Liquid Nacre is permanently lost on death; Solid Nacre is safe."
+    },
+    {
+      "id": "o_manage_allocation_matrix_at_network_gates",
+      "type": "objective",
+      "name": "Manage Allocation Matrix at Network Gates",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_defeat_acat_nacre_engraver",
+      "hopDescription": "At every Network Gate, review and update your Allocation Matrix to optimize your build for the upcoming area.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "May require sacrificing the minimap slot for combat abilities depending on area demands."
+    },
+    {
+      "id": "o_enable_assist_modes_if_struggling",
+      "type": "objective",
+      "name": "Enable Assist Modes if Struggling",
+      "zoneContext": "z_unknown_area",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_defeat_acat_nacre_engraver",
+      "hopDescription": "Navigate to Settings > Accessibility and enable Corrupted Boss Mode or Pacifist Mode to lower difficulty.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "The game's world and music are recommended even without full challenge."
+    },
+    {
+      "id": "o_update_map_at_network_gates",
+      "type": "objective",
+      "name": "Update Map at Network Gates",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_defeat_acat_nacre_engraver",
+      "hopDescription": "Interact with Network Gates to update your map with newly explored routes.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_find_and_defeat_intrusive_fertiliser",
+      "type": "objective",
+      "name": "Find and defeat Intrusive Fertiliser",
+      "zoneContext": "z_promenade_entrance",
+      "availableFrom": "m_ati_keeper_of_the_heart_phase_transition",
+      "completedAt": "m_defeat_intrusive_fertiliser",
+      "hopDescription": "Go down the gap to the right of the Promenade Entrance fast travel point",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional; rewards trophy 'Buried'"
+    },
+    {
+      "id": "o_find_and_defeat_sentient_pearltrap",
+      "type": "objective",
+      "name": "Find and defeat Sentient Pearltrap",
+      "zoneContext": "z_silo",
+      "availableFrom": "m_ati_keeper_of_the_heart_phase_transition",
+      "completedAt": "m_defeat_sentient_pearltrap",
+      "hopDescription": "Navigate to the Silo area and locate the optional boss",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional; rewards trophy 'Cutting the Weeds'"
+    },
+    {
+      "id": "o_defeat_terror_of_the_ledge_without_taking_damage",
+      "type": "objective",
+      "name": "Defeat Terror of the Ledge without taking damage",
+      "zoneContext": "z_nexus_apartments",
+      "availableFrom": "m_ati_keeper_of_the_heart_phase_transition",
+      "completedAt": "m_defeat_terror_of_the_ledge",
+      "hopDescription": "Locate the Terror of the Ledge enemy in the Nexus Apartments area and defeat it without being hit",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "note": "Must not take any damage; rewards trophy 'Not This Time'"
+    },
+    {
+      "id": "o_visit_network_gates_before_boss_encounters",
+      "type": "objective",
+      "name": "Visit Network Gates before boss encounters",
+      "zoneContext": "z_general",
+      "availableFrom": "m_ati_keeper_of_the_heart_phase_transition",
+      "completedAt": "m_defeat_sol_vin",
+      "hopDescription": "Visit Network Gates to save and prepare before challenging bosses",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "note": "Preparation step recommended before all boss fights"
+    },
+    {
+      "id": "o_spend_nacre_before_difficult_bosses",
+      "type": "objective",
+      "name": "Spend Nacre before difficult bosses",
+      "zoneContext": "z_general",
+      "availableFrom": "m_ati_keeper_of_the_heart_phase_transition",
+      "completedAt": "m_defeat_intrusive_fertiliser",
+      "hopDescription": "Use accumulated Nacre on upgrades before attempting hard boss fights",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "note": "All bosses drop Nacre; spend it before risking death"
+    },
+    {
+      "id": "o_obtain_old_fashioned_key_from_calderon",
+      "type": "objective",
+      "name": "Obtain Old-Fashioned Key from Calderon",
+      "zoneContext": "z_unknown_area",
+      "availableFrom": "m_ati_keeper_of_the_heart_phase_transition",
+      "completedAt": "m_acquire_old_fashioned_key_from_calderon",
+      "hopDescription": "Defeat boss Calderon to receive the Old-Fashioned Key",
+      "reveal": {
+        "existence": "m_ati_keeper_of_the_heart_phase_transition"
+      },
+      "qaStatus": "unverified",
+      "note": "Key item required for story progression"
+    },
+    {
+      "id": "o_defeat_all_19_bosses",
+      "type": "objective",
+      "name": "Defeat all 19 bosses",
+      "zoneContext": "z_unknown_area",
+      "availableFrom": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies",
+      "completedAt": "m_crow_defeated",
+      "hopDescription": "Work through all 19 bosses in MIO: Memories in Orbit, including named bosses such as ATI and Dr Halyn.",
+      "reveal": {
+        "existence": "m_mio_memories_in_orbit_boss_guide_all_18_bosses_strategies"
+      },
+      "qaStatus": "unverified",
+      "note": "Segment title references all 19 bosses and strategies; only ATI and Dr Halyn are explicitly named in this segment's text."
+    },
+    {
+      "id": "o_unlock_the_crucible",
+      "type": "objective",
+      "name": "Unlock The Crucible",
+      "zoneContext": "z_lab",
+      "availableFrom": "m_standard_ending",
+      "completedAt": "m_unlock_the_crucible",
+      "hopDescription": "Use The Wheel in the Lab to unlock The Crucible",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_complete_the_crucible_challenges",
+      "type": "objective",
+      "name": "Complete The Crucible challenges",
+      "zoneContext": "z_crucible",
+      "availableFrom": "m_standard_ending",
+      "completedAt": "m_earn_flowing_steps",
+      "hopDescription": "Complete the two very hard platforming challenges in The Crucible",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified",
+      "note": "Rewards Flowing Steps traversal ability"
+    },
+    {
+      "id": "o_reach_the_top_of_haven_via_bell_tower",
+      "type": "objective",
+      "name": "Reach the top of Haven via Bell Tower",
+      "zoneContext": "z_haven",
+      "availableFrom": "m_standard_ending",
+      "completedAt": "m_reach_the_library",
+      "hopDescription": "Climb to the top of Haven and access the Bell Tower to reach The Canopy",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_climb_gloom_waterfall_in_the_canopy",
+      "type": "objective",
+      "name": "Climb gloom waterfall in The Canopy",
+      "zoneContext": "z_canopy",
+      "availableFrom": "m_standard_ending",
+      "completedAt": "m_reach_the_library",
+      "hopDescription": "Use Flowing Steps to climb the gloom waterfall in the Canopy, reaching The Library",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified",
+      "note": "Requires Flowing Steps ability"
+    },
+    {
+      "id": "o_find_all_7_mod_extensions",
+      "type": "objective",
+      "name": "Find all 7 Mod Extensions",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_standard_ending",
+      "completedAt": "m_true_ending",
+      "hopDescription": "Collect all 7 Mod Extensions scattered throughout The Vessel to maximize Allocation Matrix capacity",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified",
+      "note": "Prioritize early for build flexibility"
+    },
+    {
+      "id": "o_convert_liquid_nacre_to_solid_nacre",
+      "type": "objective",
+      "name": "Convert Liquid Nacre to Solid Nacre",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_standard_ending",
+      "completedAt": "m_true_ending",
+      "hopDescription": "Locate conversion robots in The Vessel and convert Liquid Nacre before dying or entering dangerous areas",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified",
+      "note": "Liquid Nacre is permanently lost on death; Solid Nacre is permanent"
+    },
+    {
+      "id": "o_purchase_upgrades_at_network_gates",
+      "type": "objective",
+      "name": "Purchase Upgrades at Network Gates",
+      "zoneContext": "z_vessel",
+      "availableFrom": "m_standard_ending",
+      "completedAt": "m_true_ending",
+      "hopDescription": "Spend Nacre or Solid Nacre at Network Gates to purchase upgrades and swap modifications",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_master_hairpin_grapple_chaining",
+      "type": "objective",
+      "name": "Master Hairpin Grapple chaining",
+      "zoneContext": "z_early_game_areas",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_master_the_hairpin_grapple",
+      "hopDescription": "Practice chaining the Hairpin Grapple for efficient traversal across zones.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_collect_all_7_mod_extensions",
+      "type": "objective",
+      "name": "Collect all 7 Mod Extensions",
+      "zoneContext": "z_various_collectible_locations",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_find_all_7_mod_extensions",
+      "hopDescription": "Locate all 7 Mod Extensions scattered in the game world to fully expand the Allocation Matrix.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Detailed collectible locations covered in the Collectibles guide."
+    },
+    {
+      "id": "o_experiment_at_network_gates",
+      "type": "objective",
+      "name": "Experiment at Network Gates",
+      "zoneContext": "z_network_gates",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_experiment_with_modifications_at_network_gates",
+      "hopDescription": "Visit Network Gates and try different Modification combinations to optimise loadout.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_spend_nacre_before_dangerous_encounters",
+      "type": "objective",
+      "name": "Spend Nacre before dangerous encounters",
+      "zoneContext": "z_unknown_area",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_spend_nacre_before_dangerous_encounters",
+      "hopDescription": "Use accumulated Nacre on upgrades or abilities before entering high-risk areas to prevent loss.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_reach_egis_arena",
+      "type": "objective",
+      "name": "Reach Egis Arena",
+      "zoneContext": "z_egis_arena",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_egis",
+      "hopDescription": "Proceed to the first mandatory boss arena",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_use_nacre_basin_before_egis_if_low_on_health",
+      "type": "objective",
+      "name": "Use Nacre Basin before Egis if low on health",
+      "zoneContext": "z_nacre_basin_egis",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_egis_worn_out_sentinel",
+      "hopDescription": "Find the Nacre Basin hidden behind the icy gate just above the Egis arena entrance",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional healing stop before or during the Egis fight"
+    },
+    {
+      "id": "o_defeat_egis_worn_out_sentinel",
+      "type": "objective",
+      "name": "Defeat Egis – Worn Out Sentinel",
+      "zoneContext": "z_egis_arena",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_obtain_silo_access_badge",
+      "hopDescription": "Stay above Egis, watch for the dash tell (revving-up animation), jump to dodge, punish during recovery",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_climb_to_the_top_using_hairpin",
+      "type": "objective",
+      "name": "Climb to the top using Hairpin",
+      "zoneContext": "z_crow_arena",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_crow",
+      "hopDescription": "Use the Hairpin ability to ascend and find the hole in the left wall leading to Crow",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_defeat_crow_automated_reaper",
+      "type": "objective",
+      "name": "Defeat Crow – Automated Reaper",
+      "zoneContext": "z_crow_arena",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_obtain_harvester",
+      "hopDescription": "Enter hole in left wall after climbing; exercise patience over aggression against unpredictable movement",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_complete_opening_parkour",
+      "type": "objective",
+      "name": "Complete Opening Parkour",
+      "zoneContext": "z_beginning",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_egis_worn_out_sentinel",
+      "hopDescription": "Drop down to the lower platform and jump across platforms to the right",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "Double jump is available; other abilities come later"
+    },
+    {
+      "id": "o_reach_the_hook_platform",
+      "type": "objective",
+      "name": "Reach the Hook Platform",
+      "zoneContext": "z_beginning",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_hook_grab_arrive_at_main_game",
+      "hopDescription": "Continue right until a hook grabs the player from above",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_connect_to_the_spine",
+      "type": "objective",
+      "name": "Connect to the Spine",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_wake_up_in_dark_room",
+      "hopDescription": "Move left from the operating table; map is locked until connection is established",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_collect_nacre_from_junk_pile",
+      "type": "objective",
+      "name": "Collect Nacre from Junk Pile",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_egis_worn_out_sentinel",
+      "hopDescription": "Jump to the platform on the right to find a breakable Junk Pile containing Nacre",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_defeat_initial_robot_enemies",
+      "type": "objective",
+      "name": "Defeat Initial Robot Enemies",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_egis_worn_out_sentinel",
+      "hopDescription": "Take down enemies along the path and climb up the pipes",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_find_flash_memory_note",
+      "type": "objective",
+      "name": "Find Flash Memory Note",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_egis_worn_out_sentinel",
+      "hopDescription": "From the second pipe, double jump left to a hidden platform to pick up the note 'Flash Memory'",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_unlock_the_map_in_dwellings",
+      "type": "objective",
+      "name": "Unlock the Map in Dwellings",
+      "zoneContext": "z_dwellings",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_egis_worn_out_sentinel",
+      "hopDescription": "Connect to the Spine within Dwellings to unlock the map",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_explore_the_hidden_path",
+      "type": "objective",
+      "name": "Explore the Hidden Path",
+      "zoneContext": "z_dwellings",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_egis_worn_out_sentinel",
+      "hopDescription": "Find and traverse the hidden path in the Dwellings zone",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_beat_egis_worn_out_sentinel",
+      "type": "objective",
+      "name": "Beat Egis, Worn Out Sentinel",
+      "zoneContext": "z_dwellings",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_egis_worn_out_sentinel",
+      "hopDescription": "Defeat the first boss in Dwellings",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_unlock_the_hairpin",
+      "type": "objective",
+      "name": "Unlock the Hairpin",
+      "zoneContext": "z_dwellings",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_unlock_the_hairpin",
+      "hopDescription": "Acquire the Hairpin ability after defeating or following Egis",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_beat_acat_nacre_engraver",
+      "type": "objective",
+      "name": "Beat Acat, Nacre Engraver",
+      "zoneContext": "z_dwellings",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_acat_nacre_engraver",
+      "hopDescription": "Defeat the second boss in Dwellings",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_reach_metropolis",
+      "type": "objective",
+      "name": "Reach Metropolis",
+      "zoneContext": "z_dwellings",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_reach_metropolis",
+      "hopDescription": "Continue past Dwellings to arrive at Metropolis",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_defeat_robots_on_lower_floor",
+      "type": "objective",
+      "name": "Defeat robots on lower floor",
+      "zoneContext": "z_spine",
+      "availableFrom": "m_absorb_tendrils",
+      "completedAt": "m_double_jump_unlocked",
+      "hopDescription": "Clear enemies near the round Nacre Basin and lower floor of The Spine",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_slide_down_icy_floor_and_cross_red_grass_ground",
+      "type": "objective",
+      "name": "Slide down icy floor and cross red grass ground",
+      "zoneContext": "z_spine",
+      "availableFrom": "m_absorb_tendrils",
+      "completedAt": "m_double_jump_unlocked",
+      "hopDescription": "Slide left on icy floor, auto-jump across red grass to reach the other side",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_find_the_hole_in_the_ground_and_drop_down",
+      "type": "objective",
+      "name": "Find the hole in the ground and drop down",
+      "zoneContext": "z_spine",
+      "availableFrom": "m_absorb_tendrils",
+      "completedAt": "m_double_jump_unlocked",
+      "hopDescription": "Move through enemy areas until spotting a hole; drop down to find the door",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_rescue_rad_and_receive_analyser",
+      "type": "objective",
+      "name": "Rescue Rad and receive Analyser",
+      "zoneContext": "z_dwellings_3",
+      "availableFrom": "m_absorb_tendrils",
+      "completedAt": "m_acquire_analyser_modifier",
+      "hopDescription": "Interact with the door to release Rad, then talk to her to receive the Analyser Modifier",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_use_elevator_to_return_to_shii_and_unlock_the_map",
+      "type": "objective",
+      "name": "Use elevator to return to Shii and unlock the map",
+      "zoneContext": "z_dwellings_3",
+      "availableFrom": "m_absorb_tendrils",
+      "completedAt": "m_unlock_the_map",
+      "hopDescription": "Take the elevator on the right back to Shii; offer Nacre and choose 'Look through his eye'",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_equip_modifier_at_attuner",
+      "type": "objective",
+      "name": "Equip Modifier at Attuner",
+      "zoneContext": "z_dwellings_3",
+      "availableFrom": "m_absorb_tendrils",
+      "completedAt": "m_double_jump_unlocked",
+      "hopDescription": "Rest at the Attuner to equip the Analyser before returning to the main path",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_defeat_gauntlet_and_open_container_for_protective_overlay",
+      "type": "objective",
+      "name": "Defeat gauntlet and open Container for Protective Overlay",
+      "zoneContext": "z_dwellings_3",
+      "availableFrom": "m_absorb_tendrils",
+      "completedAt": "m_acquire_protective_overlay_modifier",
+      "hopDescription": "Approach the object on the ground to trigger robot spawns; defeat all and interact with the Container",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_explore_hidden_path_to_reach_blocked_off_dome",
+      "type": "objective",
+      "name": "Explore hidden path to reach Blocked-off Dome",
+      "zoneContext": "z_dwellings_3",
+      "availableFrom": "m_absorb_tendrils",
+      "completedAt": "m_acquire_kinetic_thrust_modifier",
+      "hopDescription": "Take hidden path right of the door, drop to lower platform and pipe, go left into broken pipe, follow path to dome",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_collect_kinetic_thrust",
+      "type": "objective",
+      "name": "Collect Kinetic Thrust",
+      "zoneContext": "z_blocked_off_dome",
+      "availableFrom": "m_absorb_tendrils",
+      "completedAt": "m_acquire_kinetic_thrust_modifier",
+      "hopDescription": "Pick up item on the ground inside the blocked-off dome",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_return_and_continue_heading_down",
+      "type": "objective",
+      "name": "Return and continue heading down",
+      "zoneContext": "z_dwellings_3",
+      "availableFrom": "m_absorb_tendrils",
+      "completedAt": "m_double_jump_unlocked",
+      "hopDescription": "Return from hidden path to section entrance and descend, fighting robots along the way",
+      "reveal": {
+        "existence": "m_absorb_tendrils"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_use_crystalliser_to_condense_nacre_droplets",
+      "type": "objective",
+      "name": "Use Crystalliser to condense Nacre Droplets",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_obtain_forebear_s_legacy",
+      "hopDescription": "Interact with Crystalliser to preserve Nacre Droplets before proceeding",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "Optional but recommended before gauntlet room"
+    },
+    {
+      "id": "o_clear_the_gauntlet_room",
+      "type": "objective",
+      "name": "Clear the gauntlet room",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_obtain_forebear_s_legacy",
+      "hopDescription": "Defeat all enemies in the gauntlet to open the door on the right and proceed",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_unlock_shortcut_to_apartments",
+      "type": "objective",
+      "name": "Unlock shortcut to Apartments",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_unlock_shortcut_to_apartments_level_of_the_severed_spine",
+      "hopDescription": "Use grapple point to reach Rostam's door, then unlock it to open shortcut back to Apartments level",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_heal_at_nacre_basin_before_boss",
+      "type": "objective",
+      "name": "Heal at Nacre Basin before boss",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_obtain_forebear_s_legacy",
+      "hopDescription": "Go left from the shortcut door to find a Nacre Basin and heal up before the Acat boss fight",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_defeat_acat_nacre_engraver",
+      "type": "objective",
+      "name": "Defeat Acat, Nacre Engraver",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_defeat_acat_nacre_engraver",
+      "hopDescription": "Stay on Acat's back using Hairpin, survive shockwaves in Phase 2 with arena grapple points, defeat him to open the gate to Metropolis",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_interact_with_torn_overseer",
+      "type": "objective",
+      "name": "Interact with Torn Overseer",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_obtain_forebear_s_legacy",
+      "hopDescription": "Head left after beating Acat, interact with Torn Overseer on the ground to send it back",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_find_old_core_in_mechanical_remains",
+      "type": "objective",
+      "name": "Find Old Core in Mechanical Remains",
+      "zoneContext": "z_metropolis",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_find_first_old_core",
+      "hopDescription": "Enter broken building after the gate, jump to the left part of the room, interact with Mechanical Remains to find the first Old Core",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_unlock_the_attuner",
+      "type": "objective",
+      "name": "Unlock the Attuner",
+      "zoneContext": "z_metropolis",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_unlock_the_attuner",
+      "hopDescription": "Go inside Metropolis and run to the end of the path to unlock the Attuner",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_return_to_the_severed_spine",
+      "type": "objective",
+      "name": "Return to The Severed Spine",
+      "zoneContext": "z_metropolis",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_obtain_forebear_s_legacy",
+      "hopDescription": "After unlocking the Attuner, backtrack to The Severed Spine before continuing further into Metropolis",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified",
+      "note": "Explicitly flagged as necessary step before progressing further"
+    },
+    {
+      "id": "o_progress_through_the_beginning",
+      "type": "objective",
+      "name": "Progress through The Beginning",
+      "zoneContext": "z_beginning",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_enter_the_severed_spine",
+      "hopDescription": "Navigate the opening area of the game",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_progress_through_the_severed_spine",
+      "type": "objective",
+      "name": "Progress through The Severed Spine",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_reach_dwellings_6",
+      "hopDescription": "Navigate The Severed Spine area after The Beginning",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_reach_dwellings_6",
+      "type": "objective",
+      "name": "Reach Dwellings #6",
+      "zoneContext": "z_dwellings_6",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_defeat_egis_worn_out_sentinel",
+      "hopDescription": "Arrive at the sixth Dwellings sub-zone",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_watch_essential_tips_for_mio_memories_in_orbit",
+      "type": "objective",
+      "name": "Watch essential tips for Mio: Memories in Orbit",
+      "zoneContext": "z_n_a_intro_segment_only",
+      "availableFrom": "m_begin_mio_memories_in_orbit_coverage",
+      "completedAt": "m_unlock_first_ability_in_dwellings",
+      "hopDescription": "Follow Gamer Guides' tips series starting with early game progression advice",
+      "reveal": {
+        "existence": "m_begin_mio_memories_in_orbit_coverage"
+      },
+      "qaStatus": "unverified",
+      "note": "No specific in-game objective shown; segment is a talking-head intro establishing the guide series"
+    },
+    {
+      "id": "o_unlock_the_map",
+      "type": "objective",
+      "name": "Unlock the Map",
+      "zoneContext": "z_spine",
+      "availableFrom": "m_map_unlock_stage_2_pause_menu_access",
+      "completedAt": "m_map_unlock_stage_1_view_at_shii",
+      "hopDescription": "Return to Shii above the first save point in The Spine and offer him Nerre (earned by defeating enemies) until his pool is filled. Requires a few hundred Nerre total. Nerre lost on death is automatically sent to Shii's pool.",
+      "reveal": {
+        "existence": "m_map_unlock_stage_2_pause_menu_access"
+      },
+      "qaStatus": "unverified",
+      "note": "Map is offline by default in the pause menu. Shii will not speak much on first encounter — must return with Nerre. Crystallized Nerre is not accepted."
+    },
+    {
+      "id": "o_find_the_crystallizer_robot_near_the_severed_spine",
+      "type": "objective",
+      "name": "Find the Crystallizer Robot near The Severed Spine",
+      "zoneContext": "z_feral_undergrowth_the_severed_spine",
+      "availableFrom": "m_unlock_mel_s_shop",
+      "completedAt": "m_hairpin_grapple_acquired",
+      "hopDescription": "After circling back through the Feral Undergrowth, head east of The Severed Spine / Shei to find an easily accessible Crystallizer Robot.",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified",
+      "note": "Crystallize all Nacre before taking on any boss to avoid losing it on death."
+    },
+    {
+      "id": "o_unlock_and_use_mel_s_shop",
+      "type": "objective",
+      "name": "Unlock and use Mel's Shop",
+      "zoneContext": "z_severed_spine",
+      "availableFrom": "m_unlock_mel_s_shop",
+      "completedAt": "m_unlock_mel_s_shop",
+      "hopDescription": "Accumulate Crystallized Nacre and unlock Mel's shop to purchase upgrades.",
+      "reveal": {
+        "existence": "m_unlock_mel_s_shop"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_head_west_past_enemy_and_dwellings",
+      "type": "objective",
+      "name": "Head West Past Enemy and Dwellings",
+      "zoneContext": "z_icy_cavern",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_obtain_extra_health_mod",
+      "hopDescription": "Navigate west through the Icy Cavern past an enemy and dwelling structures",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Defeat or bypass the enemy shown in the first keyframe to progress westward"
+    },
+    {
+      "id": "o_find_chest_and_complete_challenge_fight",
+      "type": "objective",
+      "name": "Find Chest and Complete Challenge Fight",
+      "zoneContext": "z_frozen_ruins_platform",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_obtain_extra_health_mod",
+      "hopDescription": "Locate the chest guarded by a challenge fight on the Frozen Ruins Platform",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_equip_the_extra_health_mod",
+      "type": "objective",
+      "name": "Equip the Extra Health Mod",
+      "zoneContext": "z_frozen_ruins_platform",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_obtain_extra_health_mod",
+      "hopDescription": "Open the inventory at a safe location and equip the newly acquired mod",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Segment explicitly warns to equip it at a safe point"
+    },
+    {
+      "id": "o_get_hairpin_ability",
+      "type": "objective",
+      "name": "Get Hairpin ability",
+      "zoneContext": "z_feral_undergrowth",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_defeat_flora",
+      "hopDescription": "Unlock the Hairpin ability before approaching Feral Undergrowth southeast",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_defeat_flora",
+      "type": "objective",
+      "name": "Defeat Flora",
+      "zoneContext": "z_feral_undergrowth",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_obtain_aviary_s_passport",
+      "hopDescription": "Head to southeast corner of Feral Undergrowth and defeat Flora boss",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_collect_aviary_s_passport",
+      "type": "objective",
+      "name": "Collect Aviary's Passport",
+      "zoneContext": "z_feral_undergrowth",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_unlock_dodge_ability",
+      "hopDescription": "Pick up Aviary's Passport found beyond Flora",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_bring_passport_to_elevator_and_ascend",
+      "type": "objective",
+      "name": "Bring Passport to elevator and ascend",
+      "zoneContext": "z_spine_floor",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_unlock_dodge_ability",
+      "hopDescription": "Return to elevator near start/shop, head up to level one (Spine Floor), then go east across the bridge to find Sam",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_receive_dodge_from_sam",
+      "type": "objective",
+      "name": "Receive Dodge from Sam",
+      "zoneContext": "z_spine_floor",
+      "availableFrom": "m_unlock_dodge_ability",
+      "completedAt": "m_unlock_dodge_ability",
+      "hopDescription": "Speak to Sam east of the bridge on Spine Floor to receive the Dodge ability",
+      "reveal": {
+        "existence": "m_unlock_dodge_ability"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_grab_forebear_s_legacy_before_acat",
+      "type": "objective",
+      "name": "Grab Forebear's Legacy before ACAT",
+      "zoneContext": "z_dwellings",
+      "availableFrom": "m_unlock_shortcut_to_the_spine",
+      "completedAt": "m_obtain_forebear_s_legacy",
+      "hopDescription": "In The Dwellings, head to the northeast corner of the room just before the ACAT boss arena to collect the Forebear's Legacy damage upgrade.",
+      "reveal": {
+        "existence": "m_unlock_shortcut_to_the_spine"
+      },
+      "qaStatus": "unverified",
+      "note": "Strongly recommended to collect before fighting ACAT to ease upcoming boss fights in Metropolis and Haven"
+    },
+    {
+      "id": "o_use_cross_area_abilities_to_unlock_blocked_paths",
+      "type": "objective",
+      "name": "Use cross-area abilities to unlock blocked paths",
+      "zoneContext": "z_haven_metropolis",
+      "availableFrom": "m_cross_area_ability_progression",
+      "completedAt": "m_cross_area_ability_progression",
+      "hopDescription": "If stuck in Haven or Metropolis, fast-travel to the other area and check white map lines for newly accessible routes using your latest ability.",
+      "reveal": {
+        "existence": "m_cross_area_ability_progression"
+      },
+      "qaStatus": "unverified",
+      "note": "Core exploration tip: the two main areas are mutually dependent for progression"
+    },
+    {
+      "id": "o_locate_the_torn_overseer_in_each_area",
+      "type": "objective",
+      "name": "Locate the Torn Overseer in each area",
+      "zoneContext": "z_torn_overseer_area",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_unlock_fast_travel",
+      "hopDescription": "Explore the area around a Network Gate to find the Torn Overseer, which activates full fast travel (warp) functionality for that gate.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Network Gates can save and update the map without the Torn Overseer, but warping to The Spine or other gates requires finding it first."
+    },
+    {
+      "id": "o_use_network_gate_to_save_and_update_map",
+      "type": "objective",
+      "name": "Use Network Gate to save and update map",
+      "zoneContext": "z_network_gate_room",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_find_torn_overseer",
+      "hopDescription": "Interact with any Network Gate to save progress and refresh the map even before finding the local Torn Overseer.",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "o_reach_out_to_the_other_pearls",
+      "type": "objective",
+      "name": "Reach out to the other Pearls",
+      "zoneContext": "z_heart",
+      "availableFrom": "m_standard_ending",
+      "completedAt": "m_seek_out_the_other_pearls",
+      "hopDescription": "The other Pearls cannot hear Shii, so the player must contact them directly on her behalf",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified",
+      "note": "Central quest objective revealed by Shii after her diagnosis of the Heart"
+    },
+    {
+      "id": "o_complete_true_ending_requirements",
+      "type": "objective",
+      "name": "Complete True Ending requirements",
+      "zoneContext": "z_unknown_area",
+      "availableFrom": "m_standard_ending",
+      "completedAt": "m_true_ending",
+      "hopDescription": "Engage in extensive exploration and puzzle solving before the final boss to unlock the true ending",
+      "reveal": {
+        "existence": "m_standard_ending"
+      },
+      "qaStatus": "unverified",
+      "note": "Only relevant once the player is certain they are approaching the final boss"
+    },
+    {
+      "id": "o_watch_for_more_memories_in_orbit_content",
+      "type": "objective",
+      "name": "Watch for more Memories in Orbit content",
+      "zoneContext": "z_n_a_outro_segment",
+      "availableFrom": "m_early_game_tips_covered",
+      "completedAt": "m_defeat_acat_nacre_engraver",
+      "hopDescription": "Stay tuned to Gamer Guides for further videos covering the increasingly difficult progression of the game",
+      "reveal": {
+        "existence": "m_early_game_tips_covered"
+      },
+      "qaStatus": "unverified",
+      "note": "Transcript explicitly warns that the game gets much more difficult as you progress, implying early-game tips were the focus here"
+    },
+    {
+      "id": "o_defeat_ati_keeper_of_the_heart",
+      "type": "objective",
+      "name": "Defeat ATI, Keeper Of The Heart",
+      "zoneContext": "z_ati_keeper_of_the_heart_arena",
+      "availableFrom": "m_sever_the_spine",
+      "completedAt": "m_ati_keeper_of_the_heart_encounter",
+      "hopDescription": "Engage and defeat the boss ATI, Keeper Of The Heart within the crystalline heart arena",
+      "reveal": {
+        "existence": "m_sever_the_spine"
+      },
+      "qaStatus": "unverified"
+    }
+  ],
+  "connectors": [
+    {
+      "id": "c_vessel__vessel",
+      "type": "connector",
+      "fromZone": "z_vessel",
+      "toZone": "z_vessel",
+      "bidirectional": false,
+      "traversalGate": "m_early_game_tips_covered",
+      "description": "Network Gates act as loadout-swap hubs within The Vessel, allowing Modification equip/unequip without changing zones.",
+      "qaStatus": "unverified",
+      "note": "Not a zone transition — represents an in-zone mechanic node."
+    },
+    {
+      "id": "c_vessel__network_gate",
+      "type": "connector",
+      "fromZone": "z_vessel",
+      "toZone": "z_network_gate",
+      "bidirectional": false,
+      "traversalGate": "m_unlock_mel_s_shop",
+      "description": "Returning to a Network Gate (save point) updates the map with newly explored routes.",
+      "qaStatus": "unverified",
+      "note": "Network Gates are save points within The Vessel; map sync requires physical return to one."
+    },
+    {
+      "id": "c_network_gates__network_gates",
+      "type": "connector",
+      "fromZone": "z_network_gates",
+      "toZone": "z_network_gates",
+      "bidirectional": true,
+      "traversalGate": "m_early_game_tips_covered",
+      "description": "Player returns to Network Gates to swap or combine Modifications; acts as a modification hub.",
+      "qaStatus": "unverified",
+      "note": "Network Gates are the interface point for the Allocation Matrix and Modification management."
+    },
+    {
+      "id": "c_egis_arena__nacre_basin_egis",
+      "type": "connector",
+      "fromZone": "z_egis_arena",
+      "toZone": "z_nacre_basin_egis",
+      "bidirectional": true,
+      "traversalGate": "m_map_unlock_stage_2_pause_menu_access",
+      "description": "Nacre Basin is hidden behind an icy gate just above the Egis arena",
+      "qaStatus": "unverified",
+      "note": "Accessible before or during the Egis fight for healing"
+    },
+    {
+      "id": "c_egis_arena__crow_arena",
+      "type": "connector",
+      "fromZone": "z_egis_arena",
+      "toZone": "z_crow_arena",
+      "bidirectional": false,
+      "traversalGate": "m_map_unlock_stage_2_pause_menu_access",
+      "description": "Progress after defeating Egis; climb to the top using Hairpin, then enter the hole in the left wall",
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "c_beginning__severed_spine",
+      "type": "connector",
+      "fromZone": "z_beginning",
+      "toZone": "z_severed_spine",
+      "bidirectional": false,
+      "traversalGate": "m_map_unlock_stage_2_pause_menu_access",
+      "description": "Player progresses from The Beginning into The Severed Spine as part of the opening path",
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "c_severed_spine__dwellings_6",
+      "type": "connector",
+      "fromZone": "z_severed_spine",
+      "toZone": "z_dwellings_6",
+      "bidirectional": false,
+      "traversalGate": "m_map_unlock_stage_2_pause_menu_access",
+      "description": "Player progresses from The Severed Spine to Dwellings #6",
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "c_severed_spine__feral_undergrowth",
+      "type": "connector",
+      "fromZone": "z_severed_spine",
+      "toZone": "z_feral_undergrowth",
+      "bidirectional": true,
+      "traversalGate": "m_unlock_mel_s_shop",
+      "description": "Player routes south/south-east from The Severed Spine through the Feral Undergrowth.",
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "c_feral_undergrowth__severed_spine",
+      "type": "connector",
+      "fromZone": "z_feral_undergrowth",
+      "toZone": "z_severed_spine",
+      "bidirectional": false,
+      "traversalGate": "m_unlock_mel_s_shop",
+      "description": "Circling back east through Feral Undergrowth leads to an accessible Crystallizer Robot near The Severed Spine.",
+      "qaStatus": "unverified",
+      "note": "The Crystallizer Robot is located east after traversing the Feral Undergrowth."
+    },
+    {
+      "id": "c_icy_cavern__frozen_ruins_platform",
+      "type": "connector",
+      "fromZone": "z_icy_cavern",
+      "toZone": "z_frozen_ruins_platform",
+      "bidirectional": false,
+      "traversalGate": "m_early_game_tips_covered",
+      "description": "Head west past the enemy and dwellings to reach the chest/challenge fight area",
+      "qaStatus": "unverified",
+      "note": "Direction is explicitly westward per transcript"
+    },
+    {
+      "id": "c_feral_undergrowth__spine_floor",
+      "type": "connector",
+      "fromZone": "z_feral_undergrowth",
+      "toZone": "z_spine_floor",
+      "bidirectional": false,
+      "traversalGate": "m_unlock_dodge_ability",
+      "description": "Return to elevator near game start with Aviary's Passport and ascend to level one (Spine Floor)",
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "c_spine_floor__haven",
+      "type": "connector",
+      "fromZone": "z_spine_floor",
+      "toZone": "z_haven",
+      "bidirectional": false,
+      "traversalGate": "m_unlock_dodge_ability",
+      "description": "Alternate progression path eastward through Haven; late-game route that also eventually yields Dodge without the passport shortcut",
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "c_dwellings__metropolis",
+      "type": "connector",
+      "fromZone": "z_dwellings",
+      "toZone": "z_metropolis",
+      "bidirectional": false,
+      "traversalGate": "m_unlock_shortcut_to_the_spine",
+      "description": "Main story progression path leads from The Dwellings into Metropolis.",
+      "qaStatus": "unverified"
+    },
+    {
+      "id": "c_dwellings__spine",
+      "type": "connector",
+      "fromZone": "z_dwellings",
+      "toZone": "z_spine",
+      "bidirectional": true,
+      "traversalGate": "m_unlock_shortcut_to_the_spine",
+      "description": "Shortcut unlocked after defeating ACAT, allowing fast travel back to The Spine.",
+      "qaStatus": "unverified",
+      "note": "Only available after ACAT is defeated"
+    },
+    {
+      "id": "c_haven__metropolis",
+      "type": "connector",
+      "fromZone": "z_haven",
+      "toZone": "z_metropolis",
+      "bidirectional": true,
+      "traversalGate": "m_cross_area_ability_progression",
+      "description": "Fast travel between the two main exploration areas",
+      "qaStatus": "unverified",
+      "note": "Player is explicitly told to fast travel between areas when stuck; white lines on map mark locked traversal points that require the other area's ability"
+    },
+    {
+      "id": "c_network_gate_room__spine",
+      "type": "connector",
+      "fromZone": "z_network_gate_room",
+      "toZone": "z_spine",
+      "bidirectional": true,
+      "traversalGate": "m_early_game_tips_covered",
+      "description": "Warp connection unlocked between a Network Gate and The Spine once the Torn Overseer for that area has been found.",
+      "qaStatus": "unverified",
+      "note": "Exit-to-main-menu reload also warps player back to last Network Gate as an alternative."
+    },
+    {
+      "id": "c_heart_cavern__memory_void",
+      "type": "connector",
+      "fromZone": "z_heart_cavern",
+      "toZone": "z_memory_void",
+      "bidirectional": false,
+      "traversalGate": "m_ati_keeper_of_the_heart_phase_transition",
+      "description": "Phase transition during ATI, Keeper Of The Heart boss fight shifts the battle from the physical crystalline cavern to an abstract white void",
+      "qaStatus": "unverified",
+      "note": "Triggered mid-fight; chain/progress UI in Memory Void suggests a multi-stage sequence"
+    }
+  ]
+}
