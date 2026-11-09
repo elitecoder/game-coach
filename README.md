@@ -2,7 +2,9 @@
 
 An AI coach for console games. It watches live gameplay from an HDMI capture card, builds a
 knowledge base for any game from wiki text and YouTube video, and answers questions without
-spoiling content the player hasn't reached yet. **Hollow Knight** was the first target game.
+spoiling content the player hasn't reached yet. It has knowledge bases for two games:
+**Hollow Knight**, the first target, and ***Memories in Orbit*** (MIO), added to test whether
+the pipeline generalizes.
 
 The project started as a *real-time* gameplay assistant. Measuring latency end to end showed that
 real-time coaching on this hardware hits physical limits, so the product became a coach you
@@ -70,6 +72,24 @@ yt-dlp.
   On the author's own footage the model makes fewer mistakes than the teacher that labeled its
   training data. Details: [`docs/damage-detector.md`](docs/damage-detector.md).
 
+## Games
+
+| | Hollow Knight | *Memories in Orbit* (MIO) |
+|---|---|---|
+| Sources (`ingest/sources/`) | 8 wiki/guide pages + 3 YouTube videos | 9 wiki/guide pages + 2 YouTube videos |
+| Graph nodes | 480: 58 zones, 30 bosses, 42 abilities, 121 objectives, 41 connectors, 188 lattice | 464: 69 zones, 39 bosses, 51 abilities, 92 objectives, 16 connectors, 197 lattice |
+| Auto-QA | Silksong contamination removed (Pharloom, Bonebottom, Needle/Silk), 0 escalations | Real entities like ATI, Dr Halyn's bosses and Nacre kept after being wrongly dropped by an earlier version; corroborated entities 14 → 57; 0 escalations |
+| Q&A (`coach review`) and retrieval index | yes | yes |
+| RAG eval set (`rag/eval-sets/`) | 6 questions | 6 questions |
+| Live overlay (`coach watch`) | yes (hand-written routes in `coach/goal.ts`) | not yet |
+| Spoiler red-team eval | yes | not yet |
+| Damage detector | yes | not yet |
+
+MIO is the generality test. The model knows little about it from pretraining, nothing about it was
+hand-authored, and adding it took only `ingest/sources/memories-in-orbit.json`. Every MIO zone,
+boss and ability in its graph came out of the ingestion pipeline. `ingest`, `coach review` and the RAG
+commands take `memories-in-orbit` as the game argument.
+
 ## Architecture
 
 ```mermaid
@@ -130,6 +150,7 @@ npx tsx src/cli.ts start --source=file:/path/to/gameplay.mp4
 
 # coaching (capture running, API key set)
 npm run guide -- review hollow-knight "how do I beat the Mantis Lords?" --sources
+npm run guide -- review memories-in-orbit "how do I beat Egis?" --sources
 npm run guide -- watch hollow-knight --goal=map
 
 # rebuild a knowledge base (extractions are cached)
