@@ -48,23 +48,27 @@ yt-dlp.
 - **Live overlay** (`coach/`). Mirrors the captured frame and draws an arrow from the player to the
   on-screen target with a 1–4 word instruction ("jump right to ledge") and a hazard warning.
 - **A damage detector trained without the HUD** (`perception/`). A classical-CV HUD reader (the
-  "teacher") counts the health masks on screen and auto-labeled **4,916 damage events across
-  37.9 hours** of a 62-hour YouTube corpus, with no human labeling. A 1.4M-parameter
+  "teacher") counts the health masks on screen and auto-labeled **4,878 damage events across
+  45.6 hours** of a 62-hour YouTube corpus, with no human labeling. A 1.4M-parameter
   video+audio CNN (the "student") was then trained to detect damage with the HUD **blacked out**,
   so it works where no HUD is readable. Results with thresholds fixed on validation videos
   before testing:
 
-  | Held-out set | Student F1 | No-training flash baseline F1 |
+  | Held-out set | Student | No-training flash baseline |
   |---|---|---|
-  | 3 test playthroughs (different channels), 623 hits | **0.70** (P 0.84, R 0.61) | 0.18 |
-  | Gruz Mother: own Switch capture, 1080p, video only | **6/6 hits, 0 false alarms** | 0.17 |
-  | False Knight: 3 YouTube guide videos, 12 hits | 0.45 | 0.07 |
+  | 3 test playthroughs (different channels), 829 hits | **F1 0.71** (P 0.95, R 0.56) | F1 0.16 |
+  | Own Switch capture: 1.2 h, 1080p, video only, checked by hand | **27 of 29 real hits, 0 false alarms** | 1 hit |
+  | False Knight: 3 YouTube guide videos, 10 hits | F1 0.56 | F1 0.06 |
 
   It isn't just detecting "a fight is happening": scored only on the 20-second windows around
-  hits, average precision stays at 0.75–0.80 against a 5–11% base rate. An audit of its errors
-  found that most "false positives" were real hits the teacher missed (e.g. hits right before a
-  death or respawn), so the measured precision understates it. Details:
-  [`docs/damage-detector.md`](docs/damage-detector.md).
+  hits, average precision is 0.66–0.89 against a 5–9% base rate. Auditing the teacher by eye
+  found three label bugs, each fixed before the current model was trained:
+  - It treated an empty soul vessel as "no HUD", so every low-soul moment was unlabeled.
+  - It misread masks against bright backgrounds.
+  - It discarded hazard hits, because the screen fades to black on respawn.
+
+  On the author's own footage the model makes fewer mistakes than the teacher that labeled its
+  training data. Details: [`docs/damage-detector.md`](docs/damage-detector.md).
 
 ## Architecture
 
@@ -174,10 +178,11 @@ This is a research prototype, not a product. The open problems, stated plainly:
   the Hollow Knight order are wrong, which breaks "what's next" questions.
 - **Some contamination remains.** The verifier removes most Silksong entities, but a few
   references are still in the Hollow Knight graph.
-- **The damage detector is a first model.** It relies almost entirely on video (audio alone scores
-  well below video, and YouTube commentary drowns out the game sound). It detects damage, not
-  deaths, and recall (0.61) is limited by teacher labels that skip hits near deaths and transitions.
-  The test sets are scored against the teacher, so they inherit its noise.
+- **The damage detector favors precision over recall.** Recall against the teacher is about
+  0.56, with precision about 0.95. Audio adds little: YouTube commentary drowns out the game
+  sound, and the capture daemon currently drops audio. Killing blows and deaths aren't modeled,
+  and bright arenas (Colosseum, White Palace, Godhome) are mostly unlabeled. The hand-checked own
+  footage is one session with 29 hits.
 
 Gameplay footage and raw scraped sources aren't included in this repo (they're gitignored); the
 fetch scripts recreate them. Hollow Knight is © Team Cherry and *Memories in Orbit* belongs to its

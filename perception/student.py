@@ -23,6 +23,7 @@ MEL_LEN = (WIN_BEFORE + WIN_AFTER + 1) * MEL_HZ // FPS  # 200
 MAX_DROP = 2  # larger drops are edits/cuts/save swaps in YouTube footage, not damage
 GAP_FILL = 4  # bridge HUD read dropouts up to 1 s
 PERSIST = 8  # a hit needs 2 s of readable HUD before and after
+HAZARD_GAP = 16  # hazard respawn fade: up to 4 s of no HUD
 
 
 # ---------- teacher -> events ----------
@@ -65,8 +66,32 @@ def teacher_events(masks):
             before, after = s[max(0, i - PERSIST):i], s[i:i + PERSIST]
             stable = len(before) == PERSIST and len(after) == PERSIST and (before >= 0).all() \
                 and (after >= 0).all() and after.max() < s[i - 1]
-            (hits if stable and s[i - 1] - s[i] <= MAX_DROP else ignore).append(i - 1)
-    return np.array(hits, int), np.array(ignore, int), s >= 0
+            # If smoothing bridged a HUD dropout (hazard hits fade to black), the contact is just
+            # before the dropout, not where the HUD comes back.
+            j = i - 1
+            while j > i - 1 - GAP_FILL and masks[j] < 0:
+                j -= 1
+            (hits if stable and s[i - 1] - s[i] <= MAX_DROP else ignore).append(j)
+    # Hazard hits (spikes, acid, pits): the screen fades out for 1-4 s and the HUD comes back
+    # 1-2 masks lower and stays there. Deaths come back full and room transitions unchanged.
+    i = 0
+    while i < len(s):
+        if s[i] >= 0:
+            i += 1
+            continue
+        j = i
+        while j < len(s) and s[j] < 0:
+            j += 1
+        if j - i <= HAZARD_GAP and i >= PERSIST and j + PERSIST <= len(s):
+            before, after = s[i - PERSIST:i], s[j:j + PERSIST]
+            if (before >= 0).all() and (after >= 0).all() and (before == before[-1]).all() \
+                    and (after == after[0]).all() and 1 <= before[-1] - after[0] <= MAX_DROP:
+                k = i - 1  # smoothing forward-filled into the fade; the contact is before the raw dropout
+                while k > i - 1 - GAP_FILL and masks[k] < 0:
+                    k -= 1
+                hits.append(k)
+        i = j
+    return np.array(sorted(hits), int), np.array(ignore, int), s >= 0
 
 
 def step_labels(masks):
@@ -385,7 +410,7 @@ def cmd_calibrate(cache, run, val):
                 s[ts] = score_items(model, {src.name: src}, [(src.name, t) for t in ts], dev, mode)
             per.append((np.where(src.y >= 0, s, 0), src.hits))
         cands = []
-        for thr in np.linspace(0.05, 0.95, 37):
+        for thr in np.r_[np.linspace(0.05, 0.95, 37), 0.96, 0.97, 0.98, 0.99, 0.995]:  # confident models peak high
             tp = npred = ntruth = 0
             for s, truth in per:
                 pr = peaks(s, thr)

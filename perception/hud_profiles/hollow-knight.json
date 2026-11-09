@@ -1,6 +1,6 @@
 {
   "game": "hollow-knight",
-  "note": "Gate on vessel-circle anchor>=0.15 (clean gameplay/non-gameplay separator at 360p+); luma only flags pure-black.",
+  "note": "HUD present = swoosh above the soul vessel >= 0.12 bright AND >= 1 mask. Swoosh is ~0.3 on the normal HUD (0.14 on the silver late-game frame) at any soul level; 0.11 on the map, <0.06 in menus. Mask row rejected when >20% bright or its 25th-pct luma >90 (normal play: <=0.17 / <=75).",
   "roi_x": [
     0.145,
     0.41
@@ -12,14 +12,16 @@
   "bright_thresh": 150,
   "min_col_frac": 0.1,
   "min_run_frac": 0.0065,
-  "anchor_x": [
-    0.04,
-    0.12
+  "black_luma_max": 2,
+  "swoosh_x": [
+    0.075,
+    0.14
   ],
-  "anchor_y": [
+  "swoosh_y": [
     0.06,
-    0.2
+    0.1
   ],
-  "anchor_min_frac": 0.15,
-  "black_luma_max": 2
+  "swoosh_min_frac": 0.12,
+  "roi_max_bright_frac": 0.2,
+  "roi_max_p25": 90
 }

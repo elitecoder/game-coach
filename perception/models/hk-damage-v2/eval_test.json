@@ -1,0 +1,271 @@
+{
+ "G1atkq4C1KU": {
+  "teacher_hits": 504,
+  "hud_hours": 2.59,
+  "has_audio": true,
+  "fused": {
+   "step_ap": 0.753,
+   "thr": 0.97,
+   "pred": 273,
+   "tp": 272,
+   "precision": 0.996,
+   "recall": 0.54,
+   "f1": 0.7
+  },
+  "video": {
+   "step_ap": 0.753,
+   "thr": 0.97,
+   "pred": 274,
+   "tp": 270,
+   "precision": 0.985,
+   "recall": 0.536,
+   "f1": 0.694
+  },
+  "audio": {
+   "step_ap": 0.382,
+   "thr": 0.225,
+   "pred": 296,
+   "tp": 227,
+   "precision": 0.767,
+   "recall": 0.45,
+   "f1": 0.568
+  },
+  "baseline": {
+   "step_ap": 0.052,
+   "thr": 0.1,
+   "pred": 1191,
+   "tp": 115,
+   "precision": 0.097,
+   "recall": 0.228,
+   "f1": 0.136
+  }
+ },
+ "WwHuCOzSAZk": {
+  "teacher_hits": 255,
+  "hud_hours": 0.88,
+  "has_audio": true,
+  "fused": {
+   "step_ap": 0.635,
+   "thr": 0.97,
+   "pred": 160,
+   "tp": 139,
+   "precision": 0.869,
+   "recall": 0.545,
+   "f1": 0.67
+  },
+  "video": {
+   "step_ap": 0.631,
+   "thr": 0.97,
+   "pred": 161,
+   "tp": 139,
+   "precision": 0.863,
+   "recall": 0.545,
+   "f1": 0.668
+  },
+  "audio": {
+   "step_ap": 0.093,
+   "thr": 0.225,
+   "pred": 15,
+   "tp": 6,
+   "precision": 0.4,
+   "recall": 0.024,
+   "f1": 0.044
+  },
+  "baseline": {
+   "step_ap": 0.098,
+   "thr": 0.1,
+   "pred": 654,
+   "tp": 116,
+   "precision": 0.177,
+   "recall": 0.455,
+   "f1": 0.255
+  }
+ },
+ "K4A2RqfKmc0": {
+  "teacher_hits": 70,
+  "hud_hours": 0.8,
+  "has_audio": true,
+  "fused": {
+   "step_ap": 0.867,
+   "thr": 0.97,
+   "pred": 55,
+   "tp": 54,
+   "precision": 0.982,
+   "recall": 0.771,
+   "f1": 0.864
+  },
+  "video": {
+   "step_ap": 0.851,
+   "thr": 0.97,
+   "pred": 51,
+   "tp": 50,
+   "precision": 0.98,
+   "recall": 0.714,
+   "f1": 0.826
+  },
+  "audio": {
+   "step_ap": 0.451,
+   "thr": 0.225,
+   "pred": 80,
+   "tp": 45,
+   "precision": 0.562,
+   "recall": 0.643,
+   "f1": 0.6
+  },
+  "baseline": {
+   "step_ap": 0.022,
+   "thr": 0.1,
+   "pred": 860,
+   "tp": 46,
+   "precision": 0.053,
+   "recall": 0.657,
+   "f1": 0.099
+  }
+ },
+ "fk_aSQjIsbXx_8": {
+  "teacher_hits": 5,
+  "hud_hours": 0.03,
+  "has_audio": true,
+  "fused": {
+   "step_ap": 0.636,
+   "thr": 0.97,
+   "pred": 2,
+   "tp": 2,
+   "precision": 1.0,
+   "recall": 0.4,
+   "f1": 0.571
+  },
+  "video": {
+   "step_ap": 0.594,
+   "thr": 0.97,
+   "pred": 2,
+   "tp": 2,
+   "precision": 1.0,
+   "recall": 0.4,
+   "f1": 0.571
+  },
+  "audio": {
+   "step_ap": 0.555,
+   "thr": 0.225,
+   "pred": 2,
+   "tp": 2,
+   "precision": 1.0,
+   "recall": 0.4,
+   "f1": 0.571
+  },
+  "baseline": {
+   "step_ap": 0.05,
+   "thr": 0.1,
+   "pred": 68,
+   "tp": 5,
+   "precision": 0.074,
+   "recall": 1.0,
+   "f1": 0.137
+  }
+ },
+ "fk_parvX5x9mR4": {
+  "teacher_hits": 2,
+  "hud_hours": 0.04,
+  "has_audio": true,
+  "fused": {
+   "step_ap": 0.505,
+   "thr": 0.97,
+   "pred": 2,
+   "tp": 1,
+   "precision": 0.5,
+   "recall": 0.5,
+   "f1": 0.5
+  },
+  "video": {
+   "step_ap": 0.507,
+   "thr": 0.97,
+   "pred": 2,
+   "tp": 1,
+   "precision": 0.5,
+   "recall": 0.5,
+   "f1": 0.5
+  },
+  "audio": {
+   "step_ap": 0.008,
+   "thr": 0.225,
+   "pred": 0,
+   "tp": 0,
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0
+  },
+  "baseline": {
+   "step_ap": 0.022,
+   "thr": 0.1,
+   "pred": 73,
+   "tp": 2,
+   "precision": 0.027,
+   "recall": 1.0,
+   "f1": 0.053
+  }
+ },
+ "fk_yB4EznOj0aU": {
+  "teacher_hits": 3,
+  "hud_hours": 0.1,
+  "has_audio": true,
+  "fused": {
+   "step_ap": 0.682,
+   "thr": 0.97,
+   "pred": 4,
+   "tp": 2,
+   "precision": 0.5,
+   "recall": 0.667,
+   "f1": 0.571
+  },
+  "video": {
+   "step_ap": 0.719,
+   "thr": 0.97,
+   "pred": 4,
+   "tp": 2,
+   "precision": 0.5,
+   "recall": 0.667,
+   "f1": 0.571
+  },
+  "audio": {
+   "step_ap": 0.354,
+   "thr": 0.225,
+   "pred": 3,
+   "tp": 1,
+   "precision": 0.333,
+   "recall": 0.333,
+   "f1": 0.333
+  },
+  "baseline": {
+   "step_ap": 0.006,
+   "thr": 0.1,
+   "pred": 103,
+   "tp": 0,
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0
+  }
+ },
+ "own_capture": {
+  "teacher_hits": 31,
+  "hud_hours": 1.2,
+  "has_audio": false,
+  "video": {
+   "step_ap": 0.956,
+   "thr": 0.97,
+   "pred": 27,
+   "tp": 27,
+   "precision": 1.0,
+   "recall": 0.871,
+   "f1": 0.931
+  },
+  "baseline": {
+   "step_ap": 0.029,
+   "thr": 0.1,
+   "pred": 39,
+   "tp": 1,
+   "precision": 0.026,
+   "recall": 0.032,
+   "f1": 0.029
+  }
+ }
+}

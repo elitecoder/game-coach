@@ -14,3 +14,4 @@ AMAZON_*.md
 training/cache/
 training/gruz_capture.txt
 training/runs/
+training/own_capture.txt

@@ -8,6 +8,8 @@
 Steps are at FPS (4) from the start of the source. Usage:
   build_cache.py <hud_profile.json> <out_dir> <name>=<video_or_concat_list> [...]
 A source ending in .txt is an ffmpeg concat list (used for the Switch capture ring).
+--masks-only re-runs just the teacher into an existing cache (after a HUD-profile change) and
+leaves frames and audio untouched.
 """
 import json, os, subprocess, sys
 from multiprocessing import Pool
@@ -41,12 +43,13 @@ def probe(src):
     return v["width"], v["height"], float(dur), has_audio
 
 
-def video_pass(name, src, prof, out):
+def video_pass(name, src, prof, out, masks_only=False):
     w, h, dur, has_audio = probe(src)
     if h > 480:  # teacher thresholds are fractional; 480p is plenty and 4x cheaper than 1080p
         w, h = 854, 480
     n_alloc = int(dur * FPS) + 16
-    frames = np.lib.format.open_memmap(f"{out}/{name}.frames.tmp.npy", "w+", np.uint8, (n_alloc, SH, SW, 3))
+    frames = None if masks_only else np.lib.format.open_memmap(
+        f"{out}/{name}.frames.tmp.npy", "w+", np.uint8, (n_alloc, SH, SW, 3))
     masks = np.full(n_alloc, -1, np.int8)
     hx, hy = int(HUD_BOX[0] * SW), int(HUD_BOX[1] * SH)
     proc = subprocess.Popen(["ffmpeg", "-v", "error", *ff_input(src), "-an", "-vf",
@@ -61,12 +64,17 @@ def video_pass(name, src, prof, out):
         gray = np.asarray(Image.fromarray(rgb).convert("L"))
         ok, _ = hud_present(gray, prof)
         masks[n] = count_masks(gray, prof) if ok else -1
+        n += 1
+        if masks_only:
+            continue
         small = np.asarray(Image.fromarray(rgb).resize((SW, SH), Image.BOX)).copy()
         small[:hy, :hx] = 0
-        frames[n] = small
-        n += 1
+        frames[n - 1] = small
     proc.stdout.close()
     proc.wait()
+    if masks_only:
+        np.save(f"{out}/{name}.masks.npy", masks[:n])
+        return n, dur, has_audio, (w, h)
     frames.flush()
     del frames
     # trim to the real frame count
@@ -113,10 +121,18 @@ def build(job):
 
 
 def _build(job):
-    name, src, prof_path, out = job
+    name, src, prof_path, out, masks_only = job
+    prof = json.load(open(prof_path))
+    if masks_only:
+        meta = json.load(open(f"{out}/{name}.meta.json"))
+        n = video_pass(name, src, prof, out, masks_only=True)[0]
+        if n != meta["steps"]:
+            return name, f"FAILED step count {n} != cached {meta['steps']}"
+        before, meta["hud_steps"] = meta["hud_steps"], int((np.load(f"{out}/{name}.masks.npy") >= 0).sum())
+        json.dump(meta, open(f"{out}/{name}.meta.json", "w"), indent=1)
+        return name, f"hud steps {before} -> {meta['hud_steps']} of {n}"
     if os.path.exists(f"{out}/{name}.meta.json"):
         return name, "cached"
-    prof = json.load(open(prof_path))
     n, dur, has_audio, wh = video_pass(name, src, prof, out)
     if has_audio:
         audio_pass(name, src, out)
@@ -128,9 +144,10 @@ def _build(job):
 
 
 if __name__ == "__main__":
-    prof, out, *pairs = sys.argv[1:]
+    masks_only = "--masks-only" in sys.argv
+    prof, out, *pairs = [a for a in sys.argv[1:] if a != "--masks-only"]
     os.makedirs(out, exist_ok=True)
-    jobs = [(p.split("=", 1)[0], p.split("=", 1)[1], prof, out) for p in pairs]
+    jobs = [(p.split("=", 1)[0], p.split("=", 1)[1], prof, out, masks_only) for p in pairs]
     with Pool(min(len(jobs), max(1, os.cpu_count() - 2))) as pool:
         for name, msg in pool.imap_unordered(build, jobs):
             print(f"{name}: {msg}", flush=True)
